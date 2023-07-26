@@ -1,2217 +1,2217 @@
 ID,Recency,Frequency,Monetary,Recency_score,Frequency_score,Monetary_score,Segment
-5524,58,22,1617,2,4,4,At risk
+5524,58,22,1617,2,4,4,Can't lose them
 2174,38,4,27,3,1,1,About to sleep
-4141,26,20,776,3,4,3,Loyal Customer
+4141,26,20,776,3,4,3,Can't lose them
 6182,26,6,53,3,1,1,About to sleep
-5324,94,14,422,1,3,3,At risk
-7446,16,20,716,4,4,3,Loyal Customer
-965,34,17,590,3,3,3,Need Attention
-6177,32,8,169,3,2,2,About to sleep
-4855,19,5,46,4,1,1,Promising
-5899,68,1,49,2,1,1,Hibernating
-387,59,5,61,2,1,1,Hibernating
-2125,82,15,1102,1,3,4,At risk
-8180,53,12,310,2,2,2,Hibernating
+5324,94,14,422,1,3,3,Potential Loyalist
+7446,16,20,716,4,4,3,Once loyal
+965,34,17,590,3,3,3,Need attention
+6177,32,8,169,3,2,2,Need attention
+4855,19,5,46,4,1,1,Hibernating
+5899,68,1,49,2,1,1,About to sleep
+387,59,5,61,2,1,1,About to sleep
+2125,82,15,1102,1,3,4,Potential Loyalist
+8180,53,12,310,2,2,2,Need attention
 2569,38,4,46,3,1,1,About to sleep
-2114,23,25,1315,4,4,4,Loyal Customer
-9736,51,6,96,2,1,2,Hibernating
-4939,20,11,317,4,2,2,Potential Customer
-6565,91,24,1782,1,4,4,At risk
-2278,86,6,133,1,1,2,Hibernating
-9360,41,11,316,3,2,2,About to sleep
-5376,42,28,1730,3,4,4,Loyal Customer
-1993,63,14,972,2,3,3,At risk
-4047,0,17,544,4,3,3,Potential Customer
-1409,69,13,444,2,3,3,At risk
-7892,89,6,75,1,1,2,Hibernating
-2404,4,10,257,4,2,2,Potential Customer
-9422,26,7,131,3,2,2,About to sleep
-1966,96,25,1672,1,4,4,At risk
+2114,23,25,1315,4,4,4,Once loyal
+9736,51,6,96,2,1,2,About to sleep
+4939,20,11,317,4,2,2,Lost customer
+6565,91,24,1782,1,4,4,Loyal customer
+2278,86,6,133,1,1,2,New Customer
+9360,41,11,316,3,2,2,Need attention
+5376,42,28,1730,3,4,4,Can't lose them
+1993,63,14,972,2,3,3,Need attention
+4047,0,17,544,4,3,3,Lost customer
+1409,69,13,444,2,3,3,Need attention
+7892,89,6,75,1,1,2,New Customer
+2404,4,10,257,4,2,2,Lost customer
+9422,26,7,131,3,2,2,Need attention
+1966,96,25,1672,1,4,4,Loyal customer
 6864,34,6,30,3,1,1,About to sleep
-3033,56,10,318,2,2,2,Hibernating
-5710,31,7,120,3,2,2,About to sleep
-7373,8,11,302,4,2,2,Potential Customer
-8755,4,17,1196,4,3,4,Potential Customer
-10738,55,5,65,2,1,1,Hibernating
-4339,37,23,913,3,4,3,Loyal Customer
-10755,76,6,81,1,1,2,Hibernating
-8595,99,5,67,1,1,1,Hibernating
-2968,53,22,902,2,4,3,At risk
-8601,3,19,1395,4,4,4,Loyal Customer
-503,88,5,53,1,1,1,Hibernating
-8430,4,3,22,4,1,1,Promising
-2139,19,5,31,4,1,1,Promising
-1371,72,15,984,2,3,3,At risk
-9909,24,7,122,4,2,2,Potential Customer
-7286,92,4,55,1,1,1,Hibernating
-6566,39,19,1319,3,4,4,Loyal Customer
-8614,29,16,507,3,3,3,Need Attention
-4114,2,28,1693,4,4,4,Loyal Customer
-1331,54,5,72,2,1,2,Hibernating
-2225,54,20,1617,2,4,4,At risk
-9381,57,16,606,2,3,3,At risk
-6260,55,26,1957,2,4,4,At risk
-10383,30,20,1093,3,4,4,Loyal Customer
+3033,56,10,318,2,2,2,Need attention
+5710,31,7,120,3,2,2,Need attention
+7373,8,11,302,4,2,2,Lost customer
+8755,4,17,1196,4,3,4,Lost customer
+10738,55,5,65,2,1,1,About to sleep
+4339,37,23,913,3,4,3,Can't lose them
+10755,76,6,81,1,1,2,New Customer
+8595,99,5,67,1,1,1,New Customer
+2968,53,22,902,2,4,3,Can't lose them
+8601,3,19,1395,4,4,4,Once loyal
+503,88,5,53,1,1,1,New Customer
+8430,4,3,22,4,1,1,Hibernating
+2139,19,5,31,4,1,1,Hibernating
+1371,72,15,984,2,3,3,Need attention
+9909,24,7,122,4,2,2,Lost customer
+7286,92,4,55,1,1,1,New Customer
+6566,39,19,1319,3,4,4,Can't lose them
+8614,29,16,507,3,3,3,Need attention
+4114,2,28,1693,4,4,4,Once loyal
+1331,54,5,72,2,1,2,About to sleep
+2225,54,20,1617,2,4,4,Can't lose them
+9381,57,16,606,2,3,3,Need attention
+6260,55,26,1957,2,4,4,Can't lose them
+10383,30,20,1093,3,4,4,Can't lose them
 7437,31,5,29,3,1,1,About to sleep
-8375,63,16,518,2,3,3,At risk
-6853,12,20,1438,4,4,4,Loyal Customer
-3076,18,18,612,4,3,3,Potential Customer
-1012,26,20,884,3,4,3,Loyal Customer
-6518,8,18,606,4,3,3,Potential Customer
-4137,29,15,1076,3,3,4,Need Attention
-8082,75,4,34,1,1,1,Hibernating
-1386,0,3,11,4,1,1,Promising
-9369,19,31,1274,4,4,4,Loyal Customer
-4477,4,17,653,4,3,3,Potential Customer
-1357,90,12,1562,1,2,4,Hibernating
-1402,1,18,1253,4,3,4,Potential Customer
-6312,29,26,863,3,4,3,Loyal Customer
-8132,88,19,661,1,4,3,At risk
-1050,58,7,65,2,2,1,Hibernating
-5846,68,3,13,2,1,1,Hibernating
-1859,34,18,1890,3,3,4,Need Attention
-7503,40,22,2209,3,4,4,Loyal Customer
-10401,12,3,18,4,1,1,Promising
-1618,9,19,692,4,4,3,Loyal Customer
-3332,87,8,165,1,2,2,Hibernating
-2261,5,3,16,4,1,1,Promising
-5346,87,6,79,1,1,2,Hibernating
-4119,56,10,318,2,2,2,Hibernating
-535,18,26,778,4,4,3,Loyal Customer
-5268,95,5,56,1,1,1,Hibernating
-273,48,8,151,3,2,2,About to sleep
-4452,3,13,372,4,3,2,Potential Customer
-8504,70,18,1366,2,3,4,At risk
-771,79,9,194,1,2,2,Hibernating
-11178,69,4,32,2,1,1,Hibernating
-2230,84,7,43,1,2,1,Hibernating
+8375,63,16,518,2,3,3,Need attention
+6853,12,20,1438,4,4,4,Once loyal
+3076,18,18,612,4,3,3,Lost customer
+1012,26,20,884,3,4,3,Can't lose them
+6518,8,18,606,4,3,3,Lost customer
+4137,29,15,1076,3,3,4,Need attention
+8082,75,4,34,1,1,1,New Customer
+1386,0,3,11,4,1,1,Hibernating
+9369,19,31,1274,4,4,4,Once loyal
+4477,4,17,653,4,3,3,Lost customer
+1357,90,12,1562,1,2,4,Potential Loyalist
+1402,1,18,1253,4,3,4,Lost customer
+6312,29,26,863,3,4,3,Can't lose them
+8132,88,19,661,1,4,3,Loyal customer
+1050,58,7,65,2,2,1,Need attention
+5846,68,3,13,2,1,1,About to sleep
+1859,34,18,1890,3,3,4,Need attention
+7503,40,22,2209,3,4,4,Can't lose them
+10401,12,3,18,4,1,1,Hibernating
+1618,9,19,692,4,4,3,Once loyal
+3332,87,8,165,1,2,2,Potential Loyalist
+2261,5,3,16,4,1,1,Hibernating
+5346,87,6,79,1,1,2,New Customer
+4119,56,10,318,2,2,2,Need attention
+535,18,26,778,4,4,3,Once loyal
+5268,95,5,56,1,1,1,New Customer
+273,48,8,151,3,2,2,Need attention
+4452,3,13,372,4,3,2,Lost customer
+8504,70,18,1366,2,3,4,Need attention
+771,79,9,194,1,2,2,Potential Loyalist
+11178,69,4,32,2,1,1,About to sleep
+2230,84,7,43,1,2,1,Potential Loyalist
 7516,30,5,45,3,1,1,About to sleep
-7247,72,17,606,2,3,3,At risk
+7247,72,17,606,2,3,3,Need attention
 11100,37,5,63,3,1,1,About to sleep
-4646,44,24,978,3,4,3,Loyal Customer
-3037,32,14,410,3,3,3,Need Attention
-1473,0,5,72,4,1,2,Promising
+4646,44,24,978,3,4,3,Can't lose them
+3037,32,14,410,3,3,3,Need attention
+1473,0,5,72,4,1,2,Hibernating
 1016,43,5,55,3,1,1,About to sleep
-4518,59,25,1169,2,4,4,At risk
-9370,68,15,1120,2,3,4,At risk
-8908,35,19,1097,3,4,4,Loyal Customer
-8373,94,4,29,1,1,1,Hibernating
-7533,15,9,187,4,2,2,Potential Customer
-2683,56,22,910,2,4,3,At risk
-3629,17,7,145,4,2,2,Potential Customer
-10991,18,13,850,4,3,3,Potential Customer
-5077,46,23,969,3,4,3,Loyal Customer
-7431,40,16,1820,3,3,4,Need Attention
-3267,27,17,608,3,3,3,Need Attention
-999,95,24,730,1,4,3,At risk
-9215,19,16,551,4,3,3,Potential Customer
+4518,59,25,1169,2,4,4,Can't lose them
+9370,68,15,1120,2,3,4,Need attention
+8908,35,19,1097,3,4,4,Can't lose them
+8373,94,4,29,1,1,1,New Customer
+7533,15,9,187,4,2,2,Lost customer
+2683,56,22,910,2,4,3,Can't lose them
+3629,17,7,145,4,2,2,Lost customer
+10991,18,13,850,4,3,3,Lost customer
+5077,46,23,969,3,4,3,Can't lose them
+7431,40,16,1820,3,3,4,Need attention
+3267,27,17,608,3,3,3,Need attention
+999,95,24,730,1,4,3,Loyal customer
+9215,19,16,551,4,3,3,Lost customer
 2286,27,6,114,3,1,2,About to sleep
-1592,25,15,1724,3,3,4,Need Attention
-367,74,15,577,2,3,3,At risk
-5234,85,5,81,1,1,2,Hibernating
+1592,25,15,1724,3,3,4,Need attention
+367,74,15,577,2,3,3,Need attention
+5234,85,5,81,1,1,2,New Customer
 9862,37,5,33,3,1,1,About to sleep
-9805,65,18,660,2,3,3,At risk
-6205,13,6,80,4,1,2,Promising
-8442,63,4,30,2,1,1,Hibernating
-7386,83,4,43,1,1,1,Hibernating
-7215,69,27,1135,2,4,4,At risk
-1491,87,14,559,1,3,3,At risk
-11071,37,15,1923,3,3,4,Need Attention
-3381,51,6,90,2,1,2,Hibernating
-11051,72,19,661,2,4,3,At risk
-8026,10,14,463,4,3,3,Potential Customer
-433,42,18,632,3,3,3,Need Attention
-9597,10,18,725,4,3,3,Potential Customer
-5290,51,11,279,2,2,2,Hibernating
-1685,21,22,1482,4,4,4,Loyal Customer
+9805,65,18,660,2,3,3,Need attention
+6205,13,6,80,4,1,2,Hibernating
+8442,63,4,30,2,1,1,About to sleep
+7386,83,4,43,1,1,1,New Customer
+7215,69,27,1135,2,4,4,Can't lose them
+1491,87,14,559,1,3,3,Potential Loyalist
+11071,37,15,1923,3,3,4,Need attention
+3381,51,6,90,2,1,2,About to sleep
+11051,72,19,661,2,4,3,Can't lose them
+8026,10,14,463,4,3,3,Lost customer
+433,42,18,632,3,3,3,Need attention
+9597,10,18,725,4,3,3,Lost customer
+5290,51,11,279,2,2,2,Need attention
+1685,21,22,1482,4,4,4,Once loyal
 5342,31,4,29,3,1,1,About to sleep
-9579,61,6,106,2,1,2,Hibernating
+9579,61,6,106,2,1,2,About to sleep
 7660,37,4,49,3,1,1,About to sleep
-1461,74,5,38,2,1,1,Hibernating
-821,46,21,2077,3,4,4,Loyal Customer
-11084,4,15,1053,4,3,4,Potential Customer
-8690,73,22,1385,2,4,4,At risk
-2937,47,22,871,3,4,3,Loyal Customer
-9701,13,9,312,4,2,2,Potential Customer
-9949,36,12,877,3,2,3,About to sleep
+1461,74,5,38,2,1,1,About to sleep
+821,46,21,2077,3,4,4,Can't lose them
+11084,4,15,1053,4,3,4,Lost customer
+8690,73,22,1385,2,4,4,Can't lose them
+2937,47,22,871,3,4,3,Can't lose them
+9701,13,9,312,4,2,2,Lost customer
+9949,36,12,877,3,2,3,Need attention
 10837,47,5,68,3,1,1,About to sleep
 3120,49,3,22,3,1,1,About to sleep
-5885,94,9,211,1,2,2,Hibernating
-4050,65,7,127,2,2,2,Hibernating
-3830,59,15,459,2,3,3,At risk
-7987,96,15,460,1,3,3,At risk
-7798,28,13,429,3,3,3,Need Attention
-92,12,7,89,4,2,2,Potential Customer
-7055,57,24,1021,2,4,3,At risk
-10240,10,20,1381,4,4,4,Loyal Customer
-3025,4,12,306,4,2,2,Potential Customer
+5885,94,9,211,1,2,2,Potential Loyalist
+4050,65,7,127,2,2,2,Need attention
+3830,59,15,459,2,3,3,Need attention
+7987,96,15,460,1,3,3,Potential Loyalist
+7798,28,13,429,3,3,3,Need attention
+92,12,7,89,4,2,2,Lost customer
+7055,57,24,1021,2,4,3,Can't lose them
+10240,10,20,1381,4,4,4,Once loyal
+3025,4,12,306,4,2,2,Lost customer
 9283,49,3,18,3,1,1,About to sleep
-9970,3,8,162,4,2,2,Potential Customer
-2730,64,17,1231,2,3,4,At risk
-2795,0,3,13,4,1,1,Promising
-9260,20,25,1706,4,4,4,Loyal Customer
-8182,91,7,121,1,2,2,Hibernating
-10095,9,19,1293,4,4,4,Loyal Customer
-8475,98,22,1608,1,4,4,At risk
-4370,83,6,88,1,1,2,Hibernating
-10573,27,17,421,3,3,3,Need Attention
-3712,63,11,259,2,2,2,Hibernating
-6637,46,14,1117,3,3,4,Need Attention
-3152,84,6,89,1,1,2,Hibernating
-5610,58,4,36,2,1,1,Hibernating
-6460,78,5,57,1,1,1,Hibernating
-1349,4,7,148,4,2,2,Potential Customer
-1880,17,6,93,4,1,2,Promising
-641,77,6,119,1,1,2,Hibernating
-8717,56,27,1835,2,4,4,At risk
-10314,79,24,1318,1,4,4,At risk
-10854,90,5,45,1,1,1,Hibernating
-10492,96,3,10,1,1,1,Hibernating
-6935,44,24,978,3,4,3,Loyal Customer
-7698,81,9,191,1,2,2,Hibernating
-3559,77,6,57,1,1,1,Hibernating
-10562,21,23,1033,4,4,3,Loyal Customer
-10796,16,5,66,4,1,1,Promising
-2563,80,5,43,1,1,1,Hibernating
+9970,3,8,162,4,2,2,Lost customer
+2730,64,17,1231,2,3,4,Need attention
+2795,0,3,13,4,1,1,Hibernating
+9260,20,25,1706,4,4,4,Once loyal
+8182,91,7,121,1,2,2,Potential Loyalist
+10095,9,19,1293,4,4,4,Once loyal
+8475,98,22,1608,1,4,4,Loyal customer
+4370,83,6,88,1,1,2,New Customer
+10573,27,17,421,3,3,3,Need attention
+3712,63,11,259,2,2,2,Need attention
+6637,46,14,1117,3,3,4,Need attention
+3152,84,6,89,1,1,2,New Customer
+5610,58,4,36,2,1,1,About to sleep
+6460,78,5,57,1,1,1,New Customer
+1349,4,7,148,4,2,2,Lost customer
+1880,17,6,93,4,1,2,Hibernating
+641,77,6,119,1,1,2,New Customer
+8717,56,27,1835,2,4,4,Can't lose them
+10314,79,24,1318,1,4,4,Loyal customer
+10854,90,5,45,1,1,1,New Customer
+10492,96,3,10,1,1,1,New Customer
+6935,44,24,978,3,4,3,Can't lose them
+7698,81,9,191,1,2,2,Potential Loyalist
+3559,77,6,57,1,1,1,New Customer
+10562,21,23,1033,4,4,3,Once loyal
+10796,16,5,66,4,1,1,Hibernating
+2563,80,5,43,1,1,1,New Customer
 3518,45,4,50,3,1,1,About to sleep
-5823,63,5,39,2,1,1,Hibernating
-3934,34,16,608,3,3,3,Need Attention
-6982,14,23,1581,4,4,4,Loyal Customer
-6431,13,5,68,4,1,1,Promising
-9733,52,4,80,2,1,2,Hibernating
-5602,98,27,1282,1,4,4,At risk
-7829,99,5,65,1,1,1,Hibernating
-1324,93,6,91,1,1,2,Hibernating
-326,38,12,315,3,2,2,About to sleep
-7224,24,4,31,4,1,1,Promising
-6999,80,22,834,1,4,3,At risk
-9938,82,16,1600,1,3,4,At risk
-6422,20,16,1270,4,3,4,Potential Customer
-3182,81,9,263,1,2,2,Hibernating
-7300,50,16,535,2,3,3,At risk
-10424,60,17,1295,2,3,4,At risk
-8727,63,26,1150,2,4,4,At risk
-2798,54,26,1240,2,4,4,At risk
-1030,72,4,38,2,1,1,Hibernating
-624,5,3,35,4,1,1,Promising
-5176,88,4,53,1,1,1,Hibernating
-5552,50,11,293,2,2,2,Hibernating
-868,99,5,65,1,1,1,Hibernating
-380,17,24,1804,4,4,4,Loyal Customer
-2677,11,10,241,4,2,2,Potential Customer
-6521,18,19,1101,4,4,4,Loyal Customer
-6927,70,11,264,2,2,2,Hibernating
-2877,21,16,541,4,3,3,Potential Customer
-0,66,16,1198,2,3,4,At risk
-1584,79,14,482,1,3,3,At risk
-7264,2,3,17,4,1,1,Promising
-6274,81,24,1615,1,4,4,At risk
-1377,24,10,285,4,2,2,Potential Customer
-454,48,26,1135,3,4,4,Loyal Customer
-1755,93,6,114,1,1,2,Hibernating
-2075,56,15,1047,2,3,3,At risk
-4785,3,20,714,4,4,3,Loyal Customer
-9076,44,9,185,3,2,2,About to sleep
-7079,38,27,1245,3,4,4,Loyal Customer
-4653,46,8,189,3,2,2,About to sleep
-7375,84,14,576,1,3,3,At risk
-709,27,15,1103,3,3,4,Need Attention
-460,72,16,1753,2,3,4,At risk
-3726,66,3,17,2,1,1,Hibernating
-6798,30,14,433,3,3,3,Need Attention
-5341,2,13,1588,4,3,4,Potential Customer
-1606,65,3,22,2,1,1,Hibernating
+5823,63,5,39,2,1,1,About to sleep
+3934,34,16,608,3,3,3,Need attention
+6982,14,23,1581,4,4,4,Once loyal
+6431,13,5,68,4,1,1,Hibernating
+9733,52,4,80,2,1,2,About to sleep
+5602,98,27,1282,1,4,4,Loyal customer
+7829,99,5,65,1,1,1,New Customer
+1324,93,6,91,1,1,2,New Customer
+326,38,12,315,3,2,2,Need attention
+7224,24,4,31,4,1,1,Hibernating
+6999,80,22,834,1,4,3,Loyal customer
+9938,82,16,1600,1,3,4,Potential Loyalist
+6422,20,16,1270,4,3,4,Lost customer
+3182,81,9,263,1,2,2,Potential Loyalist
+7300,50,16,535,2,3,3,Need attention
+10424,60,17,1295,2,3,4,Need attention
+8727,63,26,1150,2,4,4,Can't lose them
+2798,54,26,1240,2,4,4,Can't lose them
+1030,72,4,38,2,1,1,About to sleep
+624,5,3,35,4,1,1,Hibernating
+5176,88,4,53,1,1,1,New Customer
+5552,50,11,293,2,2,2,Need attention
+868,99,5,65,1,1,1,New Customer
+380,17,24,1804,4,4,4,Once loyal
+2677,11,10,241,4,2,2,Lost customer
+6521,18,19,1101,4,4,4,Once loyal
+6927,70,11,264,2,2,2,Need attention
+2877,21,16,541,4,3,3,Lost customer
+0,66,16,1198,2,3,4,Need attention
+1584,79,14,482,1,3,3,Potential Loyalist
+7264,2,3,17,4,1,1,Hibernating
+6274,81,24,1615,1,4,4,Loyal customer
+1377,24,10,285,4,2,2,Lost customer
+454,48,26,1135,3,4,4,Can't lose them
+1755,93,6,114,1,1,2,New Customer
+2075,56,15,1047,2,3,3,Need attention
+4785,3,20,714,4,4,3,Once loyal
+9076,44,9,185,3,2,2,Need attention
+7079,38,27,1245,3,4,4,Can't lose them
+4653,46,8,189,3,2,2,Need attention
+7375,84,14,576,1,3,3,Potential Loyalist
+709,27,15,1103,3,3,4,Need attention
+460,72,16,1753,2,3,4,Need attention
+3726,66,3,17,2,1,1,About to sleep
+6798,30,14,433,3,3,3,Need attention
+5341,2,13,1588,4,3,4,Lost customer
+1606,65,3,22,2,1,1,About to sleep
 9617,37,4,19,3,1,1,About to sleep
-3233,89,26,1117,1,4,4,At risk
+3233,89,26,1117,1,4,4,Loyal customer
 89,49,6,69,3,1,1,About to sleep
 2936,46,4,23,3,1,1,About to sleep
-9449,32,18,605,3,3,3,Need Attention
-7297,54,7,57,2,2,1,Hibernating
-11004,23,3,22,4,1,1,Promising
-313,98,21,2088,1,4,4,At risk
-9940,97,14,1009,1,3,3,At risk
-10735,75,4,26,1,1,1,Hibernating
-9529,8,21,1627,4,4,4,Loyal Customer
-6439,37,24,1102,3,4,4,Loyal Customer
+9449,32,18,605,3,3,3,Need attention
+7297,54,7,57,2,2,1,Need attention
+11004,23,3,22,4,1,1,Hibernating
+313,98,21,2088,1,4,4,Loyal customer
+9940,97,14,1009,1,3,3,Potential Loyalist
+10735,75,4,26,1,1,1,New Customer
+9529,8,21,1627,4,4,4,Once loyal
+6439,37,24,1102,3,4,4,Can't lose them
 7411,31,4,17,3,1,1,About to sleep
-2176,40,14,1690,3,3,4,Need Attention
-9265,74,19,1390,2,4,4,At risk
-8867,90,19,2126,1,4,4,At risk
-8932,57,21,1531,2,4,4,At risk
-10236,59,5,64,2,1,1,Hibernating
-6340,52,4,26,2,1,1,Hibernating
-10089,5,28,1112,4,4,4,Loyal Customer
-2227,92,9,210,1,2,2,Hibernating
-10992,77,21,1148,1,4,4,At risk
+2176,40,14,1690,3,3,4,Need attention
+9265,74,19,1390,2,4,4,Can't lose them
+8867,90,19,2126,1,4,4,Loyal customer
+8932,57,21,1531,2,4,4,Can't lose them
+10236,59,5,64,2,1,1,About to sleep
+6340,52,4,26,2,1,1,About to sleep
+10089,5,28,1112,4,4,4,Once loyal
+2227,92,9,210,1,2,2,Potential Loyalist
+10992,77,21,1148,1,4,4,Loyal customer
 5304,35,4,33,3,1,1,About to sleep
-309,48,16,1101,3,3,4,Need Attention
-3406,97,12,322,1,2,2,Hibernating
-2661,95,6,44,1,1,1,Hibernating
-3153,24,3,17,4,1,1,Promising
-10264,60,4,31,2,1,1,Hibernating
-1184,46,22,845,3,4,3,Loyal Customer
-4200,85,11,275,1,2,2,Hibernating
+309,48,16,1101,3,3,4,Need attention
+3406,97,12,322,1,2,2,Potential Loyalist
+2661,95,6,44,1,1,1,New Customer
+3153,24,3,17,4,1,1,Hibernating
+10264,60,4,31,2,1,1,About to sleep
+1184,46,22,845,3,4,3,Can't lose them
+4200,85,11,275,1,2,2,Potential Loyalist
 9396,31,3,25,3,1,1,About to sleep
-2387,9,11,275,4,2,2,Potential Customer
-6690,30,7,90,3,2,2,About to sleep
-1225,47,18,1495,3,3,4,Need Attention
-9703,70,7,184,2,2,2,Hibernating
-291,13,12,981,4,2,3,Potential Customer
-4557,11,6,67,4,1,1,Promising
-2379,31,12,1635,3,2,4,About to sleep
-5726,15,7,60,4,2,1,Potential Customer
-3066,2,10,231,4,2,2,Potential Customer
-6336,55,6,48,2,1,1,Hibernating
+2387,9,11,275,4,2,2,Lost customer
+6690,30,7,90,3,2,2,Need attention
+1225,47,18,1495,3,3,4,Need attention
+9703,70,7,184,2,2,2,Need attention
+291,13,12,981,4,2,3,Lost customer
+4557,11,6,67,4,1,1,Hibernating
+2379,31,12,1635,3,2,4,Need attention
+5726,15,7,60,4,2,1,Lost customer
+3066,2,10,231,4,2,2,Lost customer
+6336,55,6,48,2,1,1,About to sleep
 10967,38,6,99,3,1,2,About to sleep
-2304,86,21,770,1,4,3,At risk
-3445,56,21,957,2,4,3,At risk
-7828,29,11,818,3,2,3,About to sleep
-3762,30,16,925,3,3,3,Need Attention
-4391,64,21,908,2,4,3,At risk
-4669,46,7,102,3,2,2,About to sleep
-10144,84,14,576,1,3,3,At risk
-8652,20,11,317,4,2,2,Potential Customer
-1672,74,14,461,2,3,3,At risk
-8962,18,5,37,4,1,1,Promising
-9974,75,6,70,1,1,2,Hibernating
-10983,17,22,930,4,4,3,Loyal Customer
-8148,88,20,859,1,4,3,At risk
-10102,19,21,1478,4,4,4,Loyal Customer
-4697,62,13,390,2,3,2,At risk
-9262,11,4,52,4,1,1,Promising
-7254,74,7,137,2,2,2,Hibernating
-4543,32,18,1919,3,3,4,Need Attention
-4927,76,6,68,1,1,1,Hibernating
-10451,6,3,25,4,1,1,Promising
-2926,62,20,1374,2,4,4,At risk
-2874,20,4,32,4,1,1,Promising
+2304,86,21,770,1,4,3,Loyal customer
+3445,56,21,957,2,4,3,Can't lose them
+7828,29,11,818,3,2,3,Need attention
+3762,30,16,925,3,3,3,Need attention
+4391,64,21,908,2,4,3,Can't lose them
+4669,46,7,102,3,2,2,Need attention
+10144,84,14,576,1,3,3,Potential Loyalist
+8652,20,11,317,4,2,2,Lost customer
+1672,74,14,461,2,3,3,Need attention
+8962,18,5,37,4,1,1,Hibernating
+9974,75,6,70,1,1,2,New Customer
+10983,17,22,930,4,4,3,Once loyal
+8148,88,20,859,1,4,3,Loyal customer
+10102,19,21,1478,4,4,4,Once loyal
+4697,62,13,390,2,3,2,Need attention
+9262,11,4,52,4,1,1,Hibernating
+7254,74,7,137,2,2,2,Need attention
+4543,32,18,1919,3,3,4,Need attention
+4927,76,6,68,1,1,1,New Customer
+10451,6,3,25,4,1,1,Hibernating
+2926,62,20,1374,2,4,4,Can't lose them
+2874,20,4,32,4,1,1,Hibernating
 9738,43,6,100,3,1,2,About to sleep
-7119,45,11,825,3,2,3,About to sleep
-3924,34,23,916,3,4,3,Loyal Customer
-5827,53,7,62,2,2,1,Hibernating
-5596,44,20,728,3,4,3,Loyal Customer
-10812,89,6,90,1,1,2,Hibernating
-1717,43,10,273,3,2,2,About to sleep
-9491,68,7,66,2,2,1,Hibernating
-9274,44,22,1213,3,4,4,Loyal Customer
-6609,64,6,107,2,1,2,Hibernating
-6963,85,17,1157,1,3,4,At risk
-4440,93,17,546,1,3,3,At risk
-1379,12,10,241,4,2,2,Potential Customer
-10032,86,7,53,1,2,1,Hibernating
+7119,45,11,825,3,2,3,Need attention
+3924,34,23,916,3,4,3,Can't lose them
+5827,53,7,62,2,2,1,Need attention
+5596,44,20,728,3,4,3,Can't lose them
+10812,89,6,90,1,1,2,New Customer
+1717,43,10,273,3,2,2,Need attention
+9491,68,7,66,2,2,1,Need attention
+9274,44,22,1213,3,4,4,Can't lose them
+6609,64,6,107,2,1,2,About to sleep
+6963,85,17,1157,1,3,4,Potential Loyalist
+4440,93,17,546,1,3,3,Potential Loyalist
+1379,12,10,241,4,2,2,Lost customer
+10032,86,7,53,1,2,1,Potential Loyalist
 2826,28,5,37,3,1,1,About to sleep
-6320,42,22,1508,3,4,4,Loyal Customer
-3050,13,10,235,4,2,2,Potential Customer
-231,86,5,32,1,1,1,Hibernating
-2392,59,6,102,2,1,2,Hibernating
-9478,30,13,401,3,3,3,Need Attention
+6320,42,22,1508,3,4,4,Can't lose them
+3050,13,10,235,4,2,2,Lost customer
+231,86,5,32,1,1,1,New Customer
+2392,59,6,102,2,1,2,About to sleep
+9478,30,13,401,3,3,3,Need attention
 113,33,4,28,3,1,1,About to sleep
-1802,23,18,680,4,3,3,Potential Customer
-520,81,3,30,1,1,1,Hibernating
-8275,6,3,20,4,1,1,Promising
-9750,41,18,1307,3,3,4,Need Attention
-2607,78,18,630,1,3,3,At risk
-7214,49,17,1283,3,3,4,Need Attention
+1802,23,18,680,4,3,3,Lost customer
+520,81,3,30,1,1,1,New Customer
+8275,6,3,20,4,1,1,Hibernating
+9750,41,18,1307,3,3,4,Need attention
+2607,78,18,630,1,3,3,Potential Loyalist
+7214,49,17,1283,3,3,4,Need attention
 5835,39,6,65,3,1,1,About to sleep
-3896,3,4,37,4,1,1,Promising
+3896,3,4,37,4,1,1,Hibernating
 10350,37,4,38,3,1,1,About to sleep
-7786,22,8,160,4,2,2,Potential Customer
-2861,79,3,23,1,1,1,Hibernating
+7786,22,8,160,4,2,2,Lost customer
+2861,79,3,23,1,1,1,New Customer
 663,46,5,71,3,1,2,About to sleep
-10675,82,17,1161,1,3,4,At risk
-2521,10,4,59,4,1,1,Promising
-9592,51,5,33,2,1,1,Hibernating
-10151,38,21,946,3,4,3,Loyal Customer
-7381,10,21,1442,4,4,4,Loyal Customer
-4099,14,4,62,4,1,1,Promising
-9560,18,21,1674,4,4,4,Loyal Customer
-1150,36,14,1853,3,3,4,Need Attention
-10172,95,20,1538,1,4,4,At risk
-11191,11,7,139,4,2,2,Potential Customer
-9707,65,17,1182,2,3,4,At risk
-6245,71,16,507,2,3,3,At risk
-8234,13,3,18,4,1,1,Promising
-1411,58,15,940,2,3,3,At risk
-8553,65,4,42,2,1,1,Hibernating
-1826,0,14,1190,4,3,4,Potential Customer
+10675,82,17,1161,1,3,4,Potential Loyalist
+2521,10,4,59,4,1,1,Hibernating
+9592,51,5,33,2,1,1,About to sleep
+10151,38,21,946,3,4,3,Can't lose them
+7381,10,21,1442,4,4,4,Once loyal
+4099,14,4,62,4,1,1,Hibernating
+9560,18,21,1674,4,4,4,Once loyal
+1150,36,14,1853,3,3,4,Need attention
+10172,95,20,1538,1,4,4,Loyal customer
+11191,11,7,139,4,2,2,Lost customer
+9707,65,17,1182,2,3,4,Need attention
+6245,71,16,507,2,3,3,Need attention
+8234,13,3,18,4,1,1,Hibernating
+1411,58,15,940,2,3,3,Need attention
+8553,65,4,42,2,1,1,About to sleep
+1826,0,14,1190,4,3,4,Lost customer
 8842,33,5,44,3,1,1,About to sleep
-11030,90,3,16,1,1,1,Hibernating
-2579,95,22,835,1,4,3,At risk
-175,93,20,1443,1,4,4,At risk
-9185,38,15,1029,3,3,3,Need Attention
-11056,18,17,1188,4,3,4,Potential Customer
-9365,57,19,1277,2,4,4,At risk
+11030,90,3,16,1,1,1,New Customer
+2579,95,22,835,1,4,3,Loyal customer
+175,93,20,1443,1,4,4,Loyal customer
+9185,38,15,1029,3,3,3,Need attention
+11056,18,17,1188,4,3,4,Lost customer
+9365,57,19,1277,2,4,4,Can't lose them
 6201,45,5,49,3,1,1,About to sleep
-2061,61,6,99,2,1,2,Hibernating
-6184,6,14,1670,4,3,4,Potential Customer
-6142,65,13,900,2,3,3,At risk
-4107,52,14,425,2,3,3,At risk
-7274,87,21,2153,1,4,4,At risk
-9336,38,18,636,3,3,3,Need Attention
-2958,53,7,57,2,2,1,Hibernating
+2061,61,6,99,2,1,2,About to sleep
+6184,6,14,1670,4,3,4,Lost customer
+6142,65,13,900,2,3,3,Need attention
+4107,52,14,425,2,3,3,Need attention
+7274,87,21,2153,1,4,4,Loyal customer
+9336,38,18,636,3,3,3,Need attention
+2958,53,7,57,2,2,1,Need attention
 933,31,3,25,3,1,1,About to sleep
-5837,67,15,494,2,3,3,At risk
-10704,65,17,693,2,3,3,At risk
-5125,64,25,1348,2,4,4,At risk
-4432,82,5,51,1,1,1,Hibernating
-5955,27,15,1932,3,3,4,Need Attention
-2928,63,14,990,2,3,3,At risk
-5680,66,4,30,2,1,1,Hibernating
-10313,69,10,254,2,2,2,Hibernating
-2557,52,4,29,2,1,1,Hibernating
-1245,45,19,1371,3,4,4,Loyal Customer
-1519,2,6,73,4,1,2,Promising
-10703,86,7,120,1,2,2,Hibernating
-1726,23,4,81,4,1,2,Promising
-4459,13,4,37,4,1,1,Promising
-1729,14,18,1377,4,3,4,Potential Customer
-1517,92,4,51,1,1,1,Hibernating
+5837,67,15,494,2,3,3,Need attention
+10704,65,17,693,2,3,3,Need attention
+5125,64,25,1348,2,4,4,Can't lose them
+4432,82,5,51,1,1,1,New Customer
+5955,27,15,1932,3,3,4,Need attention
+2928,63,14,990,2,3,3,Need attention
+5680,66,4,30,2,1,1,About to sleep
+10313,69,10,254,2,2,2,Need attention
+2557,52,4,29,2,1,1,About to sleep
+1245,45,19,1371,3,4,4,Can't lose them
+1519,2,6,73,4,1,2,Hibernating
+10703,86,7,120,1,2,2,Potential Loyalist
+1726,23,4,81,4,1,2,Hibernating
+4459,13,4,37,4,1,1,Hibernating
+1729,14,18,1377,4,3,4,Lost customer
+1517,92,4,51,1,1,1,New Customer
 2098,38,3,17,3,1,1,About to sleep
-9543,74,3,22,2,1,1,Hibernating
-6878,14,11,324,4,2,2,Potential Customer
-3310,94,9,211,1,2,2,Hibernating
+9543,74,3,22,2,1,1,About to sleep
+6878,14,11,324,4,2,2,Lost customer
+3310,94,9,211,1,2,2,Potential Loyalist
 2724,33,3,19,3,1,1,About to sleep
 948,32,5,41,3,1,1,About to sleep
-6720,11,14,492,4,3,3,Potential Customer
-6202,78,22,1005,1,4,3,At risk
-2066,56,6,114,2,1,2,Hibernating
-9799,57,16,1173,2,3,4,At risk
-8318,7,19,1738,4,4,4,Loyal Customer
-5642,0,10,222,4,2,2,Potential Customer
-2669,66,15,1127,2,3,4,At risk
-455,86,9,209,1,2,2,Hibernating
-7683,80,20,787,1,4,3,At risk
-3428,56,23,1598,2,4,4,At risk
-7414,18,8,186,4,2,2,Potential Customer
-6354,51,4,47,2,1,1,Hibernating
-798,71,4,27,2,1,1,Hibernating
-8213,71,7,96,2,2,2,Hibernating
-2488,80,6,64,1,1,1,Hibernating
-9999,2,22,1040,4,4,3,Loyal Customer
-7617,83,8,163,1,2,2,Hibernating
-615,29,10,343,3,2,2,About to sleep
-2552,11,15,446,4,3,3,Potential Customer
-194,55,4,41,2,1,1,Hibernating
-3645,19,6,70,4,1,2,Promising
-8890,1,11,272,4,2,2,Potential Customer
-5049,19,5,46,4,1,1,Promising
-9973,28,16,490,3,3,3,Need Attention
-7301,76,6,79,1,1,2,Hibernating
-10882,50,13,915,2,3,3,At risk
-7030,1,32,1485,4,4,4,Loyal Customer
-7422,90,13,369,1,3,2,At risk
-3523,83,17,1073,1,3,4,At risk
-7106,73,18,1242,2,3,4,At risk
-6504,24,6,78,4,1,2,Promising
-5067,11,20,1378,4,4,4,Loyal Customer
-4216,33,25,1474,3,4,4,Loyal Customer
-8581,4,20,751,4,4,3,Loyal Customer
-5929,14,5,48,4,1,1,Promising
+6720,11,14,492,4,3,3,Lost customer
+6202,78,22,1005,1,4,3,Loyal customer
+2066,56,6,114,2,1,2,About to sleep
+9799,57,16,1173,2,3,4,Need attention
+8318,7,19,1738,4,4,4,Once loyal
+5642,0,10,222,4,2,2,Lost customer
+2669,66,15,1127,2,3,4,Need attention
+455,86,9,209,1,2,2,Potential Loyalist
+7683,80,20,787,1,4,3,Loyal customer
+3428,56,23,1598,2,4,4,Can't lose them
+7414,18,8,186,4,2,2,Lost customer
+6354,51,4,47,2,1,1,About to sleep
+798,71,4,27,2,1,1,About to sleep
+8213,71,7,96,2,2,2,Need attention
+2488,80,6,64,1,1,1,New Customer
+9999,2,22,1040,4,4,3,Once loyal
+7617,83,8,163,1,2,2,Potential Loyalist
+615,29,10,343,3,2,2,Need attention
+2552,11,15,446,4,3,3,Lost customer
+194,55,4,41,2,1,1,About to sleep
+3645,19,6,70,4,1,2,Hibernating
+8890,1,11,272,4,2,2,Lost customer
+5049,19,5,46,4,1,1,Hibernating
+9973,28,16,490,3,3,3,Need attention
+7301,76,6,79,1,1,2,New Customer
+10882,50,13,915,2,3,3,Need attention
+7030,1,32,1485,4,4,4,Once loyal
+7422,90,13,369,1,3,2,Potential Loyalist
+3523,83,17,1073,1,3,4,Potential Loyalist
+7106,73,18,1242,2,3,4,Need attention
+6504,24,6,78,4,1,2,Hibernating
+5067,11,20,1378,4,4,4,Once loyal
+4216,33,25,1474,3,4,4,Can't lose them
+8581,4,20,751,4,4,3,Once loyal
+5929,14,5,48,4,1,1,Hibernating
 3129,30,5,45,3,1,1,About to sleep
-6528,75,3,10,1,1,1,Hibernating
-1361,26,15,1435,3,3,4,Need Attention
-6932,77,22,2119,1,4,4,At risk
-7284,8,3,20,4,1,1,Promising
-1340,42,26,1795,3,4,4,Loyal Customer
-8746,28,17,1188,3,3,4,Need Attention
-5987,52,5,43,2,1,1,Hibernating
-3767,1,22,1008,4,4,3,Loyal Customer
-3725,1,15,1688,4,3,4,Potential Customer
-4324,42,16,684,3,3,3,Need Attention
-238,76,24,1082,1,4,4,At risk
-6694,27,24,1068,3,4,4,Loyal Customer
+6528,75,3,10,1,1,1,New Customer
+1361,26,15,1435,3,3,4,Need attention
+6932,77,22,2119,1,4,4,Loyal customer
+7284,8,3,20,4,1,1,Hibernating
+1340,42,26,1795,3,4,4,Can't lose them
+8746,28,17,1188,3,3,4,Need attention
+5987,52,5,43,2,1,1,About to sleep
+3767,1,22,1008,4,4,3,Once loyal
+3725,1,15,1688,4,3,4,Lost customer
+4324,42,16,684,3,3,3,Need attention
+238,76,24,1082,1,4,4,Loyal customer
+6694,27,24,1068,3,4,4,Can't lose them
 498,28,5,57,3,1,1,About to sleep
 9347,49,4,46,3,1,1,About to sleep
-9699,12,20,733,4,4,3,Loyal Customer
-10664,14,15,467,4,3,3,Potential Customer
-5455,89,7,122,1,2,2,Hibernating
-456,96,5,36,1,1,1,Hibernating
-5012,56,4,34,2,1,1,Hibernating
-7495,72,8,156,2,2,2,Hibernating
-5029,14,3,14,4,1,1,Promising
-10642,13,4,37,4,1,1,Promising
-2106,99,4,34,1,1,1,Hibernating
-10364,72,3,20,2,1,1,Hibernating
-5954,92,9,192,1,2,2,Hibernating
-1137,87,16,1379,1,3,4,At risk
-2541,7,5,48,4,1,1,Promising
-1142,91,14,428,1,3,3,At risk
-2276,71,22,868,2,4,3,At risk
-2807,24,24,1001,4,4,3,Loyal Customer
-6471,17,6,59,4,1,1,Promising
-6131,87,14,431,1,3,3,At risk
-6233,21,24,971,4,4,3,Loyal Customer
-4148,90,12,348,1,2,2,Hibernating
-4947,44,23,2059,3,4,4,Loyal Customer
-3225,71,10,265,2,2,2,Hibernating
-7540,52,11,270,2,2,2,Hibernating
-10648,78,18,1289,1,3,4,At risk
-1992,2,12,893,4,2,3,Potential Customer
-7851,60,21,926,2,4,3,At risk
-8594,25,7,135,3,2,2,About to sleep
-7059,47,18,1495,3,3,4,Need Attention
-2815,46,7,120,3,2,2,About to sleep
-2416,83,19,1288,1,4,4,At risk
-7999,17,16,1743,4,3,4,Potential Customer
-9213,13,3,15,4,1,1,Promising
-9697,86,17,542,1,3,3,At risk
-3916,92,22,890,1,4,3,At risk
-2021,47,29,1388,3,4,4,Loyal Customer
-1581,18,3,17,4,1,1,Promising
-564,81,23,906,1,4,3,At risk
-6619,91,4,44,1,1,1,Hibernating
-9081,58,4,25,2,1,1,Hibernating
-178,40,22,973,3,4,3,Loyal Customer
-916,67,4,31,2,1,1,Hibernating
-5512,19,16,518,4,3,3,Potential Customer
-8970,93,15,530,1,3,3,At risk
-10581,41,14,506,3,3,3,Need Attention
-5300,60,5,70,2,1,2,Hibernating
-5154,54,5,54,2,1,1,Hibernating
-8346,26,10,296,3,2,2,About to sleep
-1676,30,11,266,3,2,2,About to sleep
-9286,93,18,747,1,3,3,At risk
-2426,35,28,895,3,4,3,Loyal Customer
-5172,4,15,1053,4,3,4,Potential Customer
-5562,92,19,735,1,4,3,At risk
-3436,24,4,20,4,1,1,Promising
-3921,96,9,205,1,2,2,Hibernating
-3403,11,19,2092,4,4,4,Loyal Customer
-22,99,12,309,1,2,2,Hibernating
-10965,72,21,1722,2,4,4,At risk
-9426,77,11,900,1,2,3,Hibernating
-6605,85,19,682,1,4,3,At risk
-3136,88,19,663,1,4,3,At risk
-8737,22,5,43,4,1,1,Promising
-11088,83,17,1816,1,3,4,At risk
-716,63,24,976,2,4,3,At risk
-466,9,20,746,4,4,3,Loyal Customer
-9135,92,4,64,1,1,1,Hibernating
-10623,2,4,32,4,1,1,Promising
-8151,6,8,263,4,2,2,Potential Customer
-5140,66,19,1445,2,4,4,At risk
+9699,12,20,733,4,4,3,Once loyal
+10664,14,15,467,4,3,3,Lost customer
+5455,89,7,122,1,2,2,Potential Loyalist
+456,96,5,36,1,1,1,New Customer
+5012,56,4,34,2,1,1,About to sleep
+7495,72,8,156,2,2,2,Need attention
+5029,14,3,14,4,1,1,Hibernating
+10642,13,4,37,4,1,1,Hibernating
+2106,99,4,34,1,1,1,New Customer
+10364,72,3,20,2,1,1,About to sleep
+5954,92,9,192,1,2,2,Potential Loyalist
+1137,87,16,1379,1,3,4,Potential Loyalist
+2541,7,5,48,4,1,1,Hibernating
+1142,91,14,428,1,3,3,Potential Loyalist
+2276,71,22,868,2,4,3,Can't lose them
+2807,24,24,1001,4,4,3,Once loyal
+6471,17,6,59,4,1,1,Hibernating
+6131,87,14,431,1,3,3,Potential Loyalist
+6233,21,24,971,4,4,3,Once loyal
+4148,90,12,348,1,2,2,Potential Loyalist
+4947,44,23,2059,3,4,4,Can't lose them
+3225,71,10,265,2,2,2,Need attention
+7540,52,11,270,2,2,2,Need attention
+10648,78,18,1289,1,3,4,Potential Loyalist
+1992,2,12,893,4,2,3,Lost customer
+7851,60,21,926,2,4,3,Can't lose them
+8594,25,7,135,3,2,2,Need attention
+7059,47,18,1495,3,3,4,Need attention
+2815,46,7,120,3,2,2,Need attention
+2416,83,19,1288,1,4,4,Loyal customer
+7999,17,16,1743,4,3,4,Lost customer
+9213,13,3,15,4,1,1,Hibernating
+9697,86,17,542,1,3,3,Potential Loyalist
+3916,92,22,890,1,4,3,Loyal customer
+2021,47,29,1388,3,4,4,Can't lose them
+1581,18,3,17,4,1,1,Hibernating
+564,81,23,906,1,4,3,Loyal customer
+6619,91,4,44,1,1,1,New Customer
+9081,58,4,25,2,1,1,About to sleep
+178,40,22,973,3,4,3,Can't lose them
+916,67,4,31,2,1,1,About to sleep
+5512,19,16,518,4,3,3,Lost customer
+8970,93,15,530,1,3,3,Potential Loyalist
+10581,41,14,506,3,3,3,Need attention
+5300,60,5,70,2,1,2,About to sleep
+5154,54,5,54,2,1,1,About to sleep
+8346,26,10,296,3,2,2,Need attention
+1676,30,11,266,3,2,2,Need attention
+9286,93,18,747,1,3,3,Potential Loyalist
+2426,35,28,895,3,4,3,Can't lose them
+5172,4,15,1053,4,3,4,Lost customer
+5562,92,19,735,1,4,3,Loyal customer
+3436,24,4,20,4,1,1,Hibernating
+3921,96,9,205,1,2,2,Potential Loyalist
+3403,11,19,2092,4,4,4,Once loyal
+22,99,12,309,1,2,2,Potential Loyalist
+10965,72,21,1722,2,4,4,Can't lose them
+9426,77,11,900,1,2,3,Potential Loyalist
+6605,85,19,682,1,4,3,Loyal customer
+3136,88,19,663,1,4,3,Loyal customer
+8737,22,5,43,4,1,1,Hibernating
+11088,83,17,1816,1,3,4,Potential Loyalist
+716,63,24,976,2,4,3,Can't lose them
+466,9,20,746,4,4,3,Once loyal
+9135,92,4,64,1,1,1,New Customer
+10623,2,4,32,4,1,1,Hibernating
+8151,6,8,263,4,2,2,Lost customer
+5140,66,19,1445,2,4,4,Can't lose them
 10160,49,4,46,3,1,1,About to sleep
-4945,29,26,1210,3,4,4,Loyal Customer
-10584,77,23,945,1,4,3,At risk
-6071,77,21,1157,1,4,4,At risk
-3386,71,7,137,2,2,2,Hibernating
-8939,49,19,730,3,4,3,Loyal Customer
-9925,97,9,216,1,2,2,Hibernating
-4320,6,22,943,4,4,3,Loyal Customer
-5389,93,13,347,1,3,2,At risk
-6036,78,18,1924,1,3,4,At risk
-182,62,13,397,2,3,3,At risk
-203,47,21,2089,3,4,4,Loyal Customer
-11025,9,7,138,4,2,2,Potential Customer
-10203,77,4,42,1,1,1,Hibernating
-4607,24,16,777,4,3,3,Potential Customer
-3711,19,19,1902,4,4,4,Loyal Customer
-3696,67,5,52,2,1,1,Hibernating
-2532,95,12,1651,1,2,4,Hibernating
-9214,48,12,358,3,2,2,About to sleep
-4943,73,15,1727,2,3,4,At risk
-35,35,7,210,3,2,2,About to sleep
-2258,76,4,42,1,1,1,Hibernating
-4322,20,19,1291,4,4,4,Loyal Customer
-713,72,14,442,2,3,3,At risk
-4702,20,16,1895,4,3,4,Potential Customer
-3281,69,13,411,2,3,3,At risk
-702,80,15,521,1,3,3,At risk
-2004,65,16,1168,2,3,4,At risk
-4769,52,16,493,2,3,3,At risk
-4437,65,10,260,2,2,2,Hibernating
-8724,57,5,46,2,1,1,Hibernating
-10741,70,12,319,2,2,2,Hibernating
-1991,0,6,96,4,1,2,Promising
-6931,19,15,1062,4,3,4,Potential Customer
-11096,50,10,232,2,2,2,Hibernating
-304,67,6,76,2,1,2,Hibernating
+4945,29,26,1210,3,4,4,Can't lose them
+10584,77,23,945,1,4,3,Loyal customer
+6071,77,21,1157,1,4,4,Loyal customer
+3386,71,7,137,2,2,2,Need attention
+8939,49,19,730,3,4,3,Can't lose them
+9925,97,9,216,1,2,2,Potential Loyalist
+4320,6,22,943,4,4,3,Once loyal
+5389,93,13,347,1,3,2,Potential Loyalist
+6036,78,18,1924,1,3,4,Potential Loyalist
+182,62,13,397,2,3,3,Need attention
+203,47,21,2089,3,4,4,Can't lose them
+11025,9,7,138,4,2,2,Lost customer
+10203,77,4,42,1,1,1,New Customer
+4607,24,16,777,4,3,3,Lost customer
+3711,19,19,1902,4,4,4,Once loyal
+3696,67,5,52,2,1,1,About to sleep
+2532,95,12,1651,1,2,4,Potential Loyalist
+9214,48,12,358,3,2,2,Need attention
+4943,73,15,1727,2,3,4,Need attention
+35,35,7,210,3,2,2,Need attention
+2258,76,4,42,1,1,1,New Customer
+4322,20,19,1291,4,4,4,Once loyal
+713,72,14,442,2,3,3,Need attention
+4702,20,16,1895,4,3,4,Lost customer
+3281,69,13,411,2,3,3,Need attention
+702,80,15,521,1,3,3,Potential Loyalist
+2004,65,16,1168,2,3,4,Need attention
+4769,52,16,493,2,3,3,Need attention
+4437,65,10,260,2,2,2,Need attention
+8724,57,5,46,2,1,1,About to sleep
+10741,70,12,319,2,2,2,Need attention
+1991,0,6,96,4,1,2,Hibernating
+6931,19,15,1062,4,3,4,Lost customer
+11096,50,10,232,2,2,2,Need attention
+304,67,6,76,2,1,2,About to sleep
 3665,46,6,54,3,1,1,About to sleep
-10591,37,9,201,3,2,2,About to sleep
-5036,38,12,406,3,2,3,About to sleep
-5547,9,19,1919,4,4,4,Loyal Customer
-7822,56,18,662,2,3,3,At risk
-8541,98,6,41,1,1,1,Hibernating
-10955,68,13,1600,2,3,4,At risk
-4368,72,7,134,2,2,2,Hibernating
+10591,37,9,201,3,2,2,Need attention
+5036,38,12,406,3,2,3,Need attention
+5547,9,19,1919,4,4,4,Once loyal
+7822,56,18,662,2,3,3,Need attention
+8541,98,6,41,1,1,1,New Customer
+10955,68,13,1600,2,3,4,Need attention
+4368,72,7,134,2,2,2,Need attention
 9671,47,6,69,3,1,1,About to sleep
 2256,33,4,21,3,1,1,About to sleep
-4279,87,5,54,1,1,1,Hibernating
-5371,0,6,91,4,1,2,Promising
-9240,73,16,526,2,3,3,At risk
-9460,74,7,162,2,2,2,Hibernating
-9504,4,24,1008,4,4,3,Loyal Customer
-8692,50,10,240,2,2,2,Hibernating
-448,57,19,795,2,4,3,At risk
-8314,30,18,1772,3,3,4,Need Attention
+4279,87,5,54,1,1,1,New Customer
+5371,0,6,91,4,1,2,Hibernating
+9240,73,16,526,2,3,3,Need attention
+9460,74,7,162,2,2,2,Need attention
+9504,4,24,1008,4,4,3,Once loyal
+8692,50,10,240,2,2,2,Need attention
+448,57,19,795,2,4,3,Can't lose them
+8314,30,18,1772,3,3,4,Need attention
 8420,27,6,64,3,1,1,About to sleep
-3174,61,19,1957,2,4,4,At risk
-7685,4,6,78,4,1,2,Promising
-3179,75,19,1572,1,4,4,At risk
-9780,12,24,795,4,4,3,Loyal Customer
-10681,13,21,889,4,4,3,Loyal Customer
-10232,9,12,331,4,2,2,Potential Customer
-4184,48,10,265,3,2,2,About to sleep
-9120,80,15,1065,1,3,4,At risk
-891,60,3,11,2,1,1,Hibernating
+3174,61,19,1957,2,4,4,Can't lose them
+7685,4,6,78,4,1,2,Hibernating
+3179,75,19,1572,1,4,4,Loyal customer
+9780,12,24,795,4,4,3,Once loyal
+10681,13,21,889,4,4,3,Once loyal
+10232,9,12,331,4,2,2,Lost customer
+4184,48,10,265,3,2,2,Need attention
+9120,80,15,1065,1,3,4,Potential Loyalist
+891,60,3,11,2,1,1,About to sleep
 10381,43,3,21,3,1,1,About to sleep
-3525,19,3,17,4,1,1,Promising
-6818,26,11,369,3,2,2,About to sleep
-3526,58,4,38,2,1,1,Hibernating
-8181,42,8,177,3,2,2,About to sleep
-1029,27,11,279,3,2,2,About to sleep
-7369,56,5,62,2,1,1,Hibernating
-2574,27,18,1230,3,3,4,Need Attention
-8159,10,8,182,4,2,2,Potential Customer
+3525,19,3,17,4,1,1,Hibernating
+6818,26,11,369,3,2,2,Need attention
+3526,58,4,38,2,1,1,About to sleep
+8181,42,8,177,3,2,2,Need attention
+1029,27,11,279,3,2,2,Need attention
+7369,56,5,62,2,1,1,About to sleep
+2574,27,18,1230,3,3,4,Need attention
+8159,10,8,182,4,2,2,Lost customer
 1160,48,6,49,3,1,1,About to sleep
 10242,39,6,75,3,1,2,About to sleep
-5253,85,10,227,1,2,2,Hibernating
-5966,64,10,215,2,2,2,Hibernating
-5314,69,13,444,2,3,3,At risk
-5081,54,4,47,2,1,1,Hibernating
-5123,57,6,143,2,1,2,Hibernating
-5756,64,5,55,2,1,1,Hibernating
-8036,10,7,63,4,2,1,Potential Customer
-9058,65,21,1867,2,4,4,At risk
-5057,74,18,611,2,3,3,At risk
-254,4,15,473,4,3,3,Potential Customer
-4179,94,5,55,1,1,1,Hibernating
+5253,85,10,227,1,2,2,Potential Loyalist
+5966,64,10,215,2,2,2,Need attention
+5314,69,13,444,2,3,3,Need attention
+5081,54,4,47,2,1,1,About to sleep
+5123,57,6,143,2,1,2,About to sleep
+5756,64,5,55,2,1,1,About to sleep
+8036,10,7,63,4,2,1,Lost customer
+9058,65,21,1867,2,4,4,Can't lose them
+5057,74,18,611,2,3,3,Need attention
+254,4,15,473,4,3,3,Lost customer
+4179,94,5,55,1,1,1,New Customer
 3710,41,5,81,3,1,2,About to sleep
-7627,25,21,2086,3,4,4,Loyal Customer
-4501,94,19,1478,1,4,4,At risk
-6424,9,4,49,4,1,1,Promising
-3075,47,14,382,3,3,2,Need Attention
-4992,12,6,69,4,1,1,Promising
-5252,80,5,67,1,1,1,Hibernating
-7444,20,4,30,4,1,1,Promising
+7627,25,21,2086,3,4,4,Can't lose them
+4501,94,19,1478,1,4,4,Loyal customer
+6424,9,4,49,4,1,1,Hibernating
+3075,47,14,382,3,3,2,Need attention
+4992,12,6,69,4,1,1,Hibernating
+5252,80,5,67,1,1,1,New Customer
+7444,20,4,30,4,1,1,Hibernating
 6919,39,6,63,3,1,1,About to sleep
-3537,57,7,79,2,2,2,Hibernating
+3537,57,7,79,2,2,2,Need attention
 10277,27,4,42,3,1,1,About to sleep
-2453,83,20,819,1,4,3,At risk
-7972,79,16,1151,1,3,4,At risk
-895,69,17,594,2,3,3,At risk
-1177,77,7,129,1,2,2,Hibernating
-7141,15,8,213,4,2,2,Potential Customer
-7232,99,5,67,1,1,1,Hibernating
-8477,61,4,28,2,1,1,Hibernating
-2457,23,4,45,4,1,1,Promising
-988,84,17,1193,1,3,4,At risk
-7930,74,10,268,2,2,2,Hibernating
-4587,90,11,266,1,2,2,Hibernating
+2453,83,20,819,1,4,3,Loyal customer
+7972,79,16,1151,1,3,4,Potential Loyalist
+895,69,17,594,2,3,3,Need attention
+1177,77,7,129,1,2,2,Potential Loyalist
+7141,15,8,213,4,2,2,Lost customer
+7232,99,5,67,1,1,1,New Customer
+8477,61,4,28,2,1,1,About to sleep
+2457,23,4,45,4,1,1,Hibernating
+988,84,17,1193,1,3,4,Potential Loyalist
+7930,74,10,268,2,2,2,Need attention
+4587,90,11,266,1,2,2,Potential Loyalist
 6682,41,4,37,3,1,1,About to sleep
 6222,28,5,37,3,1,1,About to sleep
-10299,73,22,882,2,4,3,At risk
-3083,88,13,373,1,3,2,At risk
-8953,94,4,35,1,1,1,Hibernating
+10299,73,22,882,2,4,3,Can't lose them
+3083,88,13,373,1,3,2,Potential Loyalist
+8953,94,4,35,1,1,1,New Customer
 1503,31,1,107,3,1,2,About to sleep
 8650,31,4,42,3,1,1,About to sleep
-10862,6,12,326,4,2,2,Potential Customer
-2782,23,14,404,4,3,3,Potential Customer
-6941,92,5,95,1,1,2,Hibernating
-10972,52,13,939,2,3,3,At risk
-10708,50,4,33,2,1,1,Hibernating
-6583,54,20,981,2,4,3,At risk
-3641,93,5,36,1,1,1,Hibernating
-10156,56,19,1237,2,4,4,At risk
-4299,28,27,1825,3,4,4,Loyal Customer
-3469,94,6,103,1,1,2,Hibernating
-5063,76,9,191,1,2,2,Hibernating
-10727,43,23,1586,3,4,4,Loyal Customer
-9624,46,13,963,3,3,3,Need Attention
-5156,13,21,889,4,4,3,Loyal Customer
+10862,6,12,326,4,2,2,Lost customer
+2782,23,14,404,4,3,3,Lost customer
+6941,92,5,95,1,1,2,New Customer
+10972,52,13,939,2,3,3,Need attention
+10708,50,4,33,2,1,1,About to sleep
+6583,54,20,981,2,4,3,Can't lose them
+3641,93,5,36,1,1,1,New Customer
+10156,56,19,1237,2,4,4,Can't lose them
+4299,28,27,1825,3,4,4,Can't lose them
+3469,94,6,103,1,1,2,New Customer
+5063,76,9,191,1,2,2,Potential Loyalist
+10727,43,23,1586,3,4,4,Can't lose them
+9624,46,13,963,3,3,3,Need attention
+5156,13,21,889,4,4,3,Once loyal
 4376,27,6,93,3,1,2,About to sleep
-8923,12,20,1587,4,4,4,Loyal Customer
-8461,3,3,16,4,1,1,Promising
-6945,72,31,1375,2,4,4,At risk
-944,6,13,393,4,3,2,Potential Customer
-1907,53,21,1477,2,4,4,At risk
-701,58,16,1179,2,3,4,At risk
-3856,78,22,1005,1,4,3,At risk
-4149,57,20,1348,2,4,4,At risk
-2131,37,19,1307,3,4,4,Loyal Customer
-2942,20,13,486,4,3,3,Potential Customer
-1173,73,12,2252,2,2,4,Hibernating
-4381,56,10,235,2,2,2,Hibernating
-4611,36,30,1724,3,4,4,Loyal Customer
-3376,9,10,235,4,2,2,Potential Customer
-4679,42,25,1092,3,4,4,Loyal Customer
-10928,28,15,599,3,3,3,Need Attention
-4248,23,19,2008,4,4,4,Loyal Customer
+8923,12,20,1587,4,4,4,Once loyal
+8461,3,3,16,4,1,1,Hibernating
+6945,72,31,1375,2,4,4,Can't lose them
+944,6,13,393,4,3,2,Lost customer
+1907,53,21,1477,2,4,4,Can't lose them
+701,58,16,1179,2,3,4,Need attention
+3856,78,22,1005,1,4,3,Loyal customer
+4149,57,20,1348,2,4,4,Can't lose them
+2131,37,19,1307,3,4,4,Can't lose them
+2942,20,13,486,4,3,3,Lost customer
+1173,73,12,2252,2,2,4,Need attention
+4381,56,10,235,2,2,2,Need attention
+4611,36,30,1724,3,4,4,Can't lose them
+3376,9,10,235,4,2,2,Lost customer
+4679,42,25,1092,3,4,4,Can't lose them
+10928,28,15,599,3,3,3,Need attention
+4248,23,19,2008,4,4,4,Once loyal
 6728,38,4,48,3,1,1,About to sleep
-6661,63,27,1174,2,4,4,At risk
-4725,71,6,67,2,1,1,Hibernating
-3277,9,13,365,4,3,2,Potential Customer
-5555,81,0,6,1,1,1,Hibernating
-2564,87,8,165,1,2,2,Hibernating
-946,92,9,210,1,2,2,Hibernating
-3867,36,25,1095,3,4,4,Loyal Customer
-6940,86,8,223,1,2,2,Hibernating
-55,83,18,597,1,3,3,At risk
-7093,74,3,22,2,1,1,Hibernating
-5084,87,23,1064,1,4,4,At risk
+6661,63,27,1174,2,4,4,Can't lose them
+4725,71,6,67,2,1,1,About to sleep
+3277,9,13,365,4,3,2,Lost customer
+5555,81,0,6,1,1,1,New Customer
+2564,87,8,165,1,2,2,Potential Loyalist
+946,92,9,210,1,2,2,Potential Loyalist
+3867,36,25,1095,3,4,4,Can't lose them
+6940,86,8,223,1,2,2,Potential Loyalist
+55,83,18,597,1,3,3,Potential Loyalist
+7093,74,3,22,2,1,1,About to sleep
+5084,87,23,1064,1,4,4,Loyal customer
 1777,29,5,74,3,1,2,About to sleep
-8162,88,4,26,1,1,1,Hibernating
-10826,77,4,60,1,1,1,Hibernating
+8162,88,4,26,1,1,1,New Customer
+10826,77,4,60,1,1,1,New Customer
 8754,25,3,20,3,1,1,About to sleep
 1987,34,5,59,3,1,1,About to sleep
 11007,43,4,34,3,1,1,About to sleep
-7426,76,9,198,1,2,2,Hibernating
-9153,81,25,1048,1,4,3,At risk
-10379,87,16,574,1,3,3,At risk
-9204,33,13,1029,3,3,3,Need Attention
-3197,38,18,670,3,3,3,Need Attention
-2920,63,14,990,2,3,3,At risk
+7426,76,9,198,1,2,2,Potential Loyalist
+9153,81,25,1048,1,4,3,Loyal customer
+10379,87,16,574,1,3,3,Potential Loyalist
+9204,33,13,1029,3,3,3,Need attention
+3197,38,18,670,3,3,3,Need attention
+2920,63,14,990,2,3,3,Need attention
 6961,26,3,11,3,1,1,About to sleep
-4673,17,18,1241,4,3,4,Potential Customer
-9937,75,16,576,1,3,3,At risk
-8779,13,8,172,4,2,2,Potential Customer
-9596,19,19,664,4,4,3,Loyal Customer
-2891,51,21,928,2,4,3,At risk
-4910,81,29,2074,1,4,4,At risk
-75,32,14,467,3,3,3,Need Attention
-10120,84,10,257,1,2,2,Hibernating
-6327,87,16,1146,1,3,4,At risk
-10142,99,18,689,1,3,3,At risk
-9826,96,21,2114,1,4,4,At risk
-1501,21,29,1717,4,4,4,Loyal Customer
-10767,40,20,1346,3,4,4,Loyal Customer
-7279,3,14,1044,4,3,3,Potential Customer
-7230,98,16,493,1,3,3,At risk
-143,73,12,957,2,2,3,Hibernating
-450,90,9,270,1,2,2,Hibernating
+4673,17,18,1241,4,3,4,Lost customer
+9937,75,16,576,1,3,3,Potential Loyalist
+8779,13,8,172,4,2,2,Lost customer
+9596,19,19,664,4,4,3,Once loyal
+2891,51,21,928,2,4,3,Can't lose them
+4910,81,29,2074,1,4,4,Loyal customer
+75,32,14,467,3,3,3,Need attention
+10120,84,10,257,1,2,2,Potential Loyalist
+6327,87,16,1146,1,3,4,Potential Loyalist
+10142,99,18,689,1,3,3,Potential Loyalist
+9826,96,21,2114,1,4,4,Loyal customer
+1501,21,29,1717,4,4,4,Once loyal
+10767,40,20,1346,3,4,4,Can't lose them
+7279,3,14,1044,4,3,3,Lost customer
+7230,98,16,493,1,3,3,Potential Loyalist
+143,73,12,957,2,2,3,Need attention
+450,90,9,270,1,2,2,Potential Loyalist
 9316,29,4,29,3,1,1,About to sleep
-6379,3,6,121,4,1,2,Promising
-9239,94,7,126,1,2,2,Hibernating
-8315,65,3,23,2,1,1,Hibernating
+6379,3,6,121,4,1,2,Hibernating
+9239,94,7,126,1,2,2,Potential Loyalist
+8315,65,3,23,2,1,1,About to sleep
 2868,33,5,57,3,1,1,About to sleep
-10888,46,18,636,3,3,3,Need Attention
-1277,29,27,1004,3,4,3,Loyal Customer
-9977,99,17,734,1,3,3,At risk
-10196,26,18,614,3,3,3,Need Attention
-6384,30,18,1453,3,3,4,Need Attention
-8029,27,14,1621,3,3,4,Need Attention
-968,24,9,187,4,2,2,Potential Customer
-6988,93,20,1443,1,4,4,At risk
+10888,46,18,636,3,3,3,Need attention
+1277,29,27,1004,3,4,3,Can't lose them
+9977,99,17,734,1,3,3,Potential Loyalist
+10196,26,18,614,3,3,3,Need attention
+6384,30,18,1453,3,3,4,Need attention
+8029,27,14,1621,3,3,4,Need attention
+968,24,9,187,4,2,2,Lost customer
+6988,93,20,1443,1,4,4,Loyal customer
 4472,34,5,57,3,1,1,About to sleep
-6991,88,18,637,1,3,3,At risk
-3336,96,11,948,1,2,3,Hibernating
-4301,10,4,59,4,1,1,Promising
+6991,88,18,637,1,3,3,Potential Loyalist
+3336,96,11,948,1,2,3,Potential Loyalist
+4301,10,4,59,4,1,1,Hibernating
 1940,26,3,18,3,1,1,About to sleep
-1272,49,22,903,3,4,3,Loyal Customer
-1388,11,6,112,4,1,2,Promising
-1044,44,17,596,3,3,3,Need Attention
-6969,75,10,233,1,2,2,Hibernating
-10479,64,10,1511,2,2,4,Hibernating
-3619,19,16,1152,4,3,4,Potential Customer
+1272,49,22,903,3,4,3,Can't lose them
+1388,11,6,112,4,1,2,Hibernating
+1044,44,17,596,3,3,3,Need attention
+6969,75,10,233,1,2,2,Potential Loyalist
+10479,64,10,1511,2,2,4,Need attention
+3619,19,16,1152,4,3,4,Lost customer
 1715,45,5,48,3,1,1,About to sleep
-10159,77,25,1185,1,4,4,At risk
-1463,9,3,21,4,1,1,Promising
-5114,1,14,965,4,3,3,Potential Customer
-4990,90,20,869,1,4,3,At risk
+10159,77,25,1185,1,4,4,Loyal customer
+1463,9,3,21,4,1,1,Hibernating
+5114,1,14,965,4,3,3,Lost customer
+4990,90,20,869,1,4,3,Loyal customer
 4329,43,4,16,3,1,1,About to sleep
-10936,79,15,1947,1,3,4,At risk
-4692,19,7,71,4,2,2,Potential Customer
-7212,99,5,65,1,1,1,Hibernating
-6086,62,23,1380,2,4,4,At risk
-437,41,22,1027,3,4,3,Loyal Customer
-11171,60,14,411,2,3,3,At risk
-11101,17,25,836,4,4,3,Loyal Customer
-5329,24,3,11,4,1,1,Promising
-610,60,15,480,2,3,3,At risk
-9384,57,16,606,2,3,3,At risk
-5956,74,11,284,2,2,2,Hibernating
-10430,22,11,1472,4,2,4,Potential Customer
-7875,46,25,1677,3,4,4,Loyal Customer
-7072,69,17,1335,2,3,4,At risk
-6255,29,12,334,3,2,2,About to sleep
+10936,79,15,1947,1,3,4,Potential Loyalist
+4692,19,7,71,4,2,2,Lost customer
+7212,99,5,65,1,1,1,New Customer
+6086,62,23,1380,2,4,4,Can't lose them
+437,41,22,1027,3,4,3,Can't lose them
+11171,60,14,411,2,3,3,Need attention
+11101,17,25,836,4,4,3,Once loyal
+5329,24,3,11,4,1,1,Hibernating
+610,60,15,480,2,3,3,Need attention
+9384,57,16,606,2,3,3,Need attention
+5956,74,11,284,2,2,2,Need attention
+10430,22,11,1472,4,2,4,Lost customer
+7875,46,25,1677,3,4,4,Can't lose them
+7072,69,17,1335,2,3,4,Need attention
+6255,29,12,334,3,2,2,Need attention
 6516,37,3,18,3,1,1,About to sleep
-5564,26,18,1338,3,3,4,Need Attention
-5682,8,26,1099,4,4,4,Loyal Customer
+5564,26,18,1338,3,3,4,Need attention
+5682,8,26,1099,4,4,4,Once loyal
 7458,26,6,97,3,1,2,About to sleep
-5237,79,6,63,1,1,1,Hibernating
-7761,71,7,109,2,2,2,Hibernating
-5278,83,20,902,1,4,3,At risk
-3560,57,19,1574,2,4,4,At risk
+5237,79,6,63,1,1,1,New Customer
+7761,71,7,109,2,2,2,Need attention
+5278,83,20,902,1,4,3,Loyal customer
+3560,57,19,1574,2,4,4,Can't lose them
 7235,37,6,38,3,1,1,About to sleep
-10548,30,23,960,3,4,3,Loyal Customer
+10548,30,23,960,3,4,3,Can't lose them
 2281,34,3,28,3,1,1,About to sleep
-4073,0,27,1215,4,4,4,Loyal Customer
-6974,89,21,1497,1,4,4,At risk
-7938,92,15,449,1,3,3,At risk
-7094,87,23,1064,1,4,4,At risk
-3667,20,24,1757,4,4,4,Loyal Customer
-7723,56,20,1440,2,4,4,At risk
-3870,28,23,1006,3,4,3,Loyal Customer
-4012,55,18,1226,2,3,4,At risk
-5909,25,15,1171,3,3,4,Need Attention
-10470,0,6,92,4,1,2,Promising
-6488,86,7,99,1,2,2,Hibernating
-10270,8,6,66,4,1,1,Promising
-6887,33,17,564,3,3,3,Need Attention
-6406,13,20,1427,4,4,4,Loyal Customer
-7573,12,5,86,4,1,2,Promising
-4508,92,18,833,1,3,3,At risk
-221,90,9,242,1,2,2,Hibernating
-5331,8,16,1869,4,3,4,Potential Customer
-1911,6,28,1364,4,4,4,Loyal Customer
-20,91,7,183,1,2,2,Hibernating
-8786,52,14,450,2,3,3,At risk
-10582,3,19,758,4,4,3,Loyal Customer
-1915,57,19,1507,2,4,4,At risk
-8897,9,17,654,4,3,3,Potential Customer
-2371,22,6,81,4,1,2,Promising
-4303,76,1,137,1,1,2,Hibernating
-6825,86,3,16,1,1,1,Hibernating
-1072,64,6,93,2,1,2,Hibernating
-4964,90,17,1158,1,3,4,At risk
-2461,79,4,43,1,1,1,Hibernating
-10736,28,20,1525,3,4,4,Loyal Customer
-3194,86,18,1230,1,3,4,At risk
+4073,0,27,1215,4,4,4,Once loyal
+6974,89,21,1497,1,4,4,Loyal customer
+7938,92,15,449,1,3,3,Potential Loyalist
+7094,87,23,1064,1,4,4,Loyal customer
+3667,20,24,1757,4,4,4,Once loyal
+7723,56,20,1440,2,4,4,Can't lose them
+3870,28,23,1006,3,4,3,Can't lose them
+4012,55,18,1226,2,3,4,Need attention
+5909,25,15,1171,3,3,4,Need attention
+10470,0,6,92,4,1,2,Hibernating
+6488,86,7,99,1,2,2,Potential Loyalist
+10270,8,6,66,4,1,1,Hibernating
+6887,33,17,564,3,3,3,Need attention
+6406,13,20,1427,4,4,4,Once loyal
+7573,12,5,86,4,1,2,Hibernating
+4508,92,18,833,1,3,3,Potential Loyalist
+221,90,9,242,1,2,2,Potential Loyalist
+5331,8,16,1869,4,3,4,Lost customer
+1911,6,28,1364,4,4,4,Once loyal
+20,91,7,183,1,2,2,Potential Loyalist
+8786,52,14,450,2,3,3,Need attention
+10582,3,19,758,4,4,3,Once loyal
+1915,57,19,1507,2,4,4,Can't lose them
+8897,9,17,654,4,3,3,Lost customer
+2371,22,6,81,4,1,2,Hibernating
+4303,76,1,137,1,1,2,New Customer
+6825,86,3,16,1,1,1,New Customer
+1072,64,6,93,2,1,2,About to sleep
+4964,90,17,1158,1,3,4,Potential Loyalist
+2461,79,4,43,1,1,1,New Customer
+10736,28,20,1525,3,4,4,Can't lose them
+3194,86,18,1230,1,3,4,Potential Loyalist
 10839,42,4,29,3,1,1,About to sleep
 49,39,4,25,3,1,1,About to sleep
-4290,8,3,24,4,1,1,Promising
+4290,8,3,24,4,1,1,Hibernating
 10219,40,4,38,3,1,1,About to sleep
-4211,5,5,57,4,1,1,Promising
-1135,96,7,47,1,2,1,Hibernating
-6299,28,18,813,3,3,3,Need Attention
-10846,22,16,629,4,3,3,Potential Customer
-347,30,13,377,3,3,2,Need Attention
-6543,45,13,1612,3,3,4,Need Attention
-10446,58,16,729,2,3,3,At risk
+4211,5,5,57,4,1,1,Hibernating
+1135,96,7,47,1,2,1,Potential Loyalist
+6299,28,18,813,3,3,3,Need attention
+10846,22,16,629,4,3,3,Lost customer
+347,30,13,377,3,3,2,Need attention
+6543,45,13,1612,3,3,4,Need attention
+10446,58,16,729,2,3,3,Need attention
 3479,49,5,50,3,1,1,About to sleep
-11075,37,11,270,3,2,2,About to sleep
-4442,70,7,177,2,2,2,Hibernating
-199,33,12,315,3,2,2,About to sleep
-6722,98,20,767,1,4,3,At risk
-796,17,23,1071,4,4,4,Loyal Customer
-3749,54,23,1580,2,4,4,At risk
-8523,39,7,60,3,2,1,About to sleep
-310,81,17,573,1,3,3,At risk
-8629,71,4,41,2,1,1,Hibernating
-236,62,7,170,2,2,2,Hibernating
-9930,8,27,1167,4,4,4,Loyal Customer
-3483,76,22,1526,1,4,4,At risk
-4599,66,15,458,2,3,3,At risk
-7326,83,5,63,1,1,1,Hibernating
-7352,28,13,405,3,3,3,Need Attention
-2350,87,13,1027,1,3,3,At risk
-9145,43,20,1478,3,4,4,Loyal Customer
-2964,0,4,72,4,1,2,Promising
-5585,1,5,48,4,1,1,Promising
-9687,1,15,726,4,3,3,Potential Customer
-3732,72,21,860,2,4,3,At risk
-6303,72,22,1497,2,4,4,At risk
-11176,12,16,495,4,3,3,Potential Customer
-2986,89,3,20,1,1,1,Hibernating
-7462,67,16,570,2,3,3,At risk
-3900,54,20,769,2,4,3,At risk
+11075,37,11,270,3,2,2,Need attention
+4442,70,7,177,2,2,2,Need attention
+199,33,12,315,3,2,2,Need attention
+6722,98,20,767,1,4,3,Loyal customer
+796,17,23,1071,4,4,4,Once loyal
+3749,54,23,1580,2,4,4,Can't lose them
+8523,39,7,60,3,2,1,Need attention
+310,81,17,573,1,3,3,Potential Loyalist
+8629,71,4,41,2,1,1,About to sleep
+236,62,7,170,2,2,2,Need attention
+9930,8,27,1167,4,4,4,Once loyal
+3483,76,22,1526,1,4,4,Loyal customer
+4599,66,15,458,2,3,3,Need attention
+7326,83,5,63,1,1,1,New Customer
+7352,28,13,405,3,3,3,Need attention
+2350,87,13,1027,1,3,3,Potential Loyalist
+9145,43,20,1478,3,4,4,Can't lose them
+2964,0,4,72,4,1,2,Hibernating
+5585,1,5,48,4,1,1,Hibernating
+9687,1,15,726,4,3,3,Lost customer
+3732,72,21,860,2,4,3,Can't lose them
+6303,72,22,1497,2,4,4,Can't lose them
+11176,12,16,495,4,3,3,Lost customer
+2986,89,3,20,1,1,1,New Customer
+7462,67,16,570,2,3,3,Need attention
+3900,54,20,769,2,4,3,Can't lose them
 7034,34,5,55,3,1,1,About to sleep
-9493,15,17,1808,4,3,4,Potential Customer
+9493,15,17,1808,4,3,4,Lost customer
 1143,43,5,55,3,1,1,About to sleep
-1,0,17,577,4,3,3,Potential Customer
-3855,74,7,162,2,2,2,Hibernating
-5536,61,19,1957,2,4,4,At risk
-5989,51,23,1576,2,4,4,At risk
-9499,97,14,1616,1,3,4,At risk
-6768,75,4,36,1,1,1,Hibernating
-2150,83,21,1482,1,4,4,At risk
-6646,23,4,22,4,1,1,Promising
-4887,65,5,63,2,1,1,Hibernating
-8560,94,17,680,1,3,3,At risk
-3321,42,17,542,3,3,3,Need Attention
-11003,10,5,50,4,1,1,Promising
-10402,94,4,39,1,1,1,Hibernating
-9904,50,23,1043,2,4,3,At risk
-6141,46,12,385,3,2,2,About to sleep
-5687,98,26,1633,1,4,4,At risk
+1,0,17,577,4,3,3,Lost customer
+3855,74,7,162,2,2,2,Need attention
+5536,61,19,1957,2,4,4,Can't lose them
+5989,51,23,1576,2,4,4,Can't lose them
+9499,97,14,1616,1,3,4,Potential Loyalist
+6768,75,4,36,1,1,1,New Customer
+2150,83,21,1482,1,4,4,Loyal customer
+6646,23,4,22,4,1,1,Hibernating
+4887,65,5,63,2,1,1,About to sleep
+8560,94,17,680,1,3,3,Potential Loyalist
+3321,42,17,542,3,3,3,Need attention
+11003,10,5,50,4,1,1,Hibernating
+10402,94,4,39,1,1,1,New Customer
+9904,50,23,1043,2,4,3,Can't lose them
+6141,46,12,385,3,2,2,Need attention
+5687,98,26,1633,1,4,4,Loyal customer
 10856,42,4,46,3,1,1,About to sleep
-5121,30,18,761,3,3,3,Need Attention
-4186,11,6,76,4,1,2,Promising
-368,61,11,290,2,2,2,Hibernating
-3312,12,7,89,4,2,2,Potential Customer
-11121,76,7,70,1,2,2,Hibernating
-5332,2,16,1066,4,3,4,Potential Customer
-5848,43,18,2009,3,3,4,Need Attention
-10343,27,17,1345,3,3,4,Need Attention
-5935,60,20,764,2,4,3,At risk
-2895,79,9,195,1,2,2,Hibernating
-10262,96,7,53,1,2,1,Hibernating
-7848,17,11,368,4,2,2,Potential Customer
-9477,0,17,544,4,3,3,Potential Customer
-4856,38,24,1853,3,4,4,Loyal Customer
+5121,30,18,761,3,3,3,Need attention
+4186,11,6,76,4,1,2,Hibernating
+368,61,11,290,2,2,2,Need attention
+3312,12,7,89,4,2,2,Lost customer
+11121,76,7,70,1,2,2,Potential Loyalist
+5332,2,16,1066,4,3,4,Lost customer
+5848,43,18,2009,3,3,4,Need attention
+10343,27,17,1345,3,3,4,Need attention
+5935,60,20,764,2,4,3,Can't lose them
+2895,79,9,195,1,2,2,Potential Loyalist
+10262,96,7,53,1,2,1,Potential Loyalist
+7848,17,11,368,4,2,2,Lost customer
+9477,0,17,544,4,3,3,Lost customer
+4856,38,24,1853,3,4,4,Can't lose them
 7186,43,4,35,3,1,1,About to sleep
-5794,1,15,446,4,3,3,Potential Customer
-1456,25,24,1180,3,4,4,Loyal Customer
-4877,2,4,41,4,1,1,Promising
-425,66,19,727,2,4,3,At risk
+5794,1,15,446,4,3,3,Lost customer
+1456,25,24,1180,3,4,4,Can't lose them
+4877,2,4,41,4,1,1,Hibernating
+425,66,19,727,2,4,3,Can't lose them
 3007,49,4,40,3,1,1,About to sleep
-1031,5,25,1062,4,4,4,Loyal Customer
-4297,71,5,40,2,1,1,Hibernating
-807,35,11,292,3,2,2,About to sleep
-9553,94,3,15,1,1,1,Hibernating
-4271,80,11,341,1,2,2,Hibernating
-4120,61,11,369,2,2,2,Hibernating
-2036,29,14,401,3,3,3,Need Attention
-115,0,14,393,4,3,2,Potential Customer
-4259,80,3,10,1,1,1,Hibernating
-8687,54,13,486,2,3,3,At risk
-2447,71,5,69,2,1,1,Hibernating
-10140,27,16,1727,3,3,4,Need Attention
-9353,61,14,995,2,3,3,At risk
-3623,55,7,45,2,2,1,Hibernating
-738,35,8,182,3,2,2,About to sleep
-7631,34,22,989,3,4,3,Loyal Customer
-4789,95,17,1677,1,3,4,At risk
-773,64,16,595,2,3,3,At risk
-10602,30,7,156,3,2,2,About to sleep
-1446,12,27,1226,4,4,4,Loyal Customer
-3270,96,7,128,1,2,2,Hibernating
-8443,16,6,86,4,1,2,Promising
-9653,16,5,68,4,1,1,Promising
-8916,78,3,16,1,1,1,Hibernating
-8017,83,5,55,1,1,1,Hibernating
-5830,96,21,2114,1,4,4,At risk
-4597,67,18,2018,2,3,4,At risk
-7023,87,11,263,1,2,2,Hibernating
+1031,5,25,1062,4,4,4,Once loyal
+4297,71,5,40,2,1,1,About to sleep
+807,35,11,292,3,2,2,Need attention
+9553,94,3,15,1,1,1,New Customer
+4271,80,11,341,1,2,2,Potential Loyalist
+4120,61,11,369,2,2,2,Need attention
+2036,29,14,401,3,3,3,Need attention
+115,0,14,393,4,3,2,Lost customer
+4259,80,3,10,1,1,1,New Customer
+8687,54,13,486,2,3,3,Need attention
+2447,71,5,69,2,1,1,About to sleep
+10140,27,16,1727,3,3,4,Need attention
+9353,61,14,995,2,3,3,Need attention
+3623,55,7,45,2,2,1,Need attention
+738,35,8,182,3,2,2,Need attention
+7631,34,22,989,3,4,3,Can't lose them
+4789,95,17,1677,1,3,4,Potential Loyalist
+773,64,16,595,2,3,3,Need attention
+10602,30,7,156,3,2,2,Need attention
+1446,12,27,1226,4,4,4,Once loyal
+3270,96,7,128,1,2,2,Potential Loyalist
+8443,16,6,86,4,1,2,Hibernating
+9653,16,5,68,4,1,1,Hibernating
+8916,78,3,16,1,1,1,New Customer
+8017,83,5,55,1,1,1,New Customer
+5830,96,21,2114,1,4,4,Loyal customer
+4597,67,18,2018,2,3,4,Need attention
+7023,87,11,263,1,2,2,Potential Loyalist
 8086,34,5,55,3,1,1,About to sleep
-8825,46,16,564,3,3,3,Need Attention
-2930,7,18,1281,4,3,4,Potential Customer
-1928,73,5,83,2,1,2,Hibernating
-7108,54,12,353,2,2,2,Hibernating
-10925,93,24,1003,1,4,3,At risk
-9960,52,3,14,2,1,1,Hibernating
-8800,53,22,902,2,4,3,At risk
-9224,81,23,1139,1,4,4,At risk
-5519,8,19,797,4,4,3,Loyal Customer
-5046,97,23,1638,1,4,4,At risk
-7037,50,14,401,2,3,3,At risk
-905,38,7,84,3,2,2,About to sleep
-8624,61,17,928,2,3,3,At risk
-8945,46,9,203,3,2,2,About to sleep
-6445,73,15,858,2,3,3,At risk
-2727,19,12,409,4,2,3,Potential Customer
-6404,10,11,282,4,2,2,Potential Customer
-11074,94,17,1423,1,3,4,At risk
-10150,10,18,1449,4,3,4,Potential Customer
+8825,46,16,564,3,3,3,Need attention
+2930,7,18,1281,4,3,4,Lost customer
+1928,73,5,83,2,1,2,About to sleep
+7108,54,12,353,2,2,2,Need attention
+10925,93,24,1003,1,4,3,Loyal customer
+9960,52,3,14,2,1,1,About to sleep
+8800,53,22,902,2,4,3,Can't lose them
+9224,81,23,1139,1,4,4,Loyal customer
+5519,8,19,797,4,4,3,Once loyal
+5046,97,23,1638,1,4,4,Loyal customer
+7037,50,14,401,2,3,3,Need attention
+905,38,7,84,3,2,2,Need attention
+8624,61,17,928,2,3,3,Need attention
+8945,46,9,203,3,2,2,Need attention
+6445,73,15,858,2,3,3,Need attention
+2727,19,12,409,4,2,3,Lost customer
+6404,10,11,282,4,2,2,Lost customer
+11074,94,17,1423,1,3,4,Potential Loyalist
+10150,10,18,1449,4,3,4,Lost customer
 1968,37,3,28,3,1,1,About to sleep
-6534,94,5,67,1,1,1,Hibernating
-9485,23,9,199,4,2,2,Potential Customer
-7053,75,21,1453,1,4,4,At risk
-4654,40,18,1253,3,3,4,Need Attention
-9760,24,25,1198,4,4,4,Loyal Customer
-1048,11,8,178,4,2,2,Potential Customer
-10619,29,17,1990,3,3,4,Need Attention
-9308,51,13,976,2,3,3,At risk
-10505,86,14,1001,1,3,3,At risk
-8362,9,19,1919,4,4,4,Loyal Customer
-2625,30,12,350,3,2,2,About to sleep
-4637,73,24,1650,2,4,4,At risk
+6534,94,5,67,1,1,1,New Customer
+9485,23,9,199,4,2,2,Lost customer
+7053,75,21,1453,1,4,4,Loyal customer
+4654,40,18,1253,3,3,4,Need attention
+9760,24,25,1198,4,4,4,Once loyal
+1048,11,8,178,4,2,2,Lost customer
+10619,29,17,1990,3,3,4,Need attention
+9308,51,13,976,2,3,3,Need attention
+10505,86,14,1001,1,3,3,Potential Loyalist
+8362,9,19,1919,4,4,4,Once loyal
+2625,30,12,350,3,2,2,Need attention
+4637,73,24,1650,2,4,4,Can't lose them
 9972,25,4,46,3,1,1,About to sleep
-4483,67,18,1228,2,3,4,At risk
-4487,67,6,95,2,1,2,Hibernating
-4988,58,6,62,2,1,1,Hibernating
-8931,82,25,1761,1,4,4,At risk
-5871,98,13,467,1,3,3,At risk
-2008,93,18,1149,1,3,4,At risk
-3139,53,18,2052,2,3,4,At risk
-10037,66,15,1127,2,3,4,At risk
-10673,6,20,1416,4,4,4,Loyal Customer
-5303,42,19,1113,3,4,4,Loyal Customer
-538,78,6,125,1,1,2,Hibernating
-7922,29,23,966,3,4,3,Loyal Customer
-5692,82,4,32,1,1,1,Hibernating
-4843,92,18,833,1,3,3,At risk
-6383,78,6,46,1,1,1,Hibernating
-1628,54,16,960,2,3,3,At risk
-1204,45,27,1829,3,4,4,Loyal Customer
-3673,59,23,779,2,4,3,At risk
-760,8,21,811,4,4,3,Loyal Customer
-8957,51,14,1120,2,3,4,At risk
-4128,51,18,725,2,3,3,At risk
-6810,76,11,1187,1,2,4,Hibernating
-5386,62,18,2302,2,3,4,At risk
-8700,86,6,66,1,1,1,Hibernating
-3202,60,18,1250,2,3,4,At risk
-1328,56,17,683,2,3,3,At risk
-8405,83,11,305,1,2,2,Hibernating
-6515,92,5,50,1,1,1,Hibernating
-2882,31,14,995,3,3,3,Need Attention
-7574,80,5,41,1,1,1,Hibernating
+4483,67,18,1228,2,3,4,Need attention
+4487,67,6,95,2,1,2,About to sleep
+4988,58,6,62,2,1,1,About to sleep
+8931,82,25,1761,1,4,4,Loyal customer
+5871,98,13,467,1,3,3,Potential Loyalist
+2008,93,18,1149,1,3,4,Potential Loyalist
+3139,53,18,2052,2,3,4,Need attention
+10037,66,15,1127,2,3,4,Need attention
+10673,6,20,1416,4,4,4,Once loyal
+5303,42,19,1113,3,4,4,Can't lose them
+538,78,6,125,1,1,2,New Customer
+7922,29,23,966,3,4,3,Can't lose them
+5692,82,4,32,1,1,1,New Customer
+4843,92,18,833,1,3,3,Potential Loyalist
+6383,78,6,46,1,1,1,New Customer
+1628,54,16,960,2,3,3,Need attention
+1204,45,27,1829,3,4,4,Can't lose them
+3673,59,23,779,2,4,3,Can't lose them
+760,8,21,811,4,4,3,Once loyal
+8957,51,14,1120,2,3,4,Need attention
+4128,51,18,725,2,3,3,Need attention
+6810,76,11,1187,1,2,4,Potential Loyalist
+5386,62,18,2302,2,3,4,Need attention
+8700,86,6,66,1,1,1,New Customer
+3202,60,18,1250,2,3,4,Need attention
+1328,56,17,683,2,3,3,Need attention
+8405,83,11,305,1,2,2,Potential Loyalist
+6515,92,5,50,1,1,1,New Customer
+2882,31,14,995,3,3,3,Need attention
+7574,80,5,41,1,1,1,New Customer
 6387,39,6,77,3,1,2,About to sleep
-5320,20,8,171,4,2,2,Potential Customer
-5048,53,6,131,2,1,2,Hibernating
-8146,84,4,54,1,1,1,Hibernating
-10031,50,7,53,2,2,1,Hibernating
-5748,96,13,475,1,3,3,At risk
-2134,94,18,694,1,3,3,At risk
+5320,20,8,171,4,2,2,Lost customer
+5048,53,6,131,2,1,2,About to sleep
+8146,84,4,54,1,1,1,New Customer
+10031,50,7,53,2,2,1,Need attention
+5748,96,13,475,1,3,3,Potential Loyalist
+2134,94,18,694,1,3,3,Potential Loyalist
 1523,25,6,96,3,1,2,About to sleep
-9665,48,12,361,3,2,2,About to sleep
-4640,65,24,1079,2,4,4,At risk
-3635,69,17,578,2,3,3,At risk
-3547,12,5,64,4,1,1,Promising
-2456,84,8,149,1,2,2,Hibernating
-5633,47,10,231,3,2,2,About to sleep
-7801,87,18,728,1,3,3,At risk
-10489,35,22,1778,3,4,4,Loyal Customer
-7011,47,7,93,3,2,2,About to sleep
+9665,48,12,361,3,2,2,Need attention
+4640,65,24,1079,2,4,4,Can't lose them
+3635,69,17,578,2,3,3,Need attention
+3547,12,5,64,4,1,1,Hibernating
+2456,84,8,149,1,2,2,Potential Loyalist
+5633,47,10,231,3,2,2,Need attention
+7801,87,18,728,1,3,3,Potential Loyalist
+10489,35,22,1778,3,4,4,Can't lose them
+7011,47,7,93,3,2,2,Need attention
 2620,48,3,23,3,1,1,About to sleep
-3933,46,18,662,3,3,3,Need Attention
-10981,27,17,1198,3,3,4,Need Attention
-1734,37,7,81,3,2,2,About to sleep
-10995,8,7,92,4,2,2,Potential Customer
-6357,29,15,491,3,3,3,Need Attention
-9209,85,23,1564,1,4,4,At risk
-10286,2,23,926,4,4,3,Loyal Customer
-2611,66,18,1910,2,3,4,At risk
-1600,60,14,411,2,3,3,At risk
-3308,54,6,94,2,1,2,Hibernating
-5407,70,23,1085,2,4,4,At risk
-2166,55,3,23,2,1,1,Hibernating
-3955,20,0,6,4,1,1,Promising
-6634,78,5,54,1,1,1,Hibernating
-3056,63,26,1150,2,4,4,At risk
-5718,17,22,1415,4,4,4,Loyal Customer
-6872,43,14,405,3,3,3,Need Attention
-8164,13,18,1908,4,3,4,Potential Customer
-4580,46,25,2486,3,4,4,Loyal Customer
-9305,65,26,1315,2,4,4,At risk
-453,1,5,45,4,1,1,Promising
-8545,6,16,1789,4,3,4,Potential Customer
+3933,46,18,662,3,3,3,Need attention
+10981,27,17,1198,3,3,4,Need attention
+1734,37,7,81,3,2,2,Need attention
+10995,8,7,92,4,2,2,Lost customer
+6357,29,15,491,3,3,3,Need attention
+9209,85,23,1564,1,4,4,Loyal customer
+10286,2,23,926,4,4,3,Once loyal
+2611,66,18,1910,2,3,4,Need attention
+1600,60,14,411,2,3,3,Need attention
+3308,54,6,94,2,1,2,About to sleep
+5407,70,23,1085,2,4,4,Can't lose them
+2166,55,3,23,2,1,1,About to sleep
+3955,20,0,6,4,1,1,Hibernating
+6634,78,5,54,1,1,1,New Customer
+3056,63,26,1150,2,4,4,Can't lose them
+5718,17,22,1415,4,4,4,Once loyal
+6872,43,14,405,3,3,3,Need attention
+8164,13,18,1908,4,3,4,Lost customer
+4580,46,25,2486,3,4,4,Can't lose them
+9305,65,26,1315,2,4,4,Can't lose them
+453,1,5,45,4,1,1,Hibernating
+8545,6,16,1789,4,3,4,Lost customer
 9850,32,3,19,3,1,1,About to sleep
-7378,34,17,573,3,3,3,Need Attention
-7646,70,20,805,2,4,3,At risk
+7378,34,17,573,3,3,3,Need attention
+7646,70,20,805,2,4,3,Can't lose them
 1640,49,6,108,3,1,2,About to sleep
-5184,65,3,23,2,1,1,Hibernating
-8492,25,22,1493,3,4,4,Loyal Customer
-11188,84,6,89,1,1,2,Hibernating
-1212,7,22,936,4,4,3,Loyal Customer
-9097,34,12,343,3,2,2,About to sleep
-10473,38,19,528,3,4,3,Loyal Customer
-7962,1,11,1901,4,2,4,Potential Customer
-9984,25,17,724,3,3,3,Need Attention
+5184,65,3,23,2,1,1,About to sleep
+8492,25,22,1493,3,4,4,Can't lose them
+11188,84,6,89,1,1,2,New Customer
+1212,7,22,936,4,4,3,Once loyal
+9097,34,12,343,3,2,2,Need attention
+10473,38,19,528,3,4,3,Can't lose them
+7962,1,11,1901,4,2,4,Lost customer
+9984,25,17,724,3,3,3,Need attention
 5527,25,5,58,3,1,1,About to sleep
-6374,50,11,297,2,2,2,Hibernating
-7453,46,15,488,3,3,3,Need Attention
-8952,96,21,859,1,4,3,At risk
-241,57,19,1574,2,4,4,At risk
+6374,50,11,297,2,2,2,Need attention
+7453,46,15,488,3,3,3,Need attention
+8952,96,21,859,1,4,3,Loyal customer
+241,57,19,1574,2,4,4,Can't lose them
 8975,47,6,69,3,1,1,About to sleep
-6119,52,3,17,2,1,1,Hibernating
-5236,30,20,2194,3,4,4,Loyal Customer
-5723,63,7,116,2,2,2,Hibernating
-1710,51,11,279,2,2,2,Hibernating
-1970,14,6,103,4,1,2,Promising
-5313,20,6,44,4,1,1,Promising
-10634,56,14,406,2,3,3,At risk
-7010,41,19,1363,3,4,4,Loyal Customer
-8562,72,10,236,2,2,2,Hibernating
-3158,1,4,39,4,1,1,Promising
-4436,27,7,137,3,2,2,About to sleep
-5287,77,7,79,1,2,2,Hibernating
-2445,87,5,63,1,1,1,Hibernating
-6059,81,18,1314,1,3,4,At risk
-4550,51,5,71,2,1,2,Hibernating
-4240,79,5,58,1,1,1,Hibernating
-8911,11,18,702,4,3,3,Potential Customer
-3706,54,6,94,2,1,2,Hibernating
-3628,93,5,80,1,1,2,Hibernating
-10175,0,4,22,4,1,1,Promising
-8985,54,27,1211,2,4,4,At risk
-5204,21,21,1461,4,4,4,Loyal Customer
-9220,58,19,1968,2,4,4,At risk
-9888,3,15,1091,4,3,4,Potential Customer
-5263,99,4,55,1,1,1,Hibernating
-1020,70,18,1366,2,3,4,At risk
-9503,65,11,313,2,2,2,Hibernating
-10613,44,7,62,3,2,1,About to sleep
-67,6,6,92,4,1,2,Promising
-6019,9,5,72,4,1,2,Promising
-5863,95,17,655,1,3,3,At risk
-3717,70,16,704,2,3,3,At risk
-6730,92,5,54,1,1,1,Hibernating
-10749,62,1,178,2,1,2,Hibernating
-4998,85,13,1033,1,3,3,At risk
-6287,2,4,36,4,1,1,Promising
-5985,0,7,122,4,2,2,Potential Customer
-4754,91,6,122,1,1,2,Hibernating
-4002,3,26,1123,4,4,4,Loyal Customer
-8870,68,12,497,2,2,3,Hibernating
-966,98,19,691,1,4,3,At risk
-4767,41,19,1363,3,4,4,Loyal Customer
-9725,16,3,12,4,1,1,Promising
-4475,82,24,2440,1,4,4,At risk
-5740,1,5,56,4,1,1,Promising
-5731,64,4,37,2,1,1,Hibernating
-7290,68,20,968,2,4,3,At risk
-3846,98,11,270,1,2,2,Hibernating
-8104,32,11,278,3,2,2,About to sleep
-4507,87,21,1250,1,4,4,At risk
-11013,84,16,938,1,3,3,At risk
-4491,3,17,1178,4,3,4,Potential Customer
-3759,34,24,1155,3,4,4,Loyal Customer
-1162,23,18,653,4,3,3,Potential Customer
+6119,52,3,17,2,1,1,About to sleep
+5236,30,20,2194,3,4,4,Can't lose them
+5723,63,7,116,2,2,2,Need attention
+1710,51,11,279,2,2,2,Need attention
+1970,14,6,103,4,1,2,Hibernating
+5313,20,6,44,4,1,1,Hibernating
+10634,56,14,406,2,3,3,Need attention
+7010,41,19,1363,3,4,4,Can't lose them
+8562,72,10,236,2,2,2,Need attention
+3158,1,4,39,4,1,1,Hibernating
+4436,27,7,137,3,2,2,Need attention
+5287,77,7,79,1,2,2,Potential Loyalist
+2445,87,5,63,1,1,1,New Customer
+6059,81,18,1314,1,3,4,Potential Loyalist
+4550,51,5,71,2,1,2,About to sleep
+4240,79,5,58,1,1,1,New Customer
+8911,11,18,702,4,3,3,Lost customer
+3706,54,6,94,2,1,2,About to sleep
+3628,93,5,80,1,1,2,New Customer
+10175,0,4,22,4,1,1,Hibernating
+8985,54,27,1211,2,4,4,Can't lose them
+5204,21,21,1461,4,4,4,Once loyal
+9220,58,19,1968,2,4,4,Can't lose them
+9888,3,15,1091,4,3,4,Lost customer
+5263,99,4,55,1,1,1,New Customer
+1020,70,18,1366,2,3,4,Need attention
+9503,65,11,313,2,2,2,Need attention
+10613,44,7,62,3,2,1,Need attention
+67,6,6,92,4,1,2,Hibernating
+6019,9,5,72,4,1,2,Hibernating
+5863,95,17,655,1,3,3,Potential Loyalist
+3717,70,16,704,2,3,3,Need attention
+6730,92,5,54,1,1,1,New Customer
+10749,62,1,178,2,1,2,About to sleep
+4998,85,13,1033,1,3,3,Potential Loyalist
+6287,2,4,36,4,1,1,Hibernating
+5985,0,7,122,4,2,2,Lost customer
+4754,91,6,122,1,1,2,New Customer
+4002,3,26,1123,4,4,4,Once loyal
+8870,68,12,497,2,2,3,Need attention
+966,98,19,691,1,4,3,Loyal customer
+4767,41,19,1363,3,4,4,Can't lose them
+9725,16,3,12,4,1,1,Hibernating
+4475,82,24,2440,1,4,4,Loyal customer
+5740,1,5,56,4,1,1,Hibernating
+5731,64,4,37,2,1,1,About to sleep
+7290,68,20,968,2,4,3,Can't lose them
+3846,98,11,270,1,2,2,Potential Loyalist
+8104,32,11,278,3,2,2,Need attention
+4507,87,21,1250,1,4,4,Loyal customer
+11013,84,16,938,1,3,3,Potential Loyalist
+4491,3,17,1178,4,3,4,Lost customer
+3759,34,24,1155,3,4,4,Can't lose them
+1162,23,18,653,4,3,3,Lost customer
 2055,37,4,49,3,1,1,About to sleep
-10766,22,16,506,4,3,3,Potential Customer
-4415,19,5,38,4,1,1,Promising
-3005,7,22,1650,4,4,4,Loyal Customer
-2223,52,25,1826,2,4,4,At risk
-4817,91,3,18,1,1,1,Hibernating
-2875,93,23,906,1,4,3,At risk
-10536,78,6,46,1,1,1,Hibernating
-11112,23,19,1477,4,4,4,Loyal Customer
-3807,83,20,766,1,4,3,At risk
-9197,92,5,47,1,1,1,Hibernating
-10832,4,13,467,4,3,3,Potential Customer
-6421,32,20,2116,3,4,4,Loyal Customer
-4207,27,24,1298,3,4,4,Loyal Customer
-577,10,4,22,4,1,1,Promising
-10855,9,13,396,4,3,2,Potential Customer
-3081,65,3,20,2,1,1,Hibernating
-3535,68,12,967,2,2,3,Hibernating
-247,16,13,357,4,3,2,Potential Customer
-8707,12,15,1401,4,3,4,Potential Customer
-9523,95,3,15,1,1,1,Hibernating
-6072,16,19,2087,4,4,4,Loyal Customer
-6295,46,22,981,3,4,3,Loyal Customer
-10914,3,4,17,4,1,1,Promising
-1509,80,22,523,1,4,3,At risk
-5577,77,3,23,1,1,1,Hibernating
-7348,0,16,1192,4,3,4,Potential Customer
-1127,62,19,1958,2,4,4,At risk
-1833,91,7,133,1,2,2,Hibernating
-4944,24,16,777,4,3,3,Potential Customer
-9080,2,6,73,4,1,2,Promising
-6466,22,7,121,4,2,2,Potential Customer
-9964,56,14,424,2,3,3,At risk
-4790,54,12,868,2,2,3,Hibernating
-10245,71,14,756,2,3,3,At risk
+10766,22,16,506,4,3,3,Lost customer
+4415,19,5,38,4,1,1,Hibernating
+3005,7,22,1650,4,4,4,Once loyal
+2223,52,25,1826,2,4,4,Can't lose them
+4817,91,3,18,1,1,1,New Customer
+2875,93,23,906,1,4,3,Loyal customer
+10536,78,6,46,1,1,1,New Customer
+11112,23,19,1477,4,4,4,Once loyal
+3807,83,20,766,1,4,3,Loyal customer
+9197,92,5,47,1,1,1,New Customer
+10832,4,13,467,4,3,3,Lost customer
+6421,32,20,2116,3,4,4,Can't lose them
+4207,27,24,1298,3,4,4,Can't lose them
+577,10,4,22,4,1,1,Hibernating
+10855,9,13,396,4,3,2,Lost customer
+3081,65,3,20,2,1,1,About to sleep
+3535,68,12,967,2,2,3,Need attention
+247,16,13,357,4,3,2,Lost customer
+8707,12,15,1401,4,3,4,Lost customer
+9523,95,3,15,1,1,1,New Customer
+6072,16,19,2087,4,4,4,Once loyal
+6295,46,22,981,3,4,3,Can't lose them
+10914,3,4,17,4,1,1,Hibernating
+1509,80,22,523,1,4,3,Loyal customer
+5577,77,3,23,1,1,1,New Customer
+7348,0,16,1192,4,3,4,Lost customer
+1127,62,19,1958,2,4,4,Can't lose them
+1833,91,7,133,1,2,2,Potential Loyalist
+4944,24,16,777,4,3,3,Lost customer
+9080,2,6,73,4,1,2,Hibernating
+6466,22,7,121,4,2,2,Lost customer
+9964,56,14,424,2,3,3,Need attention
+4790,54,12,868,2,2,3,Need attention
+10245,71,14,756,2,3,3,Need attention
 1109,38,3,12,3,1,1,About to sleep
-6001,62,23,937,2,4,3,At risk
-5538,78,17,1862,1,3,4,At risk
-10552,18,12,367,4,2,2,Potential Customer
-1545,95,14,443,1,3,3,At risk
-7409,66,11,267,2,2,2,Hibernating
+6001,62,23,937,2,4,3,Can't lose them
+5538,78,17,1862,1,3,4,Potential Loyalist
+10552,18,12,367,4,2,2,Lost customer
+1545,95,14,443,1,3,3,Potential Loyalist
+7409,66,11,267,2,2,2,Need attention
 4444,28,5,61,3,1,1,About to sleep
-146,78,20,1323,1,4,4,At risk
-6271,13,5,63,4,1,1,Promising
+146,78,20,1323,1,4,4,Loyal customer
+6271,13,5,63,4,1,1,Hibernating
 10065,27,6,64,3,1,1,About to sleep
-4741,17,17,562,4,3,3,Potential Customer
-246,71,12,312,2,2,2,Hibernating
-375,79,15,1156,1,3,4,At risk
-1524,1,15,1104,4,3,4,Potential Customer
-10022,78,3,16,1,1,1,Hibernating
-7451,23,19,2008,4,4,4,Loyal Customer
-11010,75,6,44,1,1,1,Hibernating
-4356,70,11,1574,2,2,4,Hibernating
-3885,10,4,63,4,1,1,Promising
-1175,24,11,426,4,2,3,Potential Customer
+4741,17,17,562,4,3,3,Lost customer
+246,71,12,312,2,2,2,Need attention
+375,79,15,1156,1,3,4,Potential Loyalist
+1524,1,15,1104,4,3,4,Lost customer
+10022,78,3,16,1,1,1,New Customer
+7451,23,19,2008,4,4,4,Once loyal
+11010,75,6,44,1,1,1,New Customer
+4356,70,11,1574,2,2,4,Need attention
+3885,10,4,63,4,1,1,Hibernating
+1175,24,11,426,4,2,3,Lost customer
 880,47,5,96,3,1,2,About to sleep
-2320,98,18,635,1,3,3,At risk
-850,4,20,757,4,4,3,Loyal Customer
-4713,15,7,125,4,2,2,Potential Customer
-675,67,11,332,2,2,2,Hibernating
-5025,32,7,135,3,2,2,About to sleep
-2308,40,12,330,3,2,2,About to sleep
-5995,54,13,384,2,3,2,At risk
-6749,78,14,1722,1,3,4,At risk
-1010,94,5,78,1,1,2,Hibernating
-8977,51,3,24,2,1,1,Hibernating
-4756,42,24,1168,3,4,4,Loyal Customer
-3412,67,13,957,2,3,3,At risk
-606,87,3,15,1,1,1,Hibernating
+2320,98,18,635,1,3,3,Potential Loyalist
+850,4,20,757,4,4,3,Once loyal
+4713,15,7,125,4,2,2,Lost customer
+675,67,11,332,2,2,2,Need attention
+5025,32,7,135,3,2,2,Need attention
+2308,40,12,330,3,2,2,Need attention
+5995,54,13,384,2,3,2,Need attention
+6749,78,14,1722,1,3,4,Potential Loyalist
+1010,94,5,78,1,1,2,New Customer
+8977,51,3,24,2,1,1,About to sleep
+4756,42,24,1168,3,4,4,Can't lose them
+3412,67,13,957,2,3,3,Need attention
+606,87,3,15,1,1,1,New Customer
 5961,29,4,57,3,1,1,About to sleep
-2975,89,22,1956,1,4,4,At risk
-2894,74,20,2013,2,4,4,At risk
-7613,97,12,326,1,2,2,Hibernating
-10542,63,6,77,2,1,2,Hibernating
-8015,88,19,1313,1,4,4,At risk
+2975,89,22,1956,1,4,4,Loyal customer
+2894,74,20,2013,2,4,4,Can't lose them
+7613,97,12,326,1,2,2,Potential Loyalist
+10542,63,6,77,2,1,2,About to sleep
+8015,88,19,1313,1,4,4,Loyal customer
 10617,34,6,30,3,1,1,About to sleep
-11166,81,12,315,1,2,2,Hibernating
-849,65,18,660,2,3,3,At risk
-523,51,6,74,2,1,2,Hibernating
-4066,76,5,46,1,1,1,Hibernating
-8414,76,6,86,1,1,2,Hibernating
-819,84,24,1103,1,4,4,At risk
-4961,56,7,61,2,2,1,Hibernating
-749,31,7,145,3,2,2,About to sleep
-5430,0,19,684,4,4,3,Loyal Customer
-7755,91,14,411,1,3,3,At risk
+11166,81,12,315,1,2,2,Potential Loyalist
+849,65,18,660,2,3,3,Need attention
+523,51,6,74,2,1,2,About to sleep
+4066,76,5,46,1,1,1,New Customer
+8414,76,6,86,1,1,2,New Customer
+819,84,24,1103,1,4,4,Loyal customer
+4961,56,7,61,2,2,1,Need attention
+749,31,7,145,3,2,2,Need attention
+5430,0,19,684,4,4,3,Once loyal
+7755,91,14,411,1,3,3,Potential Loyalist
 10525,40,3,27,3,1,1,About to sleep
-1453,59,25,1060,2,4,4,At risk
-8310,96,21,1459,1,4,4,At risk
-10710,61,3,18,2,1,1,Hibernating
-5031,14,25,1833,4,4,4,Loyal Customer
-2613,16,10,237,4,2,2,Potential Customer
-213,98,6,48,1,1,1,Hibernating
-967,11,16,515,4,3,3,Potential Customer
-1077,52,14,1020,2,3,3,At risk
-7959,19,10,1370,4,2,4,Potential Customer
-640,61,23,1026,2,4,3,At risk
-4252,73,11,301,2,2,2,Hibernating
-8432,0,19,684,4,4,3,Loyal Customer
-6218,74,16,499,2,3,3,At risk
-6905,55,20,1004,2,4,3,At risk
-5922,48,10,218,3,2,2,About to sleep
-3598,53,18,606,2,3,3,At risk
-6116,13,5,75,4,1,2,Promising
+1453,59,25,1060,2,4,4,Can't lose them
+8310,96,21,1459,1,4,4,Loyal customer
+10710,61,3,18,2,1,1,About to sleep
+5031,14,25,1833,4,4,4,Once loyal
+2613,16,10,237,4,2,2,Lost customer
+213,98,6,48,1,1,1,New Customer
+967,11,16,515,4,3,3,Lost customer
+1077,52,14,1020,2,3,3,Need attention
+7959,19,10,1370,4,2,4,Lost customer
+640,61,23,1026,2,4,3,Can't lose them
+4252,73,11,301,2,2,2,Need attention
+8432,0,19,684,4,4,3,Once loyal
+6218,74,16,499,2,3,3,Need attention
+6905,55,20,1004,2,4,3,Can't lose them
+5922,48,10,218,3,2,2,Need attention
+3598,53,18,606,2,3,3,Need attention
+6116,13,5,75,4,1,2,Hibernating
 6263,34,6,106,3,1,2,About to sleep
-10486,54,16,990,2,3,3,At risk
-2410,69,15,1097,2,3,4,At risk
-193,81,3,16,1,1,1,Hibernating
-3363,99,4,34,1,1,1,Hibernating
-8278,3,15,1711,4,3,4,Potential Customer
-10660,61,14,438,2,3,3,At risk
-8686,65,5,75,2,1,2,Hibernating
-1604,93,10,225,1,2,2,Hibernating
-5907,24,3,18,4,1,1,Promising
-10669,8,15,470,4,3,3,Potential Customer
-2918,72,6,91,2,1,2,Hibernating
-5735,29,17,2525,3,3,4,Need Attention
-359,33,16,504,3,3,3,Need Attention
-8387,68,10,235,2,2,2,Hibernating
-1829,55,18,1232,2,3,4,At risk
-3839,76,7,88,1,2,2,Hibernating
-9392,17,3,17,4,1,1,Promising
-2292,94,4,24,1,1,1,Hibernating
-10466,86,5,60,1,1,1,Hibernating
-9855,25,25,1020,3,4,3,Loyal Customer
-4088,22,8,155,4,2,2,Potential Customer
-5231,15,4,51,4,1,1,Promising
-590,35,15,1812,3,3,4,Need Attention
-8732,81,21,1461,1,4,4,At risk
-2315,55,5,96,2,1,2,Hibernating
-3515,94,8,160,1,2,2,Hibernating
-2245,50,7,139,2,2,2,Hibernating
-6283,64,21,908,2,4,3,At risk
-2246,91,7,183,1,2,2,Hibernating
-6606,11,17,1161,4,3,4,Potential Customer
-5545,72,13,988,2,3,3,At risk
-7342,6,24,1072,4,4,4,Loyal Customer
-837,0,8,174,4,2,2,Potential Customer
-9500,66,19,758,2,4,3,At risk
-3602,42,9,195,3,2,2,About to sleep
-234,60,4,31,2,1,1,Hibernating
-2995,64,16,1084,2,3,4,At risk
-1118,87,19,685,1,4,3,At risk
-7789,96,25,1672,1,4,4,At risk
-3068,1,5,43,4,1,1,Promising
-8955,54,4,49,2,1,1,Hibernating
-945,53,7,133,2,2,2,Hibernating
-5644,96,13,363,1,3,2,At risk
-7192,58,16,545,2,3,3,At risk
-2324,12,29,1065,4,4,4,Loyal Customer
-697,78,20,2047,1,4,4,At risk
-3439,64,10,296,2,2,2,Hibernating
-1506,26,7,140,3,2,2,About to sleep
-232,8,16,530,4,3,3,Potential Customer
-8876,49,8,152,3,2,2,About to sleep
-4500,56,23,1598,2,4,4,At risk
-9739,55,6,114,2,1,2,Hibernating
-10395,25,7,101,3,2,2,About to sleep
-1176,50,3,25,2,1,1,Hibernating
-1627,84,21,789,1,4,3,At risk
+10486,54,16,990,2,3,3,Need attention
+2410,69,15,1097,2,3,4,Need attention
+193,81,3,16,1,1,1,New Customer
+3363,99,4,34,1,1,1,New Customer
+8278,3,15,1711,4,3,4,Lost customer
+10660,61,14,438,2,3,3,Need attention
+8686,65,5,75,2,1,2,About to sleep
+1604,93,10,225,1,2,2,Potential Loyalist
+5907,24,3,18,4,1,1,Hibernating
+10669,8,15,470,4,3,3,Lost customer
+2918,72,6,91,2,1,2,About to sleep
+5735,29,17,2525,3,3,4,Need attention
+359,33,16,504,3,3,3,Need attention
+8387,68,10,235,2,2,2,Need attention
+1829,55,18,1232,2,3,4,Need attention
+3839,76,7,88,1,2,2,Potential Loyalist
+9392,17,3,17,4,1,1,Hibernating
+2292,94,4,24,1,1,1,New Customer
+10466,86,5,60,1,1,1,New Customer
+9855,25,25,1020,3,4,3,Can't lose them
+4088,22,8,155,4,2,2,Lost customer
+5231,15,4,51,4,1,1,Hibernating
+590,35,15,1812,3,3,4,Need attention
+8732,81,21,1461,1,4,4,Loyal customer
+2315,55,5,96,2,1,2,About to sleep
+3515,94,8,160,1,2,2,Potential Loyalist
+2245,50,7,139,2,2,2,Need attention
+6283,64,21,908,2,4,3,Can't lose them
+2246,91,7,183,1,2,2,Potential Loyalist
+6606,11,17,1161,4,3,4,Lost customer
+5545,72,13,988,2,3,3,Need attention
+7342,6,24,1072,4,4,4,Once loyal
+837,0,8,174,4,2,2,Lost customer
+9500,66,19,758,2,4,3,Can't lose them
+3602,42,9,195,3,2,2,Need attention
+234,60,4,31,2,1,1,About to sleep
+2995,64,16,1084,2,3,4,Need attention
+1118,87,19,685,1,4,3,Loyal customer
+7789,96,25,1672,1,4,4,Loyal customer
+3068,1,5,43,4,1,1,Hibernating
+8955,54,4,49,2,1,1,About to sleep
+945,53,7,133,2,2,2,Need attention
+5644,96,13,363,1,3,2,Potential Loyalist
+7192,58,16,545,2,3,3,Need attention
+2324,12,29,1065,4,4,4,Once loyal
+697,78,20,2047,1,4,4,Loyal customer
+3439,64,10,296,2,2,2,Need attention
+1506,26,7,140,3,2,2,Need attention
+232,8,16,530,4,3,3,Lost customer
+8876,49,8,152,3,2,2,Need attention
+4500,56,23,1598,2,4,4,Can't lose them
+9739,55,6,114,2,1,2,About to sleep
+10395,25,7,101,3,2,2,Need attention
+1176,50,3,25,2,1,1,About to sleep
+1627,84,21,789,1,4,3,Loyal customer
 938,30,5,87,3,1,2,About to sleep
-2740,81,7,90,1,2,2,Hibernating
-257,74,18,1215,2,3,4,At risk
-4058,76,21,811,1,4,3,At risk
+2740,81,7,90,1,2,2,Potential Loyalist
+257,74,18,1215,2,3,4,Need attention
+4058,76,21,811,1,4,3,Loyal customer
 7736,36,5,61,3,1,1,About to sleep
-8210,64,13,405,2,3,3,At risk
-833,62,6,72,2,1,2,Hibernating
-6230,53,9,189,2,2,2,Hibernating
-7325,86,4,40,1,1,1,Hibernating
-1307,15,7,63,4,2,1,Potential Customer
-1502,67,5,52,2,1,1,Hibernating
+8210,64,13,405,2,3,3,Need attention
+833,62,6,72,2,1,2,About to sleep
+6230,53,9,189,2,2,2,Need attention
+7325,86,4,40,1,1,1,New Customer
+1307,15,7,63,4,2,1,Lost customer
+1502,67,5,52,2,1,1,About to sleep
 6211,47,4,39,3,1,1,About to sleep
-843,47,21,805,3,4,3,Loyal Customer
-4174,81,7,130,1,2,2,Hibernating
-9757,98,23,1631,1,4,4,At risk
-6918,56,4,34,2,1,1,Hibernating
-286,48,8,152,3,2,2,About to sleep
-11086,18,4,21,4,1,1,Promising
-1921,74,5,71,2,1,2,Hibernating
-4138,68,22,899,2,4,3,At risk
-7718,36,9,711,3,2,3,About to sleep
-1291,90,12,351,1,2,2,Hibernating
-6862,65,0,8,2,1,1,Hibernating
-4136,63,7,119,2,2,2,Hibernating
-803,82,3,21,1,1,1,Hibernating
-4298,63,3,10,2,1,1,Hibernating
-10833,55,24,973,2,4,3,At risk
-9606,64,12,1536,2,2,4,Hibernating
-8534,51,24,992,2,4,3,At risk
-5153,97,32,1529,1,4,4,At risk
-961,92,15,860,1,3,3,At risk
-5011,51,21,928,2,4,3,At risk
-6653,72,14,418,2,3,3,At risk
-9094,39,14,587,3,3,3,Need Attention
-810,49,17,641,3,3,3,Need Attention
-5493,21,3,23,4,1,1,Promising
-2147,91,22,2279,1,4,4,At risk
+843,47,21,805,3,4,3,Can't lose them
+4174,81,7,130,1,2,2,Potential Loyalist
+9757,98,23,1631,1,4,4,Loyal customer
+6918,56,4,34,2,1,1,About to sleep
+286,48,8,152,3,2,2,Need attention
+11086,18,4,21,4,1,1,Hibernating
+1921,74,5,71,2,1,2,About to sleep
+4138,68,22,899,2,4,3,Can't lose them
+7718,36,9,711,3,2,3,Need attention
+1291,90,12,351,1,2,2,Potential Loyalist
+6862,65,0,8,2,1,1,About to sleep
+4136,63,7,119,2,2,2,Need attention
+803,82,3,21,1,1,1,New Customer
+4298,63,3,10,2,1,1,About to sleep
+10833,55,24,973,2,4,3,Can't lose them
+9606,64,12,1536,2,2,4,Need attention
+8534,51,24,992,2,4,3,Can't lose them
+5153,97,32,1529,1,4,4,Loyal customer
+961,92,15,860,1,3,3,Potential Loyalist
+5011,51,21,928,2,4,3,Can't lose them
+6653,72,14,418,2,3,3,Need attention
+9094,39,14,587,3,3,3,Need attention
+810,49,17,641,3,3,3,Need attention
+5493,21,3,23,4,1,1,Hibernating
+2147,91,22,2279,1,4,4,Loyal customer
 5107,37,4,49,3,1,1,About to sleep
-3979,98,16,1779,1,3,4,At risk
-6049,85,26,1804,1,4,4,At risk
+3979,98,16,1779,1,3,4,Potential Loyalist
+6049,85,26,1804,1,4,4,Loyal customer
 8147,40,5,48,3,1,1,About to sleep
-1857,2,5,83,4,1,2,Promising
-3910,78,17,1862,1,3,4,At risk
-5207,41,19,793,3,4,3,Loyal Customer
-11114,94,6,84,1,1,2,Hibernating
-5429,10,9,183,4,2,2,Potential Customer
-9400,73,18,1383,2,3,4,At risk
-1740,22,14,999,4,3,3,Potential Customer
-7488,30,21,825,3,4,3,Loyal Customer
-195,21,10,246,4,2,2,Potential Customer
-635,51,17,610,2,3,3,At risk
-7527,97,6,76,1,1,2,Hibernating
-10319,56,18,1286,2,3,4,At risk
-2296,4,3,30,4,1,1,Promising
-10637,77,6,99,1,1,2,Hibernating
-2931,95,22,1192,1,4,4,At risk
-907,36,13,362,3,3,2,Need Attention
-3698,13,18,2130,4,3,4,Potential Customer
-9516,90,26,1229,1,4,4,At risk
+1857,2,5,83,4,1,2,Hibernating
+3910,78,17,1862,1,3,4,Potential Loyalist
+5207,41,19,793,3,4,3,Can't lose them
+11114,94,6,84,1,1,2,New Customer
+5429,10,9,183,4,2,2,Lost customer
+9400,73,18,1383,2,3,4,Need attention
+1740,22,14,999,4,3,3,Lost customer
+7488,30,21,825,3,4,3,Can't lose them
+195,21,10,246,4,2,2,Lost customer
+635,51,17,610,2,3,3,Need attention
+7527,97,6,76,1,1,2,New Customer
+10319,56,18,1286,2,3,4,Need attention
+2296,4,3,30,4,1,1,Hibernating
+10637,77,6,99,1,1,2,New Customer
+2931,95,22,1192,1,4,4,Loyal customer
+907,36,13,362,3,3,2,Need attention
+3698,13,18,2130,4,3,4,Lost customer
+9516,90,26,1229,1,4,4,Loyal customer
 679,49,4,38,3,1,1,About to sleep
-7384,18,15,485,4,3,3,Potential Customer
-5043,89,11,434,1,2,3,Hibernating
+7384,18,15,485,4,3,3,Lost customer
+5043,89,11,434,1,2,3,Potential Loyalist
 5267,43,4,44,3,1,1,About to sleep
-339,82,16,496,1,3,3,At risk
-2516,84,5,78,1,1,2,Hibernating
-9010,80,22,2346,1,4,4,At risk
-378,68,19,794,2,4,3,At risk
-4808,12,3,17,4,1,1,Promising
-5068,75,4,26,1,1,1,Hibernating
-7628,10,6,76,4,1,2,Promising
-7128,91,3,15,1,1,1,Hibernating
-2811,21,5,62,4,1,1,Promising
-3551,28,8,198,3,2,2,About to sleep
-1663,97,4,49,1,1,1,Hibernating
-5543,49,20,802,3,4,3,Loyal Customer
-1577,14,14,1736,4,3,4,Potential Customer
-10641,5,6,57,4,1,1,Promising
+339,82,16,496,1,3,3,Potential Loyalist
+2516,84,5,78,1,1,2,New Customer
+9010,80,22,2346,1,4,4,Loyal customer
+378,68,19,794,2,4,3,Can't lose them
+4808,12,3,17,4,1,1,Hibernating
+5068,75,4,26,1,1,1,New Customer
+7628,10,6,76,4,1,2,Hibernating
+7128,91,3,15,1,1,1,New Customer
+2811,21,5,62,4,1,1,Hibernating
+3551,28,8,198,3,2,2,Need attention
+1663,97,4,49,1,1,1,New Customer
+5543,49,20,802,3,4,3,Can't lose them
+1577,14,14,1736,4,3,4,Lost customer
+10641,5,6,57,4,1,1,Hibernating
 5336,37,2,59,3,1,1,About to sleep
-6024,62,18,2302,2,3,4,At risk
-1878,83,5,37,1,1,1,Hibernating
-3099,48,11,310,3,2,2,About to sleep
-6055,94,18,1305,1,3,4,At risk
-5841,61,21,832,2,4,3,At risk
-3972,70,13,401,2,3,3,At risk
-4394,43,22,1501,3,4,4,Loyal Customer
-5758,23,27,1189,4,4,4,Loyal Customer
-6658,37,25,1194,3,4,4,Loyal Customer
-4603,50,19,656,2,4,3,At risk
-8427,78,22,1540,1,4,4,At risk
-10260,74,12,311,2,2,2,Hibernating
-7143,14,21,820,4,4,3,Loyal Customer
-8789,77,11,274,1,2,2,Hibernating
+6024,62,18,2302,2,3,4,Need attention
+1878,83,5,37,1,1,1,New Customer
+3099,48,11,310,3,2,2,Need attention
+6055,94,18,1305,1,3,4,Potential Loyalist
+5841,61,21,832,2,4,3,Can't lose them
+3972,70,13,401,2,3,3,Need attention
+4394,43,22,1501,3,4,4,Can't lose them
+5758,23,27,1189,4,4,4,Once loyal
+6658,37,25,1194,3,4,4,Can't lose them
+4603,50,19,656,2,4,3,Can't lose them
+8427,78,22,1540,1,4,4,Loyal customer
+10260,74,12,311,2,2,2,Need attention
+7143,14,21,820,4,4,3,Once loyal
+8789,77,11,274,1,2,2,Potential Loyalist
 6197,39,6,57,3,1,1,About to sleep
-4554,89,13,448,1,3,3,At risk
-4937,62,4,44,2,1,1,Hibernating
-1920,59,6,102,2,1,2,Hibernating
-8749,68,4,61,2,1,1,Hibernating
-1650,13,26,1643,4,4,4,Loyal Customer
-10377,37,12,397,3,2,3,About to sleep
-9206,36,24,1121,3,4,4,Loyal Customer
-10971,28,12,473,3,2,3,About to sleep
-6398,2,6,50,4,1,1,Promising
-9212,17,22,1678,4,4,4,Loyal Customer
-7937,86,6,58,1,1,1,Hibernating
-839,54,8,170,2,2,2,Hibernating
-4246,2,2,373,4,1,2,Promising
-158,3,16,1196,4,3,4,Potential Customer
-4832,84,6,101,1,1,2,Hibernating
-5621,8,12,316,4,2,2,Potential Customer
-1945,4,18,1400,4,3,4,Potential Customer
-5147,57,26,1424,2,4,4,At risk
-2535,24,19,844,4,4,3,Loyal Customer
-11039,51,11,311,2,2,2,Hibernating
-9495,29,16,1149,3,3,4,Need Attention
-9635,13,7,129,4,2,2,Potential Customer
-2173,23,4,32,4,1,1,Promising
-942,36,11,299,3,2,2,About to sleep
-9386,88,12,320,1,2,2,Hibernating
-5510,2,13,441,4,3,3,Potential Customer
-873,3,17,1178,4,3,4,Potential Customer
-2253,15,5,85,4,1,2,Promising
-5181,58,3,24,2,1,1,Hibernating
-979,11,6,112,4,1,2,Promising
+4554,89,13,448,1,3,3,Potential Loyalist
+4937,62,4,44,2,1,1,About to sleep
+1920,59,6,102,2,1,2,About to sleep
+8749,68,4,61,2,1,1,About to sleep
+1650,13,26,1643,4,4,4,Once loyal
+10377,37,12,397,3,2,3,Need attention
+9206,36,24,1121,3,4,4,Can't lose them
+10971,28,12,473,3,2,3,Need attention
+6398,2,6,50,4,1,1,Hibernating
+9212,17,22,1678,4,4,4,Once loyal
+7937,86,6,58,1,1,1,New Customer
+839,54,8,170,2,2,2,Need attention
+4246,2,2,373,4,1,2,Hibernating
+158,3,16,1196,4,3,4,Lost customer
+4832,84,6,101,1,1,2,New Customer
+5621,8,12,316,4,2,2,Lost customer
+1945,4,18,1400,4,3,4,Lost customer
+5147,57,26,1424,2,4,4,Can't lose them
+2535,24,19,844,4,4,3,Once loyal
+11039,51,11,311,2,2,2,Need attention
+9495,29,16,1149,3,3,4,Need attention
+9635,13,7,129,4,2,2,Lost customer
+2173,23,4,32,4,1,1,Hibernating
+942,36,11,299,3,2,2,Need attention
+9386,88,12,320,1,2,2,Potential Loyalist
+5510,2,13,441,4,3,3,Lost customer
+873,3,17,1178,4,3,4,Lost customer
+2253,15,5,85,4,1,2,Hibernating
+5181,58,3,24,2,1,1,About to sleep
+979,11,6,112,4,1,2,Hibernating
 10390,27,4,30,3,1,1,About to sleep
-4698,32,14,410,3,3,3,Need Attention
-7793,12,21,800,4,4,3,Loyal Customer
-1745,88,19,1313,1,4,4,At risk
-10590,91,22,1483,1,4,4,At risk
-5080,12,16,1258,4,3,4,Potential Customer
-8369,21,3,28,4,1,1,Promising
-5232,23,10,227,4,2,2,Potential Customer
-2407,10,19,1555,4,4,4,Loyal Customer
-3834,35,21,861,3,4,3,Loyal Customer
-7912,69,6,103,2,1,2,Hibernating
-7712,68,18,634,2,3,3,At risk
-1065,85,18,1918,1,3,4,At risk
-7275,34,7,131,3,2,2,About to sleep
-1343,55,16,586,2,3,3,At risk
-1384,10,5,62,4,1,1,Promising
-9967,30,14,447,3,3,3,Need Attention
-6181,36,26,939,3,4,3,Loyal Customer
-10507,14,11,797,4,2,3,Potential Customer
-2674,79,15,1143,1,3,4,At risk
-2698,52,14,415,2,3,3,At risk
-3231,97,4,30,1,1,1,Hibernating
-4096,24,9,187,4,2,2,Potential Customer
-10476,0,10,251,4,2,2,Potential Customer
-5948,96,10,237,1,2,2,Hibernating
-9140,89,6,91,1,1,2,Hibernating
-10258,94,4,35,1,1,1,Hibernating
-5675,98,16,493,1,3,3,At risk
-4743,72,23,971,2,4,3,At risk
-8805,1,13,371,4,3,2,Potential Customer
-1542,26,14,396,3,3,2,Need Attention
-6770,5,5,68,4,1,1,Promising
-8773,22,12,322,4,2,2,Potential Customer
-10420,56,9,222,2,2,2,Hibernating
-7514,74,8,177,2,2,2,Hibernating
-793,24,5,45,4,1,1,Promising
-10909,9,20,1899,4,4,4,Loyal Customer
-8702,10,4,22,4,1,1,Promising
+4698,32,14,410,3,3,3,Need attention
+7793,12,21,800,4,4,3,Once loyal
+1745,88,19,1313,1,4,4,Loyal customer
+10590,91,22,1483,1,4,4,Loyal customer
+5080,12,16,1258,4,3,4,Lost customer
+8369,21,3,28,4,1,1,Hibernating
+5232,23,10,227,4,2,2,Lost customer
+2407,10,19,1555,4,4,4,Once loyal
+3834,35,21,861,3,4,3,Can't lose them
+7912,69,6,103,2,1,2,About to sleep
+7712,68,18,634,2,3,3,Need attention
+1065,85,18,1918,1,3,4,Potential Loyalist
+7275,34,7,131,3,2,2,Need attention
+1343,55,16,586,2,3,3,Need attention
+1384,10,5,62,4,1,1,Hibernating
+9967,30,14,447,3,3,3,Need attention
+6181,36,26,939,3,4,3,Can't lose them
+10507,14,11,797,4,2,3,Lost customer
+2674,79,15,1143,1,3,4,Potential Loyalist
+2698,52,14,415,2,3,3,Need attention
+3231,97,4,30,1,1,1,New Customer
+4096,24,9,187,4,2,2,Lost customer
+10476,0,10,251,4,2,2,Lost customer
+5948,96,10,237,1,2,2,Potential Loyalist
+9140,89,6,91,1,1,2,New Customer
+10258,94,4,35,1,1,1,New Customer
+5675,98,16,493,1,3,3,Potential Loyalist
+4743,72,23,971,2,4,3,Can't lose them
+8805,1,13,371,4,3,2,Lost customer
+1542,26,14,396,3,3,2,Need attention
+6770,5,5,68,4,1,1,Hibernating
+8773,22,12,322,4,2,2,Lost customer
+10420,56,9,222,2,2,2,Need attention
+7514,74,8,177,2,2,2,Need attention
+793,24,5,45,4,1,1,Hibernating
+10909,9,20,1899,4,4,4,Once loyal
+8702,10,4,22,4,1,1,Hibernating
 4791,35,4,41,3,1,1,About to sleep
-2963,56,20,1440,2,4,4,At risk
-8216,7,11,325,4,2,2,Potential Customer
-8140,51,7,95,2,2,2,Hibernating
-10146,17,4,42,4,1,1,Promising
+2963,56,20,1440,2,4,4,Can't lose them
+8216,7,11,325,4,2,2,Lost customer
+8140,51,7,95,2,2,2,Need attention
+10146,17,4,42,4,1,1,Hibernating
 5289,30,4,72,3,1,2,About to sleep
-2587,21,5,20,4,1,1,Promising
-4405,2,21,789,4,4,3,Loyal Customer
-8663,85,3,15,1,1,1,Hibernating
-2589,65,6,59,2,1,1,Hibernating
-3421,64,21,908,2,4,3,At risk
-10490,11,12,417,4,2,3,Potential Customer
-4094,92,11,289,1,2,2,Hibernating
-9958,54,20,769,2,4,3,At risk
-2534,4,8,188,4,2,2,Potential Customer
-4188,53,11,354,2,2,2,Hibernating
-6613,39,20,727,3,4,3,Loyal Customer
-10827,49,7,146,3,2,2,About to sleep
-5491,70,12,319,2,2,2,Hibernating
-8402,40,20,794,3,4,3,Loyal Customer
-8783,40,15,454,3,3,3,Need Attention
-10010,43,7,152,3,2,2,About to sleep
-618,17,21,797,4,4,3,Loyal Customer
-9121,40,14,1690,3,3,4,Need Attention
-361,84,3,20,1,1,1,Hibernating
-4310,25,20,1428,3,4,4,Loyal Customer
-2678,62,8,209,2,2,2,Hibernating
-6376,83,15,545,1,3,3,At risk
+2587,21,5,20,4,1,1,Hibernating
+4405,2,21,789,4,4,3,Once loyal
+8663,85,3,15,1,1,1,New Customer
+2589,65,6,59,2,1,1,About to sleep
+3421,64,21,908,2,4,3,Can't lose them
+10490,11,12,417,4,2,3,Lost customer
+4094,92,11,289,1,2,2,Potential Loyalist
+9958,54,20,769,2,4,3,Can't lose them
+2534,4,8,188,4,2,2,Lost customer
+4188,53,11,354,2,2,2,Need attention
+6613,39,20,727,3,4,3,Can't lose them
+10827,49,7,146,3,2,2,Need attention
+5491,70,12,319,2,2,2,Need attention
+8402,40,20,794,3,4,3,Can't lose them
+8783,40,15,454,3,3,3,Need attention
+10010,43,7,152,3,2,2,Need attention
+618,17,21,797,4,4,3,Once loyal
+9121,40,14,1690,3,3,4,Need attention
+361,84,3,20,1,1,1,New Customer
+4310,25,20,1428,3,4,4,Can't lose them
+2678,62,8,209,2,2,2,Need attention
+6376,83,15,545,1,3,3,Potential Loyalist
 524,47,5,96,3,1,2,About to sleep
-10341,45,9,222,3,2,2,About to sleep
+10341,45,9,222,3,2,2,Need attention
 5654,34,5,61,3,1,1,About to sleep
-4098,3,6,44,4,1,1,Promising
-5824,1,3,8,4,1,1,Promising
-7000,18,22,817,4,4,3,Loyal Customer
-2561,45,19,1371,3,4,4,Loyal Customer
-5229,81,4,42,1,1,1,Hibernating
-4086,77,4,60,1,1,1,Hibernating
-2428,23,6,78,4,1,2,Promising
+4098,3,6,44,4,1,1,Hibernating
+5824,1,3,8,4,1,1,Hibernating
+7000,18,22,817,4,4,3,Once loyal
+2561,45,19,1371,3,4,4,Can't lose them
+5229,81,4,42,1,1,1,New Customer
+4086,77,4,60,1,1,1,New Customer
+2428,23,6,78,4,1,2,Hibernating
 8254,48,3,23,3,1,1,About to sleep
-2836,61,3,19,2,1,1,Hibernating
-8418,60,5,61,2,1,1,Hibernating
-1362,75,13,449,1,3,3,At risk
-7152,64,4,37,2,1,1,Hibernating
-10033,54,4,38,2,1,1,Hibernating
-9349,84,22,1131,1,4,4,At risk
-274,75,5,34,1,1,1,Hibernating
-3388,16,12,294,4,2,2,Potential Customer
-922,79,4,48,1,1,1,Hibernating
-8588,92,11,289,1,2,2,Hibernating
-2518,16,3,30,4,1,1,Promising
-574,96,6,125,1,1,2,Hibernating
-3220,30,7,156,3,2,2,About to sleep
-5967,60,6,70,2,1,2,Hibernating
-1183,11,3,22,4,1,1,Promising
-6856,75,6,65,1,1,1,Hibernating
-4530,36,20,1930,3,4,4,Loyal Customer
-1553,71,22,2283,2,4,4,At risk
-4682,88,12,310,1,2,2,Hibernating
-8204,93,17,1319,1,3,4,At risk
-5221,93,22,879,1,4,3,At risk
-1232,54,16,1244,2,3,4,At risk
-1927,41,13,690,3,3,3,Need Attention
-5788,46,9,209,3,2,2,About to sleep
-6652,28,16,1134,3,3,4,Need Attention
-6246,40,22,1507,3,4,4,Loyal Customer
-5975,82,5,57,1,1,1,Hibernating
-6875,38,15,529,3,3,3,Need Attention
-4399,3,15,1091,4,3,4,Potential Customer
-4042,87,8,180,1,2,2,Hibernating
+2836,61,3,19,2,1,1,About to sleep
+8418,60,5,61,2,1,1,About to sleep
+1362,75,13,449,1,3,3,Potential Loyalist
+7152,64,4,37,2,1,1,About to sleep
+10033,54,4,38,2,1,1,About to sleep
+9349,84,22,1131,1,4,4,Loyal customer
+274,75,5,34,1,1,1,New Customer
+3388,16,12,294,4,2,2,Lost customer
+922,79,4,48,1,1,1,New Customer
+8588,92,11,289,1,2,2,Potential Loyalist
+2518,16,3,30,4,1,1,Hibernating
+574,96,6,125,1,1,2,New Customer
+3220,30,7,156,3,2,2,Need attention
+5967,60,6,70,2,1,2,About to sleep
+1183,11,3,22,4,1,1,Hibernating
+6856,75,6,65,1,1,1,New Customer
+4530,36,20,1930,3,4,4,Can't lose them
+1553,71,22,2283,2,4,4,Can't lose them
+4682,88,12,310,1,2,2,Potential Loyalist
+8204,93,17,1319,1,3,4,Potential Loyalist
+5221,93,22,879,1,4,3,Loyal customer
+1232,54,16,1244,2,3,4,Need attention
+1927,41,13,690,3,3,3,Need attention
+5788,46,9,209,3,2,2,Need attention
+6652,28,16,1134,3,3,4,Need attention
+6246,40,22,1507,3,4,4,Can't lose them
+5975,82,5,57,1,1,1,New Customer
+6875,38,15,529,3,3,3,Need attention
+4399,3,15,1091,4,3,4,Lost customer
+4042,87,8,180,1,2,2,Potential Loyalist
 2157,49,6,77,3,1,2,About to sleep
-10133,16,25,2349,4,4,4,Loyal Customer
-2525,65,16,534,2,3,3,At risk
-8233,9,17,556,4,3,3,Potential Customer
-9483,24,18,637,4,3,3,Potential Customer
+10133,16,25,2349,4,4,4,Once loyal
+2525,65,16,534,2,3,3,Need attention
+8233,9,17,556,4,3,3,Lost customer
+9483,24,18,637,4,3,3,Lost customer
 2945,25,4,46,3,1,1,About to sleep
 10403,43,6,44,3,1,1,About to sleep
-5074,10,4,47,4,1,1,Promising
-10524,29,18,795,3,3,3,Need Attention
-4690,45,17,586,3,3,3,Need Attention
-7521,57,19,1574,2,4,4,At risk
-7196,20,3,13,4,1,1,Promising
-4406,29,21,1471,3,4,4,Loyal Customer
-9672,82,5,65,1,1,1,Hibernating
-4864,68,8,175,2,2,2,Hibernating
-4706,65,4,40,2,1,1,Hibernating
-4070,99,17,1078,1,3,4,At risk
-25,9,19,1115,4,4,4,Loyal Customer
-3697,20,7,134,4,2,2,Potential Customer
-217,78,22,1540,1,4,4,At risk
+5074,10,4,47,4,1,1,Hibernating
+10524,29,18,795,3,3,3,Need attention
+4690,45,17,586,3,3,3,Need attention
+7521,57,19,1574,2,4,4,Can't lose them
+7196,20,3,13,4,1,1,Hibernating
+4406,29,21,1471,3,4,4,Can't lose them
+9672,82,5,65,1,1,1,New Customer
+4864,68,8,175,2,2,2,Need attention
+4706,65,4,40,2,1,1,About to sleep
+4070,99,17,1078,1,3,4,Potential Loyalist
+25,9,19,1115,4,4,4,Once loyal
+3697,20,7,134,4,2,2,Lost customer
+217,78,22,1540,1,4,4,Loyal customer
 4220,26,6,87,3,1,2,About to sleep
-5286,68,9,217,2,2,2,Hibernating
-9559,79,25,1034,1,4,3,At risk
-2849,25,24,1180,3,4,4,Loyal Customer
-7787,83,20,819,1,4,3,At risk
+5286,68,9,217,2,2,2,Need attention
+9559,79,25,1034,1,4,3,Loyal customer
+2849,25,24,1180,3,4,4,Can't lose them
+7787,83,20,819,1,4,3,Loyal customer
 3102,32,4,32,3,1,1,About to sleep
 5868,49,4,46,3,1,1,About to sleep
-8370,50,16,1159,2,3,4,At risk
-9988,84,22,860,1,4,3,At risk
-2939,96,14,1631,1,3,4,At risk
-5529,56,15,444,2,3,3,At risk
-9743,85,27,1910,1,4,4,At risk
-5763,63,13,380,2,3,2,At risk
-3478,17,20,736,4,4,3,Loyal Customer
-7494,11,11,269,4,2,2,Potential Customer
-1763,62,28,2524,2,4,4,At risk
-7250,48,18,612,3,3,3,Need Attention
-2005,86,6,75,1,1,2,Hibernating
-10770,73,24,1045,2,4,3,At risk
+8370,50,16,1159,2,3,4,Need attention
+9988,84,22,860,1,4,3,Loyal customer
+2939,96,14,1631,1,3,4,Potential Loyalist
+5529,56,15,444,2,3,3,Need attention
+9743,85,27,1910,1,4,4,Loyal customer
+5763,63,13,380,2,3,2,Need attention
+3478,17,20,736,4,4,3,Once loyal
+7494,11,11,269,4,2,2,Lost customer
+1763,62,28,2524,2,4,4,Can't lose them
+7250,48,18,612,3,3,3,Need attention
+2005,86,6,75,1,1,2,New Customer
+10770,73,24,1045,2,4,3,Can't lose them
 6885,36,5,55,3,1,1,About to sleep
-2072,34,15,1064,3,3,4,Need Attention
-9463,16,21,1443,4,4,4,Loyal Customer
-6318,48,29,1366,3,4,4,Loyal Customer
-4093,61,12,436,2,2,3,Hibernating
-5751,54,4,38,2,1,1,Hibernating
-3340,56,14,436,2,3,3,At risk
-3594,74,19,747,2,4,3,At risk
-3584,35,20,1396,3,4,4,Loyal Customer
-3643,65,13,928,2,3,3,At risk
-851,48,17,642,3,3,3,Need Attention
-7706,88,24,1048,1,4,3,At risk
-3967,19,23,943,4,4,3,Loyal Customer
-10128,21,22,907,4,4,3,Loyal Customer
-486,27,17,1198,3,3,4,Need Attention
-9,86,7,120,1,2,2,Hibernating
-9451,92,23,1658,1,4,4,At risk
-9264,1,21,1638,4,4,4,Loyal Customer
-3865,14,6,73,4,1,2,Promising
-2853,74,10,275,2,2,2,Hibernating
-1490,84,21,854,1,4,3,At risk
-6310,4,6,78,4,1,2,Promising
-10380,50,6,106,2,1,2,Hibernating
-3887,2,5,106,4,1,2,Promising
-4278,73,18,1923,2,3,4,At risk
-8643,21,21,1662,4,4,4,Loyal Customer
-1998,82,6,84,1,1,2,Hibernating
-10795,14,5,48,4,1,1,Promising
-11110,56,0,5,2,1,1,Hibernating
-2408,20,20,733,4,4,3,Loyal Customer
-202,54,17,1234,2,3,4,At risk
-7998,77,6,112,1,1,2,Hibernating
-830,5,14,1658,4,3,4,Potential Customer
-3536,65,5,55,2,1,1,Hibernating
-6050,33,22,1513,3,4,4,Loyal Customer
-125,65,11,271,2,2,2,Hibernating
-3463,41,23,904,3,4,3,Loyal Customer
-2804,86,7,120,1,2,2,Hibernating
-3745,92,6,103,1,1,2,Hibernating
-9771,97,11,269,1,2,2,Hibernating
-451,91,4,22,1,1,1,Hibernating
-10530,0,15,1156,4,3,4,Potential Customer
-1079,59,16,1086,2,3,4,At risk
-8920,4,25,1128,4,4,4,Loyal Customer
-6678,5,7,72,4,2,2,Potential Customer
-3852,48,23,964,3,4,3,Loyal Customer
-528,99,19,1383,1,4,4,At risk
-73,81,3,18,1,1,1,Hibernating
-5589,95,21,793,1,4,3,At risk
+2072,34,15,1064,3,3,4,Need attention
+9463,16,21,1443,4,4,4,Once loyal
+6318,48,29,1366,3,4,4,Can't lose them
+4093,61,12,436,2,2,3,Need attention
+5751,54,4,38,2,1,1,About to sleep
+3340,56,14,436,2,3,3,Need attention
+3594,74,19,747,2,4,3,Can't lose them
+3584,35,20,1396,3,4,4,Can't lose them
+3643,65,13,928,2,3,3,Need attention
+851,48,17,642,3,3,3,Need attention
+7706,88,24,1048,1,4,3,Loyal customer
+3967,19,23,943,4,4,3,Once loyal
+10128,21,22,907,4,4,3,Once loyal
+486,27,17,1198,3,3,4,Need attention
+9,86,7,120,1,2,2,Potential Loyalist
+9451,92,23,1658,1,4,4,Loyal customer
+9264,1,21,1638,4,4,4,Once loyal
+3865,14,6,73,4,1,2,Hibernating
+2853,74,10,275,2,2,2,Need attention
+1490,84,21,854,1,4,3,Loyal customer
+6310,4,6,78,4,1,2,Hibernating
+10380,50,6,106,2,1,2,About to sleep
+3887,2,5,106,4,1,2,Hibernating
+4278,73,18,1923,2,3,4,Need attention
+8643,21,21,1662,4,4,4,Once loyal
+1998,82,6,84,1,1,2,New Customer
+10795,14,5,48,4,1,1,Hibernating
+11110,56,0,5,2,1,1,About to sleep
+2408,20,20,733,4,4,3,Once loyal
+202,54,17,1234,2,3,4,Need attention
+7998,77,6,112,1,1,2,New Customer
+830,5,14,1658,4,3,4,Lost customer
+3536,65,5,55,2,1,1,About to sleep
+6050,33,22,1513,3,4,4,Can't lose them
+125,65,11,271,2,2,2,Need attention
+3463,41,23,904,3,4,3,Can't lose them
+2804,86,7,120,1,2,2,Potential Loyalist
+3745,92,6,103,1,1,2,New Customer
+9771,97,11,269,1,2,2,Potential Loyalist
+451,91,4,22,1,1,1,New Customer
+10530,0,15,1156,4,3,4,Lost customer
+1079,59,16,1086,2,3,4,Need attention
+8920,4,25,1128,4,4,4,Once loyal
+6678,5,7,72,4,2,2,Lost customer
+3852,48,23,964,3,4,3,Can't lose them
+528,99,19,1383,1,4,4,Loyal customer
+73,81,3,18,1,1,1,New Customer
+5589,95,21,793,1,4,3,Loyal customer
 10212,43,6,100,3,1,2,About to sleep
-6365,5,5,80,4,1,2,Promising
-5636,50,7,167,2,2,2,Hibernating
-591,76,18,677,1,3,3,At risk
+6365,5,5,80,4,1,2,Hibernating
+5636,50,7,167,2,2,2,Need attention
+591,76,18,677,1,3,3,Potential Loyalist
 2217,46,3,23,3,1,1,About to sleep
-2544,68,6,92,2,1,2,Hibernating
-7725,33,15,641,3,3,3,Need Attention
-8091,50,16,1106,2,3,4,At risk
-7321,85,13,1033,1,3,3,At risk
-5462,63,27,1174,2,4,4,At risk
-7791,89,4,25,1,1,1,Hibernating
-955,81,10,240,1,2,2,Hibernating
-4037,77,3,20,1,1,1,Hibernating
-6642,50,7,102,2,2,2,Hibernating
-2793,10,23,1034,4,4,3,Loyal Customer
-5424,30,7,156,3,2,2,About to sleep
-879,66,15,458,2,3,3,At risk
-9530,16,3,17,4,1,1,Promising
-4828,12,20,792,4,4,3,Loyal Customer
+2544,68,6,92,2,1,2,About to sleep
+7725,33,15,641,3,3,3,Need attention
+8091,50,16,1106,2,3,4,Need attention
+7321,85,13,1033,1,3,3,Potential Loyalist
+5462,63,27,1174,2,4,4,Can't lose them
+7791,89,4,25,1,1,1,New Customer
+955,81,10,240,1,2,2,Potential Loyalist
+4037,77,3,20,1,1,1,New Customer
+6642,50,7,102,2,2,2,Need attention
+2793,10,23,1034,4,4,3,Once loyal
+5424,30,7,156,3,2,2,Need attention
+879,66,15,458,2,3,3,Need attention
+9530,16,3,17,4,1,1,Hibernating
+4828,12,20,792,4,4,3,Once loyal
 10699,30,6,92,3,1,2,About to sleep
-1497,8,14,407,4,3,3,Potential Customer
-7476,93,19,1269,1,4,4,At risk
-4390,14,21,841,4,4,3,Loyal Customer
-10478,53,18,633,2,3,3,At risk
-1081,26,14,1019,3,3,3,Need Attention
-4261,23,25,1315,4,4,4,Loyal Customer
-9916,92,5,54,1,1,1,Hibernating
-5350,29,17,2525,3,3,4,Need Attention
+1497,8,14,407,4,3,3,Lost customer
+7476,93,19,1269,1,4,4,Loyal customer
+4390,14,21,841,4,4,3,Once loyal
+10478,53,18,633,2,3,3,Need attention
+1081,26,14,1019,3,3,3,Need attention
+4261,23,25,1315,4,4,4,Once loyal
+9916,92,5,54,1,1,1,New Customer
+5350,29,17,2525,3,3,4,Need attention
 8135,41,4,52,3,1,1,About to sleep
-8685,56,14,436,2,3,3,At risk
-4967,19,11,268,4,2,2,Potential Customer
-2130,4,7,147,4,2,2,Potential Customer
-9298,89,17,1798,1,3,4,At risk
-8175,71,7,137,2,2,2,Hibernating
-6257,81,16,507,1,3,3,At risk
+8685,56,14,436,2,3,3,Need attention
+4967,19,11,268,4,2,2,Lost customer
+2130,4,7,147,4,2,2,Lost customer
+9298,89,17,1798,1,3,4,Potential Loyalist
+8175,71,7,137,2,2,2,Need attention
+6257,81,16,507,1,3,3,Potential Loyalist
 3790,31,3,15,3,1,1,About to sleep
-9952,53,16,1105,2,3,4,At risk
-3503,78,14,974,1,3,3,At risk
-5223,80,6,66,1,1,1,Hibernating
-4608,18,26,778,4,4,3,Loyal Customer
+9952,53,16,1105,2,3,4,Need attention
+3503,78,14,974,1,3,3,Potential Loyalist
+5223,80,6,66,1,1,1,New Customer
+4608,18,26,778,4,4,3,Once loyal
 1626,37,4,49,3,1,1,About to sleep
-4764,52,8,169,2,2,2,Hibernating
-2471,39,11,299,3,2,2,About to sleep
-5892,11,10,221,4,2,2,Potential Customer
-2612,33,24,1682,3,4,4,Loyal Customer
-4971,22,8,155,4,2,2,Potential Customer
-5185,83,12,892,1,2,3,Hibernating
+4764,52,8,169,2,2,2,Need attention
+2471,39,11,299,3,2,2,Need attention
+5892,11,10,221,4,2,2,Lost customer
+2612,33,24,1682,3,4,4,Can't lose them
+4971,22,8,155,4,2,2,Lost customer
+5185,83,12,892,1,2,3,Potential Loyalist
 10069,43,4,58,3,1,1,About to sleep
-2262,74,12,311,2,2,2,Hibernating
-1131,54,6,95,2,1,2,Hibernating
-1041,3,14,424,4,3,3,Potential Customer
-24,96,7,47,1,2,1,Hibernating
-3409,68,12,339,2,2,2,Hibernating
-7022,2,20,1410,4,4,4,Loyal Customer
+2262,74,12,311,2,2,2,Need attention
+1131,54,6,95,2,1,2,About to sleep
+1041,3,14,424,4,3,3,Lost customer
+24,96,7,47,1,2,1,Potential Loyalist
+3409,68,12,339,2,2,2,Need attention
+7022,2,20,1410,4,4,4,Once loyal
 7943,40,5,35,3,1,1,About to sleep
-5272,64,16,562,2,3,3,At risk
-5453,26,23,2352,3,4,4,Loyal Customer
-2565,69,19,1334,2,4,4,At risk
-800,57,4,32,2,1,1,Hibernating
-11092,78,5,41,1,1,1,Hibernating
-5062,71,4,39,2,1,1,Hibernating
-8969,59,21,1141,2,4,4,At risk
-4656,28,19,710,3,4,3,Loyal Customer
-4480,61,14,401,2,3,3,At risk
-9971,22,16,506,4,3,3,Potential Customer
-6729,95,20,1538,1,4,4,At risk
+5272,64,16,562,2,3,3,Need attention
+5453,26,23,2352,3,4,4,Can't lose them
+2565,69,19,1334,2,4,4,Can't lose them
+800,57,4,32,2,1,1,About to sleep
+11092,78,5,41,1,1,1,New Customer
+5062,71,4,39,2,1,1,About to sleep
+8969,59,21,1141,2,4,4,Can't lose them
+4656,28,19,710,3,4,3,Can't lose them
+4480,61,14,401,2,3,3,Need attention
+9971,22,16,506,4,3,3,Lost customer
+6729,95,20,1538,1,4,4,Loyal customer
 1773,38,5,57,3,1,1,About to sleep
-9242,19,18,1722,4,3,4,Potential Customer
-1764,92,11,270,1,2,2,Hibernating
-6215,24,4,31,4,1,1,Promising
-10099,21,21,882,4,4,3,Loyal Customer
+9242,19,18,1722,4,3,4,Lost customer
+1764,92,11,270,1,2,2,Potential Loyalist
+6215,24,4,31,4,1,1,Hibernating
+10099,21,21,882,4,4,3,Once loyal
 5423,35,3,16,3,1,1,About to sleep
-940,9,12,311,4,2,2,Potential Customer
-3011,23,10,227,4,2,2,Potential Customer
-3298,92,24,1152,1,4,4,At risk
-8286,55,7,122,2,2,2,Hibernating
-9668,14,6,77,4,1,2,Promising
-5120,78,18,1289,1,3,4,At risk
-6097,64,15,561,2,3,3,At risk
-7019,49,9,211,3,2,2,About to sleep
-7408,8,10,233,4,2,2,Potential Customer
-8041,35,15,1092,3,3,4,Need Attention
-252,11,16,601,4,3,3,Potential Customer
-9986,8,7,54,4,2,1,Potential Customer
-3276,53,6,78,2,1,2,Hibernating
-3859,36,25,1095,3,4,4,Loyal Customer
-3570,64,10,244,2,2,2,Hibernating
-3783,43,7,116,3,2,2,About to sleep
+940,9,12,311,4,2,2,Lost customer
+3011,23,10,227,4,2,2,Lost customer
+3298,92,24,1152,1,4,4,Loyal customer
+8286,55,7,122,2,2,2,Need attention
+9668,14,6,77,4,1,2,Hibernating
+5120,78,18,1289,1,3,4,Potential Loyalist
+6097,64,15,561,2,3,3,Need attention
+7019,49,9,211,3,2,2,Need attention
+7408,8,10,233,4,2,2,Lost customer
+8041,35,15,1092,3,3,4,Need attention
+252,11,16,601,4,3,3,Lost customer
+9986,8,7,54,4,2,1,Lost customer
+3276,53,6,78,2,1,2,About to sleep
+3859,36,25,1095,3,4,4,Can't lose them
+3570,64,10,244,2,2,2,Need attention
+3783,43,7,116,3,2,2,Need attention
 10207,40,3,15,3,1,1,About to sleep
-10906,52,14,425,2,3,3,At risk
-3427,11,20,734,4,4,3,Loyal Customer
-5209,21,17,638,4,3,3,Potential Customer
-10711,23,21,894,4,4,3,Loyal Customer
-10785,17,5,41,4,1,1,Promising
-2814,6,4,31,4,1,1,Promising
-6866,56,4,34,2,1,1,Hibernating
-1665,71,13,1750,2,3,4,At risk
-6575,51,17,612,2,3,3,At risk
-3829,94,4,29,1,1,1,Hibernating
-3091,27,20,823,3,4,3,Loyal Customer
-10141,1,3,20,4,1,1,Promising
-5177,56,14,396,2,3,2,At risk
-7005,71,20,813,2,4,3,At risk
-6409,18,19,1179,4,4,4,Loyal Customer
-7485,48,7,138,3,2,2,About to sleep
-8079,86,6,55,1,1,1,Hibernating
-8395,48,21,1511,3,4,4,Loyal Customer
-10352,2,6,117,4,1,2,Promising
-4931,13,28,1730,4,4,4,Loyal Customer
-13,57,4,32,2,1,1,Hibernating
-1834,77,5,67,1,1,1,Hibernating
-2285,0,12,335,4,2,2,Potential Customer
-2295,57,21,825,2,4,3,At risk
-1378,24,17,694,4,3,3,Potential Customer
-2781,55,16,1792,2,3,4,At risk
-1165,62,15,496,2,3,3,At risk
-1404,89,9,231,1,2,2,Hibernating
-6457,77,22,902,1,4,3,At risk
+10906,52,14,425,2,3,3,Need attention
+3427,11,20,734,4,4,3,Once loyal
+5209,21,17,638,4,3,3,Lost customer
+10711,23,21,894,4,4,3,Once loyal
+10785,17,5,41,4,1,1,Hibernating
+2814,6,4,31,4,1,1,Hibernating
+6866,56,4,34,2,1,1,About to sleep
+1665,71,13,1750,2,3,4,Need attention
+6575,51,17,612,2,3,3,Need attention
+3829,94,4,29,1,1,1,New Customer
+3091,27,20,823,3,4,3,Can't lose them
+10141,1,3,20,4,1,1,Hibernating
+5177,56,14,396,2,3,2,Need attention
+7005,71,20,813,2,4,3,Can't lose them
+6409,18,19,1179,4,4,4,Once loyal
+7485,48,7,138,3,2,2,Need attention
+8079,86,6,55,1,1,1,New Customer
+8395,48,21,1511,3,4,4,Can't lose them
+10352,2,6,117,4,1,2,Hibernating
+4931,13,28,1730,4,4,4,Once loyal
+13,57,4,32,2,1,1,About to sleep
+1834,77,5,67,1,1,1,New Customer
+2285,0,12,335,4,2,2,Lost customer
+2295,57,21,825,2,4,3,Can't lose them
+1378,24,17,694,4,3,3,Lost customer
+2781,55,16,1792,2,3,4,Need attention
+1165,62,15,496,2,3,3,Need attention
+1404,89,9,231,1,2,2,Potential Loyalist
+6457,77,22,902,1,4,3,Loyal customer
 2639,45,6,68,3,1,1,About to sleep
 8299,46,5,71,3,1,2,About to sleep
-6437,80,5,76,1,1,2,Hibernating
-6912,60,21,772,2,4,3,At risk
-7327,71,6,47,2,1,1,Hibernating
-5299,43,23,1586,3,4,4,Loyal Customer
-4127,97,32,1529,1,4,4,At risk
-8143,49,11,265,3,2,2,About to sleep
-1964,66,17,1603,2,3,4,At risk
-3690,20,21,2091,4,4,4,Loyal Customer
-3433,54,20,981,2,4,3,At risk
-3389,61,30,1533,2,4,4,At risk
-4712,18,6,82,4,1,2,Promising
-1170,45,10,244,3,2,2,About to sleep
+6437,80,5,76,1,1,2,New Customer
+6912,60,21,772,2,4,3,Can't lose them
+7327,71,6,47,2,1,1,About to sleep
+5299,43,23,1586,3,4,4,Can't lose them
+4127,97,32,1529,1,4,4,Loyal customer
+8143,49,11,265,3,2,2,Need attention
+1964,66,17,1603,2,3,4,Need attention
+3690,20,21,2091,4,4,4,Once loyal
+3433,54,20,981,2,4,3,Can't lose them
+3389,61,30,1533,2,4,4,Can't lose them
+4712,18,6,82,4,1,2,Hibernating
+1170,45,10,244,3,2,2,Need attention
 6347,26,4,36,3,1,1,About to sleep
-4065,0,14,404,4,3,3,Potential Customer
+4065,0,14,404,4,3,3,Lost customer
 8230,28,5,71,3,1,2,About to sleep
-1215,49,22,1572,3,4,4,Loyal Customer
-5939,84,7,122,1,2,2,Hibernating
+1215,49,22,1572,3,4,4,Can't lose them
+5939,84,7,122,1,2,2,Potential Loyalist
 2156,38,6,41,3,1,1,About to sleep
-7788,53,3,10,2,1,1,Hibernating
-10323,88,11,304,1,2,2,Hibernating
-7947,99,4,37,1,1,1,Hibernating
-1891,12,15,1754,4,3,4,Potential Customer
-2570,35,21,815,3,4,3,Loyal Customer
-9256,5,23,1001,4,4,3,Loyal Customer
-295,77,21,1157,1,4,4,At risk
-7397,45,18,688,3,3,3,Need Attention
-6349,71,18,1319,2,3,4,At risk
+7788,53,3,10,2,1,1,About to sleep
+10323,88,11,304,1,2,2,Potential Loyalist
+7947,99,4,37,1,1,1,New Customer
+1891,12,15,1754,4,3,4,Lost customer
+2570,35,21,815,3,4,3,Can't lose them
+9256,5,23,1001,4,4,3,Once loyal
+295,77,21,1157,1,4,4,Loyal customer
+7397,45,18,688,3,3,3,Need attention
+6349,71,18,1319,2,3,4,Need attention
 10790,40,3,21,3,1,1,About to sleep
-10398,82,3,31,1,1,1,Hibernating
-2431,70,5,67,2,1,1,Hibernating
-550,87,19,708,1,4,3,At risk
-1890,95,3,25,1,1,1,Hibernating
-10742,72,11,746,2,2,3,Hibernating
-10356,5,4,32,4,1,1,Promising
-4676,86,23,1695,1,4,4,At risk
-8852,80,23,1080,1,4,4,At risk
-3565,62,6,72,2,1,2,Hibernating
-5294,49,7,57,3,2,1,About to sleep
-1958,85,19,660,1,4,3,At risk
-7349,7,7,103,4,2,2,Potential Customer
-8799,6,8,153,4,2,2,Potential Customer
-1351,25,28,1220,3,4,4,Loyal Customer
-1045,55,11,279,2,2,2,Hibernating
-7732,81,19,745,1,4,3,At risk
-8070,98,11,264,1,2,2,Hibernating
-477,31,21,2157,3,4,4,Loyal Customer
-7832,30,22,1526,3,4,4,Loyal Customer
-2202,98,5,69,1,1,1,Hibernating
-7396,92,25,1597,1,4,4,At risk
+10398,82,3,31,1,1,1,New Customer
+2431,70,5,67,2,1,1,About to sleep
+550,87,19,708,1,4,3,Loyal customer
+1890,95,3,25,1,1,1,New Customer
+10742,72,11,746,2,2,3,Need attention
+10356,5,4,32,4,1,1,Hibernating
+4676,86,23,1695,1,4,4,Loyal customer
+8852,80,23,1080,1,4,4,Loyal customer
+3565,62,6,72,2,1,2,About to sleep
+5294,49,7,57,3,2,1,Need attention
+1958,85,19,660,1,4,3,Loyal customer
+7349,7,7,103,4,2,2,Lost customer
+8799,6,8,153,4,2,2,Lost customer
+1351,25,28,1220,3,4,4,Can't lose them
+1045,55,11,279,2,2,2,Need attention
+7732,81,19,745,1,4,3,Loyal customer
+8070,98,11,264,1,2,2,Potential Loyalist
+477,31,21,2157,3,4,4,Can't lose them
+7832,30,22,1526,3,4,4,Can't lose them
+2202,98,5,69,1,1,1,New Customer
+7396,92,25,1597,1,4,4,Loyal customer
 4055,41,6,64,3,1,1,About to sleep
-10340,68,12,497,2,2,3,Hibernating
-10091,78,15,1067,1,3,4,At risk
+10340,68,12,497,2,2,3,Need attention
+10091,78,15,1067,1,3,4,Potential Loyalist
 7629,46,5,31,3,1,1,About to sleep
-10640,71,9,211,2,2,2,Hibernating
-3498,6,21,877,4,4,3,Loyal Customer
-6742,82,3,11,1,1,1,Hibernating
-1172,71,24,2034,2,4,4,At risk
-569,32,18,1991,3,3,4,Need Attention
-4686,28,24,1686,3,4,4,Loyal Customer
-1381,20,12,324,4,2,2,Potential Customer
-2634,10,6,69,4,1,1,Promising
-10905,7,11,252,4,2,2,Potential Customer
-1744,67,4,54,2,1,1,Hibernating
-1000,48,23,964,3,4,3,Loyal Customer
-3828,61,26,1327,2,4,4,At risk
+10640,71,9,211,2,2,2,Need attention
+3498,6,21,877,4,4,3,Once loyal
+6742,82,3,11,1,1,1,New Customer
+1172,71,24,2034,2,4,4,Can't lose them
+569,32,18,1991,3,3,4,Need attention
+4686,28,24,1686,3,4,4,Can't lose them
+1381,20,12,324,4,2,2,Lost customer
+2634,10,6,69,4,1,1,Hibernating
+10905,7,11,252,4,2,2,Lost customer
+1744,67,4,54,2,1,1,About to sleep
+1000,48,23,964,3,4,3,Can't lose them
+3828,61,26,1327,2,4,4,Can't lose them
 8605,36,5,68,3,1,1,About to sleep
-10304,77,4,60,1,1,1,Hibernating
-4351,90,4,55,1,1,1,Hibernating
-10129,35,20,1456,3,4,4,Loyal Customer
-2499,38,17,563,3,3,3,Need Attention
-10092,46,22,1504,3,4,4,Loyal Customer
-7500,33,17,564,3,3,3,Need Attention
-5796,70,22,1125,2,4,4,At risk
-10556,51,13,358,2,3,2,At risk
-1064,18,4,42,4,1,1,Promising
-48,97,8,184,1,2,2,Hibernating
-7610,32,14,460,3,3,3,Need Attention
-263,9,7,145,4,2,2,Potential Customer
-10814,6,24,1376,4,4,4,Loyal Customer
-9710,80,21,792,1,4,3,At risk
-9292,74,22,1382,2,4,4,At risk
+10304,77,4,60,1,1,1,New Customer
+4351,90,4,55,1,1,1,New Customer
+10129,35,20,1456,3,4,4,Can't lose them
+2499,38,17,563,3,3,3,Need attention
+10092,46,22,1504,3,4,4,Can't lose them
+7500,33,17,564,3,3,3,Need attention
+5796,70,22,1125,2,4,4,Can't lose them
+10556,51,13,358,2,3,2,Need attention
+1064,18,4,42,4,1,1,Hibernating
+48,97,8,184,1,2,2,Potential Loyalist
+7610,32,14,460,3,3,3,Need attention
+263,9,7,145,4,2,2,Lost customer
+10814,6,24,1376,4,4,4,Once loyal
+9710,80,21,792,1,4,3,Loyal customer
+9292,74,22,1382,2,4,4,Can't lose them
 10250,49,3,28,3,1,1,About to sleep
-7881,21,23,1033,4,4,3,Loyal Customer
-5847,95,20,882,1,4,3,At risk
-737,56,13,2231,2,3,4,At risk
-3571,48,16,1101,3,3,4,Need Attention
-7807,26,11,369,3,2,2,About to sleep
-3878,3,4,48,4,1,1,Promising
-5092,39,15,467,3,3,3,Need Attention
+7881,21,23,1033,4,4,3,Once loyal
+5847,95,20,882,1,4,3,Loyal customer
+737,56,13,2231,2,3,4,Need attention
+3571,48,16,1101,3,3,4,Need attention
+7807,26,11,369,3,2,2,Need attention
+3878,3,4,48,4,1,1,Hibernating
+5092,39,15,467,3,3,3,Need attention
 2154,33,5,44,3,1,1,About to sleep
 5394,42,6,38,3,1,1,About to sleep
-3798,80,6,81,1,1,2,Hibernating
-3524,9,8,167,4,2,2,Potential Customer
-5247,52,5,45,2,1,1,Hibernating
-5883,78,18,664,1,3,3,At risk
-2118,68,17,622,2,3,3,At risk
+3798,80,6,81,1,1,2,New Customer
+3524,9,8,167,4,2,2,Lost customer
+5247,52,5,45,2,1,1,About to sleep
+5883,78,18,664,1,3,3,Potential Loyalist
+2118,68,17,622,2,3,3,Need attention
 8812,45,5,48,3,1,1,About to sleep
-6616,47,14,461,3,3,3,Need Attention
-2797,34,25,1073,3,4,4,Loyal Customer
-4328,81,6,55,1,1,1,Hibernating
-9167,72,23,976,2,4,3,At risk
-10560,23,4,20,4,1,1,Promising
-2631,29,16,1149,3,3,4,Need Attention
-8312,80,5,43,1,1,1,Hibernating
-5534,30,8,224,3,2,2,About to sleep
-5093,15,6,101,4,1,2,Promising
-7592,86,9,209,1,2,2,Hibernating
-8895,68,20,968,2,4,3,At risk
-8584,54,16,1165,2,3,4,At risk
+6616,47,14,461,3,3,3,Need attention
+2797,34,25,1073,3,4,4,Can't lose them
+4328,81,6,55,1,1,1,New Customer
+9167,72,23,976,2,4,3,Can't lose them
+10560,23,4,20,4,1,1,Hibernating
+2631,29,16,1149,3,3,4,Need attention
+8312,80,5,43,1,1,1,New Customer
+5534,30,8,224,3,2,2,Need attention
+5093,15,6,101,4,1,2,Hibernating
+7592,86,9,209,1,2,2,Potential Loyalist
+8895,68,20,968,2,4,3,Can't lose them
+8584,54,16,1165,2,3,4,Need attention
 2694,44,4,24,3,1,1,About to sleep
-8910,7,11,252,4,2,2,Potential Customer
-7433,87,8,165,1,2,2,Hibernating
-164,59,11,269,2,2,2,Hibernating
-10477,16,6,102,4,1,2,Promising
-2681,1,18,461,4,3,3,Potential Customer
-5150,64,5,47,2,1,1,Hibernating
-5283,72,7,144,2,2,2,Hibernating
-9645,98,23,1338,1,4,4,At risk
-10678,91,23,917,1,4,3,At risk
-7261,8,12,318,4,2,2,Potential Customer
-9648,20,10,253,4,2,2,Potential Customer
-2870,6,15,502,4,3,3,Potential Customer
-8008,54,6,119,2,1,2,Hibernating
-1513,72,16,1250,2,3,4,At risk
-6173,46,23,969,3,4,3,Loyal Customer
-1419,11,6,76,4,1,2,Promising
-9150,21,5,62,4,1,1,Promising
-7960,89,25,1382,1,4,4,At risk
-1250,82,6,84,1,1,2,Hibernating
-9905,69,9,255,2,2,2,Hibernating
-10691,55,4,43,2,1,1,Hibernating
-7002,13,13,398,4,3,3,Potential Customer
-2952,80,6,76,1,1,2,Hibernating
-8439,97,13,902,1,3,3,At risk
-762,27,20,823,3,4,3,Loyal Customer
-2831,99,24,1179,1,4,4,At risk
-6977,87,28,1921,1,4,4,At risk
-6289,85,8,185,1,2,2,Hibernating
-4168,30,14,433,3,3,3,Need Attention
-8397,82,4,34,1,1,1,Hibernating
-9284,21,22,907,4,4,3,Loyal Customer
-6237,92,25,416,1,4,3,At risk
-3130,95,6,44,1,1,1,Hibernating
-1619,2,16,1588,4,3,4,Potential Customer
-1990,74,16,1797,2,3,4,At risk
+8910,7,11,252,4,2,2,Lost customer
+7433,87,8,165,1,2,2,Potential Loyalist
+164,59,11,269,2,2,2,Need attention
+10477,16,6,102,4,1,2,Hibernating
+2681,1,18,461,4,3,3,Lost customer
+5150,64,5,47,2,1,1,About to sleep
+5283,72,7,144,2,2,2,Need attention
+9645,98,23,1338,1,4,4,Loyal customer
+10678,91,23,917,1,4,3,Loyal customer
+7261,8,12,318,4,2,2,Lost customer
+9648,20,10,253,4,2,2,Lost customer
+2870,6,15,502,4,3,3,Lost customer
+8008,54,6,119,2,1,2,About to sleep
+1513,72,16,1250,2,3,4,Need attention
+6173,46,23,969,3,4,3,Can't lose them
+1419,11,6,76,4,1,2,Hibernating
+9150,21,5,62,4,1,1,Hibernating
+7960,89,25,1382,1,4,4,Loyal customer
+1250,82,6,84,1,1,2,New Customer
+9905,69,9,255,2,2,2,Need attention
+10691,55,4,43,2,1,1,About to sleep
+7002,13,13,398,4,3,3,Lost customer
+2952,80,6,76,1,1,2,New Customer
+8439,97,13,902,1,3,3,Potential Loyalist
+762,27,20,823,3,4,3,Can't lose them
+2831,99,24,1179,1,4,4,Loyal customer
+6977,87,28,1921,1,4,4,Loyal customer
+6289,85,8,185,1,2,2,Potential Loyalist
+4168,30,14,433,3,3,3,Need attention
+8397,82,4,34,1,1,1,New Customer
+9284,21,22,907,4,4,3,Once loyal
+6237,92,25,416,1,4,3,Loyal customer
+3130,95,6,44,1,1,1,New Customer
+1619,2,16,1588,4,3,4,Lost customer
+1990,74,16,1797,2,3,4,Need attention
 5513,49,4,40,3,1,1,About to sleep
-269,71,15,1143,2,3,4,At risk
-8093,72,13,914,2,3,3,At risk
-10513,68,11,1502,2,2,4,Hibernating
-10177,4,17,1338,4,3,4,Potential Customer
-2549,80,4,27,1,1,1,Hibernating
-5782,15,20,763,4,4,3,Loyal Customer
-10057,70,21,1331,2,4,4,At risk
-10307,91,16,525,1,3,3,At risk
-8566,10,3,9,4,1,1,Promising
-2415,99,13,953,1,3,3,At risk
+269,71,15,1143,2,3,4,Need attention
+8093,72,13,914,2,3,3,Need attention
+10513,68,11,1502,2,2,4,Need attention
+10177,4,17,1338,4,3,4,Lost customer
+2549,80,4,27,1,1,1,New Customer
+5782,15,20,763,4,4,3,Once loyal
+10057,70,21,1331,2,4,4,Can't lose them
+10307,91,16,525,1,3,3,Potential Loyalist
+8566,10,3,9,4,1,1,Hibernating
+2415,99,13,953,1,3,3,Potential Loyalist
 5684,25,5,68,3,1,1,About to sleep
-8334,34,7,131,3,2,2,About to sleep
-9166,57,20,882,2,4,3,At risk
-1440,84,23,1149,1,4,4,At risk
-78,51,4,37,2,1,1,Hibernating
-5441,97,13,388,1,3,2,At risk
-5302,13,15,1428,4,3,4,Potential Customer
-4687,92,23,1633,1,4,4,At risk
-1087,30,7,173,3,2,2,About to sleep
-6859,30,7,99,3,2,2,About to sleep
-9860,11,9,215,4,2,2,Potential Customer
-7129,72,23,929,2,4,3,At risk
-5866,39,9,219,3,2,2,About to sleep
-10521,0,8,174,4,2,2,Potential Customer
-7393,15,6,92,4,1,2,Promising
-7849,12,24,1052,4,4,4,Loyal Customer
-332,56,11,275,2,2,2,Hibernating
-9847,39,14,587,3,3,3,Need Attention
-531,55,22,1662,2,4,4,At risk
-9576,60,8,159,2,2,2,Hibernating
-6906,73,17,1024,2,3,3,At risk
-7419,90,5,35,1,1,1,Hibernating
-3170,86,14,1042,1,3,3,At risk
-8527,37,14,395,3,3,2,Need Attention
-7872,7,22,557,4,4,3,Loyal Customer
+8334,34,7,131,3,2,2,Need attention
+9166,57,20,882,2,4,3,Can't lose them
+1440,84,23,1149,1,4,4,Loyal customer
+78,51,4,37,2,1,1,About to sleep
+5441,97,13,388,1,3,2,Potential Loyalist
+5302,13,15,1428,4,3,4,Lost customer
+4687,92,23,1633,1,4,4,Loyal customer
+1087,30,7,173,3,2,2,Need attention
+6859,30,7,99,3,2,2,Need attention
+9860,11,9,215,4,2,2,Lost customer
+7129,72,23,929,2,4,3,Can't lose them
+5866,39,9,219,3,2,2,Need attention
+10521,0,8,174,4,2,2,Lost customer
+7393,15,6,92,4,1,2,Hibernating
+7849,12,24,1052,4,4,4,Once loyal
+332,56,11,275,2,2,2,Need attention
+9847,39,14,587,3,3,3,Need attention
+531,55,22,1662,2,4,4,Can't lose them
+9576,60,8,159,2,2,2,Need attention
+6906,73,17,1024,2,3,3,Need attention
+7419,90,5,35,1,1,1,New Customer
+3170,86,14,1042,1,3,3,Potential Loyalist
+8527,37,14,395,3,3,2,Need attention
+7872,7,22,557,4,4,3,Once loyal
 9931,29,0,9,3,1,1,About to sleep
-10595,19,5,69,4,1,1,Promising
-4609,14,15,486,4,3,3,Potential Customer
-5010,72,4,34,2,1,1,Hibernating
-4427,56,27,1365,2,4,4,At risk
-11148,85,3,13,1,1,1,Hibernating
-1168,62,20,1401,2,4,4,At risk
-9595,1,13,1574,4,3,4,Potential Customer
-10163,28,19,1323,3,4,4,Loyal Customer
-2886,70,28,1217,2,4,4,At risk
-6710,84,6,103,1,1,2,Hibernating
-5316,89,6,84,1,1,2,Hibernating
-9029,73,22,1536,2,4,4,At risk
-521,42,16,581,3,3,3,Need Attention
-1459,16,13,928,4,3,3,Potential Customer
-10241,16,3,14,4,1,1,Promising
-1630,56,14,424,2,3,3,At risk
-3254,65,13,960,2,3,3,At risk
-9064,10,19,1555,4,4,4,Loyal Customer
-3678,13,18,656,4,3,3,Potential Customer
-4227,78,6,55,1,1,1,Hibernating
-9467,51,4,20,2,1,1,Hibernating
-8486,27,13,367,3,3,2,Need Attention
-2186,30,21,2257,3,4,4,Loyal Customer
-3286,71,5,42,2,1,1,Hibernating
-8602,97,24,1049,1,4,4,At risk
-3722,83,5,48,1,1,1,Hibernating
-6715,3,19,685,4,4,3,Loyal Customer
-4796,71,4,39,2,1,1,Hibernating
-9612,3,4,43,4,1,1,Promising
-3766,15,18,835,4,3,3,Potential Customer
-1399,52,19,1515,2,4,4,At risk
-1570,8,24,1039,4,4,3,Loyal Customer
-3426,89,23,1596,1,4,4,At risk
-3074,66,17,1828,2,3,4,At risk
-8341,22,4,34,4,1,1,Promising
-5180,56,8,149,2,2,2,Hibernating
-6461,74,22,946,2,4,3,At risk
+10595,19,5,69,4,1,1,Hibernating
+4609,14,15,486,4,3,3,Lost customer
+5010,72,4,34,2,1,1,About to sleep
+4427,56,27,1365,2,4,4,Can't lose them
+11148,85,3,13,1,1,1,New Customer
+1168,62,20,1401,2,4,4,Can't lose them
+9595,1,13,1574,4,3,4,Lost customer
+10163,28,19,1323,3,4,4,Can't lose them
+2886,70,28,1217,2,4,4,Can't lose them
+6710,84,6,103,1,1,2,New Customer
+5316,89,6,84,1,1,2,New Customer
+9029,73,22,1536,2,4,4,Can't lose them
+521,42,16,581,3,3,3,Need attention
+1459,16,13,928,4,3,3,Lost customer
+10241,16,3,14,4,1,1,Hibernating
+1630,56,14,424,2,3,3,Need attention
+3254,65,13,960,2,3,3,Need attention
+9064,10,19,1555,4,4,4,Once loyal
+3678,13,18,656,4,3,3,Lost customer
+4227,78,6,55,1,1,1,New Customer
+9467,51,4,20,2,1,1,About to sleep
+8486,27,13,367,3,3,2,Need attention
+2186,30,21,2257,3,4,4,Can't lose them
+3286,71,5,42,2,1,1,About to sleep
+8602,97,24,1049,1,4,4,Loyal customer
+3722,83,5,48,1,1,1,New Customer
+6715,3,19,685,4,4,3,Once loyal
+4796,71,4,39,2,1,1,About to sleep
+9612,3,4,43,4,1,1,Hibernating
+3766,15,18,835,4,3,3,Lost customer
+1399,52,19,1515,2,4,4,Can't lose them
+1570,8,24,1039,4,4,3,Once loyal
+3426,89,23,1596,1,4,4,Loyal customer
+3074,66,17,1828,2,3,4,Need attention
+8341,22,4,34,4,1,1,Hibernating
+5180,56,8,149,2,2,2,Need attention
+6461,74,22,946,2,4,3,Can't lose them
 7679,48,5,28,3,1,1,About to sleep
-10702,67,15,450,2,3,3,At risk
-7505,24,4,46,4,1,1,Promising
-5113,67,15,1702,2,3,4,At risk
-10858,38,21,820,3,4,3,Loyal Customer
-2961,86,13,382,1,3,2,At risk
-2747,90,19,2126,1,4,4,At risk
-3010,87,19,2069,1,4,4,At risk
-5790,62,5,72,2,1,2,Hibernating
-6892,23,20,732,4,4,3,Loyal Customer
-1743,99,10,801,1,2,3,Hibernating
-3578,29,10,236,3,2,2,About to sleep
-8462,52,4,80,2,1,2,Hibernating
-5558,90,14,1685,1,3,4,At risk
-4619,9,27,277,4,4,2,Loyal Customer
-8780,71,16,507,2,3,3,At risk
-10789,13,5,68,4,1,1,Promising
-10779,16,4,49,4,1,1,Promising
-5896,94,14,397,1,3,3,At risk
-2337,77,6,39,1,1,1,Hibernating
-10951,20,12,306,4,2,2,Potential Customer
-544,51,13,976,2,3,3,At risk
-17,81,24,1028,1,4,3,At risk
-10680,71,6,70,2,1,2,Hibernating
+10702,67,15,450,2,3,3,Need attention
+7505,24,4,46,4,1,1,Hibernating
+5113,67,15,1702,2,3,4,Need attention
+10858,38,21,820,3,4,3,Can't lose them
+2961,86,13,382,1,3,2,Potential Loyalist
+2747,90,19,2126,1,4,4,Loyal customer
+3010,87,19,2069,1,4,4,Loyal customer
+5790,62,5,72,2,1,2,About to sleep
+6892,23,20,732,4,4,3,Once loyal
+1743,99,10,801,1,2,3,Potential Loyalist
+3578,29,10,236,3,2,2,Need attention
+8462,52,4,80,2,1,2,About to sleep
+5558,90,14,1685,1,3,4,Potential Loyalist
+4619,9,27,277,4,4,2,Once loyal
+8780,71,16,507,2,3,3,Need attention
+10789,13,5,68,4,1,1,Hibernating
+10779,16,4,49,4,1,1,Hibernating
+5896,94,14,397,1,3,3,Potential Loyalist
+2337,77,6,39,1,1,1,New Customer
+10951,20,12,306,4,2,2,Lost customer
+544,51,13,976,2,3,3,Need attention
+17,81,24,1028,1,4,3,Loyal customer
+10680,71,6,70,2,1,2,About to sleep
 3265,36,4,46,3,1,1,About to sleep
-5623,95,4,51,1,1,1,Hibernating
-5832,32,21,1263,3,4,4,Loyal Customer
-5544,32,20,1490,3,4,4,Loyal Customer
-6417,85,23,1564,1,4,4,At risk
-5831,93,15,1815,1,3,4,At risk
-7101,24,25,1198,4,4,4,Loyal Customer
-10176,44,16,416,3,3,3,Need Attention
-2326,15,5,85,4,1,2,Promising
-4385,82,6,47,1,1,1,Hibernating
-2929,27,7,137,3,2,2,About to sleep
-10686,72,3,21,2,1,1,Hibernating
-2546,7,5,70,4,1,2,Promising
-3283,57,20,909,2,4,3,At risk
-3138,84,22,1676,1,4,4,At risk
-4994,53,25,1735,2,4,4,At risk
-7966,48,27,1191,3,4,4,Loyal Customer
-3112,2,4,24,4,1,1,Promising
-10872,65,17,1182,2,3,4,At risk
-2181,45,13,1280,3,3,4,Need Attention
-1867,42,18,1336,3,3,4,Need Attention
-1518,29,19,749,3,4,3,Loyal Customer
-5734,83,6,91,1,1,2,Hibernating
-2878,93,13,414,1,3,3,At risk
+5623,95,4,51,1,1,1,New Customer
+5832,32,21,1263,3,4,4,Can't lose them
+5544,32,20,1490,3,4,4,Can't lose them
+6417,85,23,1564,1,4,4,Loyal customer
+5831,93,15,1815,1,3,4,Potential Loyalist
+7101,24,25,1198,4,4,4,Once loyal
+10176,44,16,416,3,3,3,Need attention
+2326,15,5,85,4,1,2,Hibernating
+4385,82,6,47,1,1,1,New Customer
+2929,27,7,137,3,2,2,Need attention
+10686,72,3,21,2,1,1,About to sleep
+2546,7,5,70,4,1,2,Hibernating
+3283,57,20,909,2,4,3,Can't lose them
+3138,84,22,1676,1,4,4,Loyal customer
+4994,53,25,1735,2,4,4,Can't lose them
+7966,48,27,1191,3,4,4,Can't lose them
+3112,2,4,24,4,1,1,Hibernating
+10872,65,17,1182,2,3,4,Need attention
+2181,45,13,1280,3,3,4,Need attention
+1867,42,18,1336,3,3,4,Need attention
+1518,29,19,749,3,4,3,Can't lose them
+5734,83,6,91,1,1,2,New Customer
+2878,93,13,414,1,3,3,Potential Loyalist
 1458,40,6,44,3,1,1,About to sleep
 7007,47,6,63,3,1,1,About to sleep
-6200,50,21,901,2,4,3,At risk
+6200,50,21,901,2,4,3,Can't lose them
 1403,40,4,38,3,1,1,About to sleep
-4827,3,15,455,4,3,3,Potential Customer
-6250,62,21,775,2,4,3,At risk
+4827,3,15,455,4,3,3,Lost customer
+6250,62,21,775,2,4,3,Can't lose them
 9291,25,3,15,3,1,1,About to sleep
 2478,48,5,38,3,1,1,About to sleep
-1139,56,21,1512,2,4,4,At risk
-5138,68,4,43,2,1,1,Hibernating
-5393,64,4,42,2,1,1,Hibernating
-10413,67,22,1089,2,4,4,At risk
-5015,94,7,162,1,2,2,Hibernating
-10868,82,17,1272,1,3,4,At risk
-10676,3,18,1173,4,3,4,Potential Customer
-2495,24,21,816,4,4,3,Loyal Customer
-7842,54,6,74,2,1,2,Hibernating
-9955,20,7,134,4,2,2,Potential Customer
-6663,96,8,157,1,2,2,Hibernating
-2162,19,16,561,4,3,3,Potential Customer
-3434,60,18,1336,2,3,4,At risk
-7919,2,22,2092,4,4,4,Loyal Customer
-5626,13,15,463,4,3,3,Potential Customer
-6428,37,16,1130,3,3,4,Need Attention
-8514,59,4,20,2,1,1,Hibernating
-10448,55,13,377,2,3,2,At risk
-2109,60,27,1544,2,4,4,At risk
-7530,48,7,138,3,2,2,About to sleep
-8925,38,23,1012,3,4,3,Loyal Customer
-3009,8,14,1766,4,3,4,Potential Customer
-6355,19,6,45,4,1,1,Promising
-3517,32,7,161,3,2,2,About to sleep
-1158,27,7,144,3,2,2,About to sleep
-6203,58,25,1734,2,4,4,At risk
-7165,59,20,823,2,4,3,At risk
-3595,29,26,1138,3,4,4,Loyal Customer
-8537,60,20,1429,2,4,4,At risk
-4331,41,20,1371,3,4,4,Loyal Customer
-6281,27,14,982,3,3,3,Need Attention
+1139,56,21,1512,2,4,4,Can't lose them
+5138,68,4,43,2,1,1,About to sleep
+5393,64,4,42,2,1,1,About to sleep
+10413,67,22,1089,2,4,4,Can't lose them
+5015,94,7,162,1,2,2,Potential Loyalist
+10868,82,17,1272,1,3,4,Potential Loyalist
+10676,3,18,1173,4,3,4,Lost customer
+2495,24,21,816,4,4,3,Once loyal
+7842,54,6,74,2,1,2,About to sleep
+9955,20,7,134,4,2,2,Lost customer
+6663,96,8,157,1,2,2,Potential Loyalist
+2162,19,16,561,4,3,3,Lost customer
+3434,60,18,1336,2,3,4,Need attention
+7919,2,22,2092,4,4,4,Once loyal
+5626,13,15,463,4,3,3,Lost customer
+6428,37,16,1130,3,3,4,Need attention
+8514,59,4,20,2,1,1,About to sleep
+10448,55,13,377,2,3,2,Need attention
+2109,60,27,1544,2,4,4,Can't lose them
+7530,48,7,138,3,2,2,Need attention
+8925,38,23,1012,3,4,3,Can't lose them
+3009,8,14,1766,4,3,4,Lost customer
+6355,19,6,45,4,1,1,Hibernating
+3517,32,7,161,3,2,2,Need attention
+1158,27,7,144,3,2,2,Need attention
+6203,58,25,1734,2,4,4,Can't lose them
+7165,59,20,823,2,4,3,Can't lose them
+3595,29,26,1138,3,4,4,Can't lose them
+8537,60,20,1429,2,4,4,Can't lose them
+4331,41,20,1371,3,4,4,Can't lose them
+6281,27,14,982,3,3,3,Need attention
 4338,28,4,44,3,1,1,About to sleep
-2452,8,12,318,4,2,2,Potential Customer
-9507,18,14,434,4,3,3,Potential Customer
-8360,76,9,198,1,2,2,Hibernating
-10311,0,25,359,4,4,2,Loyal Customer
-5117,32,16,576,3,3,3,Need Attention
-4867,2,7,88,4,2,2,Potential Customer
-9289,16,5,63,4,1,1,Promising
-10913,56,3,27,2,1,1,Hibernating
-3032,97,8,193,1,2,2,Hibernating
-8524,15,6,101,4,1,2,Promising
-3334,35,21,2211,3,4,4,Loyal Customer
-4470,3,7,140,4,2,2,Potential Customer
-1406,49,14,415,3,3,3,Need Attention
-8619,4,3,22,4,1,1,Promising
-10821,45,10,263,3,2,2,About to sleep
-4552,37,11,393,3,2,2,About to sleep
-898,39,7,147,3,2,2,About to sleep
-9797,38,14,443,3,3,3,Need Attention
-10949,8,18,1958,4,3,4,Potential Customer
-8212,89,8,174,1,2,2,Hibernating
-6248,47,27,2217,3,4,4,Loyal Customer
-10164,75,15,1691,1,3,4,At risk
-4547,86,4,25,1,1,1,Hibernating
-6815,4,21,809,4,4,3,Loyal Customer
-4122,73,15,895,2,3,3,At risk
-10841,46,15,484,3,3,3,Need Attention
-5370,38,14,413,3,3,3,Need Attention
-176,73,11,331,2,2,2,Hibernating
-4860,66,4,25,2,1,1,Hibernating
+2452,8,12,318,4,2,2,Lost customer
+9507,18,14,434,4,3,3,Lost customer
+8360,76,9,198,1,2,2,Potential Loyalist
+10311,0,25,359,4,4,2,Once loyal
+5117,32,16,576,3,3,3,Need attention
+4867,2,7,88,4,2,2,Lost customer
+9289,16,5,63,4,1,1,Hibernating
+10913,56,3,27,2,1,1,About to sleep
+3032,97,8,193,1,2,2,Potential Loyalist
+8524,15,6,101,4,1,2,Hibernating
+3334,35,21,2211,3,4,4,Can't lose them
+4470,3,7,140,4,2,2,Lost customer
+1406,49,14,415,3,3,3,Need attention
+8619,4,3,22,4,1,1,Hibernating
+10821,45,10,263,3,2,2,Need attention
+4552,37,11,393,3,2,2,Need attention
+898,39,7,147,3,2,2,Need attention
+9797,38,14,443,3,3,3,Need attention
+10949,8,18,1958,4,3,4,Lost customer
+8212,89,8,174,1,2,2,Potential Loyalist
+6248,47,27,2217,3,4,4,Can't lose them
+10164,75,15,1691,1,3,4,Potential Loyalist
+4547,86,4,25,1,1,1,New Customer
+6815,4,21,809,4,4,3,Once loyal
+4122,73,15,895,2,3,3,Need attention
+10841,46,15,484,3,3,3,Need attention
+5370,38,14,413,3,3,3,Need attention
+176,73,11,331,2,2,2,Need attention
+4860,66,4,25,2,1,1,About to sleep
 10757,36,3,13,3,1,1,About to sleep
-4023,29,7,115,3,2,2,About to sleep
+4023,29,7,115,3,2,2,Need attention
 6679,29,3,16,3,1,1,About to sleep
-9923,6,6,92,4,1,2,Promising
-7181,97,5,52,1,1,1,Hibernating
-3599,61,20,1464,2,4,4,At risk
-405,68,13,441,2,3,3,At risk
-6870,73,11,283,2,2,2,Hibernating
-832,90,20,747,1,4,3,At risk
-2002,81,16,1870,1,3,4,At risk
-3657,1,8,165,4,2,2,Potential Customer
-500,79,23,1941,1,4,4,At risk
-1951,92,21,839,1,4,3,At risk
-3262,31,24,1655,3,4,4,Loyal Customer
+9923,6,6,92,4,1,2,Hibernating
+7181,97,5,52,1,1,1,New Customer
+3599,61,20,1464,2,4,4,Can't lose them
+405,68,13,441,2,3,3,Need attention
+6870,73,11,283,2,2,2,Need attention
+832,90,20,747,1,4,3,Loyal customer
+2002,81,16,1870,1,3,4,Potential Loyalist
+3657,1,8,165,4,2,2,Lost customer
+500,79,23,1941,1,4,4,Loyal customer
+1951,92,21,839,1,4,3,Loyal customer
+3262,31,24,1655,3,4,4,Can't lose them
 4102,46,3,23,3,1,1,About to sleep
-7042,14,5,66,4,1,1,Promising
-10598,89,5,37,1,1,1,Hibernating
+7042,14,5,66,4,1,1,Hibernating
+10598,89,5,37,1,1,1,New Customer
 255,31,4,21,3,1,1,About to sleep
-2375,75,3,22,1,1,1,Hibernating
+2375,75,3,22,1,1,1,New Customer
 9829,42,6,78,3,1,2,About to sleep
-6214,53,5,79,2,1,2,Hibernating
-4954,53,11,265,2,2,2,Hibernating
-7861,23,17,1175,4,3,4,Potential Customer
-4837,57,26,1305,2,4,4,At risk
+6214,53,5,79,2,1,2,About to sleep
+4954,53,11,265,2,2,2,Need attention
+7861,23,17,1175,4,3,4,Lost customer
+4837,57,26,1305,2,4,4,Can't lose them
 9423,49,6,46,3,1,1,About to sleep
-4198,6,3,25,4,1,1,Promising
+4198,6,3,25,4,1,1,Hibernating
 153,29,4,46,3,1,1,About to sleep
-9323,5,22,874,4,4,3,Loyal Customer
-10001,98,6,100,1,1,2,Hibernating
-3945,80,23,930,1,4,3,At risk
-3799,4,20,868,4,4,3,Loyal Customer
-8625,70,6,45,2,1,1,Hibernating
-3491,32,25,1260,3,4,4,Loyal Customer
-983,82,11,414,1,2,3,Hibernating
-9119,27,13,392,3,3,2,Need Attention
-4786,94,25,1109,1,4,4,At risk
-5872,23,18,639,4,3,3,Potential Customer
-6568,97,5,79,1,1,2,Hibernating
-5628,25,23,1665,3,4,4,Loyal Customer
-5631,92,17,692,1,3,3,At risk
-4974,98,19,1392,1,4,4,At risk
-8416,19,5,44,4,1,1,Promising
-5454,80,5,50,1,1,1,Hibernating
-4095,80,13,467,1,3,3,At risk
-5474,79,9,223,1,2,2,Hibernating
-4268,50,8,158,2,2,2,Hibernating
-10701,60,27,1211,2,4,4,At risk
-3507,44,12,1575,3,2,4,About to sleep
-2079,0,21,1208,4,4,4,Loyal Customer
+9323,5,22,874,4,4,3,Once loyal
+10001,98,6,100,1,1,2,New Customer
+3945,80,23,930,1,4,3,Loyal customer
+3799,4,20,868,4,4,3,Once loyal
+8625,70,6,45,2,1,1,About to sleep
+3491,32,25,1260,3,4,4,Can't lose them
+983,82,11,414,1,2,3,Potential Loyalist
+9119,27,13,392,3,3,2,Need attention
+4786,94,25,1109,1,4,4,Loyal customer
+5872,23,18,639,4,3,3,Lost customer
+6568,97,5,79,1,1,2,New Customer
+5628,25,23,1665,3,4,4,Can't lose them
+5631,92,17,692,1,3,3,Potential Loyalist
+4974,98,19,1392,1,4,4,Loyal customer
+8416,19,5,44,4,1,1,Hibernating
+5454,80,5,50,1,1,1,New Customer
+4095,80,13,467,1,3,3,Potential Loyalist
+5474,79,9,223,1,2,2,Potential Loyalist
+4268,50,8,158,2,2,2,Need attention
+10701,60,27,1211,2,4,4,Can't lose them
+3507,44,12,1575,3,2,4,Need attention
+2079,0,21,1208,4,4,4,Once loyal
 626,28,4,43,3,1,1,About to sleep
-4426,35,15,527,3,3,3,Need Attention
-2591,49,13,932,3,3,3,Need Attention
+4426,35,15,527,3,3,3,Need attention
+2591,49,13,932,3,3,3,Need attention
 10509,46,6,71,3,1,2,About to sleep
-6382,97,4,54,1,1,1,Hibernating
-6673,51,6,129,2,1,2,Hibernating
-7441,80,24,1615,1,4,4,At risk
-1071,10,23,1034,4,4,3,Loyal Customer
-10061,29,23,1088,3,4,4,Loyal Customer
-8775,74,7,137,2,2,2,Hibernating
-2345,54,16,1244,2,3,4,At risk
-322,93,5,41,1,1,1,Hibernating
-10897,63,27,1174,2,4,4,At risk
-123,92,13,993,1,3,3,At risk
+6382,97,4,54,1,1,1,New Customer
+6673,51,6,129,2,1,2,About to sleep
+7441,80,24,1615,1,4,4,Loyal customer
+1071,10,23,1034,4,4,3,Once loyal
+10061,29,23,1088,3,4,4,Can't lose them
+8775,74,7,137,2,2,2,Need attention
+2345,54,16,1244,2,3,4,Need attention
+322,93,5,41,1,1,1,New Customer
+10897,63,27,1174,2,4,4,Can't lose them
+123,92,13,993,1,3,3,Potential Loyalist
 6103,40,6,100,3,1,2,About to sleep
-7899,70,15,1680,2,3,4,At risk
-10500,96,7,98,1,2,2,Hibernating
-1655,81,4,48,1,1,1,Hibernating
-2406,63,16,519,2,3,3,At risk
-2712,85,19,715,1,4,3,At risk
-5517,51,4,37,2,1,1,Hibernating
-10643,23,18,653,4,3,3,Potential Customer
-2254,95,20,1455,1,4,4,At risk
-10281,11,17,602,4,3,3,Potential Customer
+7899,70,15,1680,2,3,4,Need attention
+10500,96,7,98,1,2,2,Potential Loyalist
+1655,81,4,48,1,1,1,New Customer
+2406,63,16,519,2,3,3,Need attention
+2712,85,19,715,1,4,3,Loyal customer
+5517,51,4,37,2,1,1,About to sleep
+10643,23,18,653,4,3,3,Lost customer
+2254,95,20,1455,1,4,4,Loyal customer
+10281,11,17,602,4,3,3,Lost customer
 6958,42,4,26,3,1,1,About to sleep
-954,77,6,102,1,1,2,Hibernating
-4643,40,7,176,3,2,2,About to sleep
-6497,32,13,433,3,3,3,Need Attention
-5396,48,29,1366,3,4,4,Loyal Customer
-1052,24,24,1001,4,4,3,Loyal Customer
-2802,61,17,961,2,3,3,At risk
-6343,6,22,1518,4,4,4,Loyal Customer
-6507,16,6,56,4,1,1,Promising
+954,77,6,102,1,1,2,New Customer
+4643,40,7,176,3,2,2,Need attention
+6497,32,13,433,3,3,3,Need attention
+5396,48,29,1366,3,4,4,Can't lose them
+1052,24,24,1001,4,4,3,Once loyal
+2802,61,17,961,2,3,3,Need attention
+6343,6,22,1518,4,4,4,Once loyal
+6507,16,6,56,4,1,1,Hibernating
 7901,39,3,22,3,1,1,About to sleep
-4865,2,14,400,4,3,3,Potential Customer
+4865,2,14,400,4,3,3,Lost customer
 2686,49,3,26,3,1,1,About to sleep
-3107,31,12,350,3,2,2,About to sleep
-7734,58,21,1216,2,4,4,At risk
-1146,5,22,874,4,4,3,Loyal Customer
-11031,90,4,40,1,1,1,Hibernating
-7428,47,18,1367,3,3,4,Need Attention
-975,25,10,264,3,2,2,About to sleep
-1103,60,18,2053,2,3,4,At risk
-3422,67,9,1376,2,2,4,Hibernating
+3107,31,12,350,3,2,2,Need attention
+7734,58,21,1216,2,4,4,Can't lose them
+1146,5,22,874,4,4,3,Once loyal
+11031,90,4,40,1,1,1,New Customer
+7428,47,18,1367,3,3,4,Need attention
+975,25,10,264,3,2,2,Need attention
+1103,60,18,2053,2,3,4,Need attention
+3422,67,9,1376,2,2,4,Need attention
 1055,40,4,45,3,1,1,About to sleep
-6544,63,24,976,2,4,3,At risk
-1241,1,4,51,4,1,1,Promising
-2909,89,18,1264,1,3,4,At risk
+6544,63,24,976,2,4,3,Can't lose them
+1241,1,4,51,4,1,1,Hibernating
+2909,89,18,1264,1,3,4,Potential Loyalist
 5802,40,6,75,3,1,2,About to sleep
-1407,5,5,57,4,1,1,Promising
-6183,3,7,140,4,2,2,Potential Customer
-340,1,17,497,4,3,3,Potential Customer
-5991,24,10,266,4,2,2,Potential Customer
-3104,89,20,2006,1,4,4,At risk
-9729,48,17,615,3,3,3,Need Attention
-1008,31,23,1021,3,4,3,Loyal Customer
-11091,68,4,22,2,1,1,Hibernating
+1407,5,5,57,4,1,1,Hibernating
+6183,3,7,140,4,2,2,Lost customer
+340,1,17,497,4,3,3,Lost customer
+5991,24,10,266,4,2,2,Lost customer
+3104,89,20,2006,1,4,4,Loyal customer
+9729,48,17,615,3,3,3,Need attention
+1008,31,23,1021,3,4,3,Can't lose them
+11091,68,4,22,2,1,1,About to sleep
 3969,46,6,133,3,1,2,About to sleep
-1916,92,14,437,1,3,3,At risk
-9907,80,24,1013,1,4,3,At risk
-87,16,5,57,4,1,1,Promising
-8659,50,25,1038,2,4,3,At risk
-6262,93,21,1573,1,4,4,At risk
-6147,51,3,28,2,1,1,Hibernating
-8832,24,7,123,4,2,2,Potential Customer
-10067,79,3,13,1,1,1,Hibernating
-7532,26,7,132,3,2,2,About to sleep
-4915,86,19,732,1,4,3,At risk
-2115,68,5,66,2,1,1,Hibernating
-2088,98,23,1631,1,4,4,At risk
-2493,34,16,608,3,3,3,Need Attention
-6292,60,17,1822,2,3,4,At risk
-1631,3,19,1282,4,4,4,Loyal Customer
-10104,65,3,8,2,1,1,Hibernating
-3006,83,4,43,1,1,1,Hibernating
-3919,64,19,1931,2,4,4,At risk
-11181,85,0,8,1,1,1,Hibernating
-642,69,5,103,2,1,2,Hibernating
-4369,48,14,1169,3,3,4,Need Attention
-10127,21,14,395,4,3,2,Potential Customer
-271,30,10,258,3,2,2,About to sleep
+1916,92,14,437,1,3,3,Potential Loyalist
+9907,80,24,1013,1,4,3,Loyal customer
+87,16,5,57,4,1,1,Hibernating
+8659,50,25,1038,2,4,3,Can't lose them
+6262,93,21,1573,1,4,4,Loyal customer
+6147,51,3,28,2,1,1,About to sleep
+8832,24,7,123,4,2,2,Lost customer
+10067,79,3,13,1,1,1,New Customer
+7532,26,7,132,3,2,2,Need attention
+4915,86,19,732,1,4,3,Loyal customer
+2115,68,5,66,2,1,1,About to sleep
+2088,98,23,1631,1,4,4,Loyal customer
+2493,34,16,608,3,3,3,Need attention
+6292,60,17,1822,2,3,4,Need attention
+1631,3,19,1282,4,4,4,Once loyal
+10104,65,3,8,2,1,1,About to sleep
+3006,83,4,43,1,1,1,New Customer
+3919,64,19,1931,2,4,4,Can't lose them
+11181,85,0,8,1,1,1,New Customer
+642,69,5,103,2,1,2,About to sleep
+4369,48,14,1169,3,3,4,Need attention
+10127,21,14,395,4,3,2,Lost customer
+271,30,10,258,3,2,2,Need attention
 4973,39,4,25,3,1,1,About to sleep
-2948,76,9,185,1,2,2,Hibernating
-2715,11,7,180,4,2,2,Potential Customer
+2948,76,9,185,1,2,2,Potential Loyalist
+2715,11,7,180,4,2,2,Lost customer
 10432,26,4,22,3,1,1,About to sleep
 9216,34,5,44,3,1,1,About to sleep
-7124,72,7,94,2,2,2,Hibernating
-9727,13,6,81,4,1,2,Promising
-5136,58,21,798,2,4,3,At risk
-9790,12,18,1334,4,3,4,Potential Customer
-1818,23,4,38,4,1,1,Promising
-1100,33,7,61,3,2,1,About to sleep
-7873,30,12,300,3,2,2,About to sleep
-10609,15,6,88,4,1,2,Promising
+7124,72,7,94,2,2,2,Need attention
+9727,13,6,81,4,1,2,Hibernating
+5136,58,21,798,2,4,3,Can't lose them
+9790,12,18,1334,4,3,4,Lost customer
+1818,23,4,38,4,1,1,Hibernating
+1100,33,7,61,3,2,1,Need attention
+7873,30,12,300,3,2,2,Need attention
+10609,15,6,88,4,1,2,Hibernating
 6950,25,5,54,3,1,1,About to sleep
-7233,4,14,1782,4,3,4,Potential Customer
-9481,80,7,68,1,2,1,Hibernating
-7699,30,10,258,3,2,2,About to sleep
-2711,6,4,31,4,1,1,Promising
-8933,16,6,66,4,1,1,Promising
-8726,57,8,174,2,2,2,Hibernating
-1515,9,4,28,4,1,1,Promising
-5186,59,20,731,2,4,3,At risk
-10157,78,11,274,1,2,2,Hibernating
-5667,90,23,1701,1,4,4,At risk
-902,74,12,312,2,2,2,Hibernating
-977,10,14,414,4,3,3,Potential Customer
-7313,63,22,1565,2,4,4,At risk
-7600,13,4,29,4,1,1,Promising
-9706,98,6,94,1,1,2,Hibernating
-2429,4,17,1338,4,3,4,Potential Customer
-3520,94,14,1092,1,3,4,At risk
-10394,91,17,1479,1,3,4,At risk
-4548,66,4,54,2,1,1,Hibernating
-9362,14,17,568,4,3,3,Potential Customer
-3968,77,26,1199,1,4,4,At risk
-4084,41,21,873,3,4,3,Loyal Customer
-6721,21,14,1213,4,3,4,Potential Customer
-2829,25,20,731,3,4,3,Loyal Customer
-1772,2,18,2043,4,3,4,Potential Customer
-1544,51,16,1893,2,3,4,At risk
-492,3,14,424,4,3,3,Potential Customer
-4377,32,13,575,3,3,3,Need Attention
-4541,84,10,257,1,2,2,Hibernating
+7233,4,14,1782,4,3,4,Lost customer
+9481,80,7,68,1,2,1,Potential Loyalist
+7699,30,10,258,3,2,2,Need attention
+2711,6,4,31,4,1,1,Hibernating
+8933,16,6,66,4,1,1,Hibernating
+8726,57,8,174,2,2,2,Need attention
+1515,9,4,28,4,1,1,Hibernating
+5186,59,20,731,2,4,3,Can't lose them
+10157,78,11,274,1,2,2,Potential Loyalist
+5667,90,23,1701,1,4,4,Loyal customer
+902,74,12,312,2,2,2,Need attention
+977,10,14,414,4,3,3,Lost customer
+7313,63,22,1565,2,4,4,Can't lose them
+7600,13,4,29,4,1,1,Hibernating
+9706,98,6,94,1,1,2,New Customer
+2429,4,17,1338,4,3,4,Lost customer
+3520,94,14,1092,1,3,4,Potential Loyalist
+10394,91,17,1479,1,3,4,Potential Loyalist
+4548,66,4,54,2,1,1,About to sleep
+9362,14,17,568,4,3,3,Lost customer
+3968,77,26,1199,1,4,4,Loyal customer
+4084,41,21,873,3,4,3,Can't lose them
+6721,21,14,1213,4,3,4,Lost customer
+2829,25,20,731,3,4,3,Can't lose them
+1772,2,18,2043,4,3,4,Lost customer
+1544,51,16,1893,2,3,4,Need attention
+492,3,14,424,4,3,3,Lost customer
+4377,32,13,575,3,3,3,Need attention
+4541,84,10,257,1,2,2,Potential Loyalist
 1321,49,6,56,3,1,1,About to sleep
-8858,69,17,542,2,3,3,At risk
-3266,96,6,125,1,1,2,Hibernating
-11187,23,6,69,4,1,1,Promising
-8207,18,4,40,4,1,1,Promising
-9723,8,24,1016,4,4,3,Loyal Customer
-2666,21,22,907,4,4,3,Loyal Customer
-5721,60,23,1566,2,4,4,At risk
-10652,48,14,1169,3,3,4,Need Attention
+8858,69,17,542,2,3,3,Need attention
+3266,96,6,125,1,1,2,New Customer
+11187,23,6,69,4,1,1,Hibernating
+8207,18,4,40,4,1,1,Hibernating
+9723,8,24,1016,4,4,3,Once loyal
+2666,21,22,907,4,4,3,Once loyal
+5721,60,23,1566,2,4,4,Can't lose them
+10652,48,14,1169,3,3,4,Need attention
 1646,36,5,46,3,1,1,About to sleep
-4418,36,24,1644,3,4,4,Loyal Customer
-2656,63,4,59,2,1,1,Hibernating
-7990,2,3,17,4,1,1,Promising
-8722,38,24,1853,3,4,4,Loyal Customer
-7118,61,20,1528,2,4,4,At risk
-2980,52,6,35,2,1,1,Hibernating
-1839,25,7,141,3,2,2,About to sleep
-10722,63,15,546,2,3,3,At risk
-2632,10,13,500,4,3,3,Potential Customer
-9014,65,6,61,2,1,1,Hibernating
-7620,71,6,106,2,1,2,Hibernating
-10968,0,22,704,4,4,3,Loyal Customer
-11133,3,14,424,4,3,3,Potential Customer
-2736,88,21,849,1,4,3,At risk
-1876,15,5,85,4,1,2,Promising
-5959,80,9,199,1,2,2,Hibernating
-1092,17,16,1147,4,3,4,Potential Customer
-4333,76,6,54,1,1,1,Hibernating
-3850,52,4,43,2,1,1,Hibernating
+4418,36,24,1644,3,4,4,Can't lose them
+2656,63,4,59,2,1,1,About to sleep
+7990,2,3,17,4,1,1,Hibernating
+8722,38,24,1853,3,4,4,Can't lose them
+7118,61,20,1528,2,4,4,Can't lose them
+2980,52,6,35,2,1,1,About to sleep
+1839,25,7,141,3,2,2,Need attention
+10722,63,15,546,2,3,3,Need attention
+2632,10,13,500,4,3,3,Lost customer
+9014,65,6,61,2,1,1,About to sleep
+7620,71,6,106,2,1,2,About to sleep
+10968,0,22,704,4,4,3,Once loyal
+11133,3,14,424,4,3,3,Lost customer
+2736,88,21,849,1,4,3,Loyal customer
+1876,15,5,85,4,1,2,Hibernating
+5959,80,9,199,1,2,2,Potential Loyalist
+1092,17,16,1147,4,3,4,Lost customer
+4333,76,6,54,1,1,1,New Customer
+3850,52,4,43,2,1,1,About to sleep
 6168,28,4,53,3,1,1,About to sleep
-607,31,16,521,3,3,3,Need Attention
-10469,42,17,1623,3,3,4,Need Attention
-6983,24,5,45,4,1,1,Promising
-3661,42,18,1435,3,3,4,Need Attention
-9303,12,1,32,4,1,1,Promising
-692,88,3,16,1,1,1,Hibernating
-736,67,5,52,2,1,1,Hibernating
-9589,54,17,1234,2,3,4,At risk
+607,31,16,521,3,3,3,Need attention
+10469,42,17,1623,3,3,4,Need attention
+6983,24,5,45,4,1,1,Hibernating
+3661,42,18,1435,3,3,4,Need attention
+9303,12,1,32,4,1,1,Hibernating
+692,88,3,16,1,1,1,New Customer
+736,67,5,52,2,1,1,About to sleep
+9589,54,17,1234,2,3,4,Need attention
 4838,40,3,15,3,1,1,About to sleep
-9246,73,13,415,2,3,3,At risk
-6261,81,15,470,1,3,3,At risk
-7366,12,20,1438,4,4,4,Loyal Customer
-10659,7,7,53,4,2,1,Potential Customer
+9246,73,13,415,2,3,3,Need attention
+6261,81,15,470,1,3,3,Potential Loyalist
+7366,12,20,1438,4,4,4,Once loyal
+10659,7,7,53,4,2,1,Lost customer
 1448,33,6,51,3,1,1,About to sleep
-4286,24,19,679,4,4,3,Loyal Customer
-4749,55,16,586,2,3,3,At risk
-4478,87,18,653,1,3,3,At risk
-4201,39,14,468,3,3,3,Need Attention
-10084,9,5,50,4,1,1,Promising
-7004,82,6,84,1,1,2,Hibernating
-9817,71,25,1049,2,4,4,At risk
-8080,50,3,22,2,1,1,Hibernating
-9432,23,7,62,4,2,1,Potential Customer
-8372,81,3,30,1,1,1,Hibernating
-10870,46,16,1341,3,3,4,Need Attention
-4001,56,15,444,2,3,3,At risk
-7270,91,18,1241,1,3,4,At risk
-8235,8,21,843,4,4,3,Loyal Customer
-9405,40,8,172,3,2,2,About to sleep
+4286,24,19,679,4,4,3,Once loyal
+4749,55,16,586,2,3,3,Need attention
+4478,87,18,653,1,3,3,Potential Loyalist
+4201,39,14,468,3,3,3,Need attention
+10084,9,5,50,4,1,1,Hibernating
+7004,82,6,84,1,1,2,New Customer
+9817,71,25,1049,2,4,4,Can't lose them
+8080,50,3,22,2,1,1,About to sleep
+9432,23,7,62,4,2,1,Lost customer
+8372,81,3,30,1,1,1,New Customer
+10870,46,16,1341,3,3,4,Need attention
+4001,56,15,444,2,3,3,Need attention
+7270,91,18,1241,1,3,4,Potential Loyalist
+8235,8,21,843,4,4,3,Once loyal
+9405,40,8,172,3,2,2,Need attention
