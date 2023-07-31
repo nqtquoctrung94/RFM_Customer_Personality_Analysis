@@ -21,5 +21,5 @@ The project is organized into the following files:
 - Output: `Report.pdf`
 
 # Our team
-- [Thi Phong](https://github.com/Kiddie-1410)
-- [Quoc Trung](https://github.com/nqtquoctrung94)
+- [Phong Pham](https://github.com/Kiddie-1410)
+- [Trung Nguyen](https://github.com/nqtquoctrung94)
